@@ -11,41 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Genetics, Vilnius University, 2016
+* M.S. in Genetics, Vilnius University, 2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2017: Research Intern
+  * [Centre for Addiction and Mental Health](http://www.camh.ca/en/hospital/Pages/home.aspx)
+  * Duties included: Epigenomic data analysis, bioinformatics tool development
+  * Supervisor: Professor Art Petronis, Dr. Juozas Gordevicius
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018 - ongoing: Researcher
+  * [Vilnius University](http://www.gmc.vu.lt/en/)
+  * Duties included: Omics data analysis, 
+  * Supervisor: Professor Art Petronis, Dr. Juozas Gordevicius
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* R
+  * ggplot2
+  * minfi
+  * limma
+* Molecular biology
+  * PCR
+  * Working with cell cultures
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
@@ -56,4 +50,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Advisor for Vilnius iGEM 2017
