@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+![](/images/profile.jpg)
+
 Education
 ======
 * B.S. in Genetics, Vilnius University, 2016
