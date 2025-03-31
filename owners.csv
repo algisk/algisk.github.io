@@ -1,0 +1,4108 @@
+faction,name,fname,members,rank
+0,AGA,,,
+0,AGD,,,
+0,AID,,,
+0,AJC,,,
+0,ALB,,,
+0,AOC,,,
+0,ASD,,,
+0,AYD,,,
+0,BFA,,,
+0,BIE,,,
+0,BMB,,,
+0,BQG,,,
+0,BZB,,,
+0,CCF,,,
+0,CEC,,,
+0,CGA,,,
+0,CLB,,,
+0,CMB,,,
+0,CQC,,,
+0,CQG,,,
+0,CYE,,,
+0,DCF,,,
+0,DDC,,,
+0,DFE,,,
+0,DKB,,,
+0,DMB,,,
+0,DMF,,,
+0,DOG,,,
+0,DPC,,,
+0,DRB,,,
+0,DRC,,,
+0,DSG,,,
+0,DWF,,,
+0,ECF,,,
+0,EDA,,,
+0,EDF,,,
+0,EFD,,,
+0,EGC,,,
+0,EIE,,,
+0,EMF,,,
+0,ENG,,,
+0,EPC,,,
+0,ESG,,,
+0,EVE,,,
+0,FAF,,,
+0,FDA,,,
+0,FJF,,,
+0,FKB,,,
+0,FPC,,,
+0,FSC,,,
+0,FSD,,,
+0,FSG,,,
+0,FVE,,,
+0,FWE,,,
+0,FYB,,,
+0,GAB,,,
+0,GAG,,,
+0,GEF,,,
+0,GFD,,,
+0,GLB,,,
+0,GMC,,,
+0,GNG,,,
+0,GQD,,,
+0,GSC,,,
+0,GTD,,,
+0,HDG,,,
+0,HEE,,,
+0,HIE,,,
+0,HKF,,,
+0,HMC,,,
+0,HNC,,,
+0,HPC,,,
+0,HQC,,,
+0,HXB,,,
+0,HZE,,,
+0,IDG,,,
+0,IHA,,,
+0,IKD,,,
+0,ILF,,,
+0,INB,,,
+0,IWB,,,
+0,IWE,,,
+0,JAE,,,
+0,JAF,,,
+0,JDA,,,
+0,JEA,,,
+0,JEC,,,
+0,JEF,,,
+0,JGE,,,
+0,JHF,,,
+0,JIA,,,
+0,JIE,,,
+0,JPC,,,
+0,JSB,,,
+0,JXB,,,
+0,KAE,,,
+0,KCD,,,
+0,KCF,,,
+0,KDA,,,
+0,KEB,,,
+0,KGD,,,
+0,KGE,,,
+0,KIE,,,
+0,KNB,,,
+0,KPC,,,
+0,KPG,,,
+0,KQC,,,
+0,LDC,,,
+0,LDF,,,
+0,LHC,,,
+0,LHF,,,
+0,LJF,,,
+0,LKD,,,
+0,LNG,,,
+0,LOF,,,
+0,LPC,,,
+0,LPF,,,
+0,LQC,,,
+0,MGE,,,
+0,MHF,,,
+0,MLA,,,
+0,MOD,,,
+0,MOF,,,
+0,MPF,,,
+0,MRC,,,
+0,MTG,,,
+0,MWG,,,
+0,NAD,,,
+0,NCB,,,
+0,NEC,,,
+0,NGB,,,
+0,NJA,,,
+0,NMA,,,
+0,NMB,,,
+0,NPD,,,
+0,NPF,,,
+0,NTE,,,
+0,NVE,,,
+0,OAD,,,
+0,OCB,,,
+0,OFA,,,
+0,OGB,,,
+0,OIC,,,
+0,OKD,,,
+0,OPE,,,
+0,OPF,,,
+0,OQB,,,
+0,OQC,,,
+0,ORB,,,
+0,OUD,,,
+0,OXB,,,
+0,PCB,,,
+0,POE,,,
+0,PPF,,,
+0,PQC,,,
+0,PSC,,,
+0,PTE,,,
+0,PYE,,,
+0,QCB,,,
+0,QFC,,,
+0,QGB,,,
+0,QGD,,,
+0,QIE,,,
+0,QQC,,,
+0,QRG,,,
+0,QVE,,,
+0,RCB,,,
+0,RDD,,,
+0,RGD,,,
+0,RND,,,
+0,RQC,,,
+0,RRG,,,
+0,RZB,,,
+0,SCB,,,
+0,SCF,,,
+0,SFD,,,
+0,SQC,,,
+0,SRB,,,
+0,SRG,,,
+0,STD,,,
+0,SUB,,,
+0,TED,,,
+0,TFD,,,
+0,TFE,,,
+0,TGA,,,
+0,TRE,,,
+0,TRG,,,
+0,UCD,,,
+0,UDF,,,
+0,UGA,,,
+0,UHC,,,
+0,UHD,,,
+0,UIE,,,
+0,UJD,,,
+0,ULB,,,
+0,URB,,,
+0,URG,,,
+0,UZD,,,
+0,VHC,,,
+0,VIE,,,
+0,VKB,,,
+0,VNC,,,
+0,VOD,,,
+0,VRG,,,
+0,WBA,,,
+0,WDF,,,
+0,WRG,,,
+0,WVE,,,
+0,WZE,,,
+0,XAD,,,
+0,XDF,,,
+0,XQC,,,
+0,XRE,,,
+0,XRG,,,
+0,XXB,,,
+0,XYC,,,
+0,YDD,,,
+0,YEF,,,
+0,YFD,,,
+0,YGC,,,
+0,YME,,,
+0,YNC,,,
+0,YPF,,,
+0,YRE,,,
+0,YRG,,,
+0,YSD,,,
+0,YZB,,,
+0,ZDF,,,
+0,ZFA,,,
+0,ZGD,,,
+0,ZLB,,,
+0,ZPC,,,
+0,ZPD,,,
+0,ZPF,,,
+0,ZRG,,,
+0,ZVE,,,
+19,AHC,39th Street Killers,91,Diamond
+19,CGE,39th Street Killers,91,Diamond
+19,ESD,39th Street Killers,91,Diamond
+19,FND,39th Street Killers,91,Diamond
+19,GRD,39th Street Killers,91,Diamond
+19,HSD,39th Street Killers,91,Diamond
+19,IME,39th Street Killers,91,Diamond
+19,JME,39th Street Killers,91,Diamond
+19,LMC,39th Street Killers,91,Diamond
+19,PTD,39th Street Killers,91,Diamond
+19,RKC,39th Street Killers,91,Diamond
+19,UGE,39th Street Killers,91,Diamond
+19,VJE,39th Street Killers,91,Diamond
+19,WGE,39th Street Killers,91,Diamond
+19,XLC,39th Street Killers,91,Diamond
+19,XRD,39th Street Killers,91,Diamond
+19,YQD,39th Street Killers,91,Diamond
+89,BOE,Catalysis,96,Diamond
+89,CBD,Catalysis,96,Diamond
+89,COE,Catalysis,96,Diamond
+89,EDE,Catalysis,96,Diamond
+89,FDE,Catalysis,96,Diamond
+89,FWD,Catalysis,96,Diamond
+89,GDE,Catalysis,96,Diamond
+89,GWD,Catalysis,96,Diamond
+89,HOF,Catalysis,96,Diamond
+89,IED,Catalysis,96,Diamond
+89,IOF,Catalysis,96,Diamond
+89,LDE,Catalysis,96,Diamond
+89,NXD,Catalysis,96,Diamond
+89,QJD,Catalysis,96,Diamond
+89,RID,Catalysis,96,Diamond
+89,SHD,Catalysis,96,Diamond
+89,YVD,Catalysis,96,Diamond
+95,AZG,MORTAL LEGENDS,97,Unranked
+95,BZG,MORTAL LEGENDS,97,Unranked
+95,JZG,MORTAL LEGENDS,97,Unranked
+95,KZG,MORTAL LEGENDS,97,Unranked
+95,MZG,MORTAL LEGENDS,97,Unranked
+95,OAG,MORTAL LEGENDS,97,Unranked
+95,PAG,MORTAL LEGENDS,97,Unranked
+95,RAG,MORTAL LEGENDS,97,Unranked
+95,SZG,MORTAL LEGENDS,97,Unranked
+95,TZG,MORTAL LEGENDS,97,Unranked
+95,UAG,MORTAL LEGENDS,97,Unranked
+95,UZG,MORTAL LEGENDS,97,Unranked
+95,VAG,MORTAL LEGENDS,97,Unranked
+95,WAG,MORTAL LEGENDS,97,Unranked
+95,YZG,MORTAL LEGENDS,97,Unranked
+95,ZZG,MORTAL LEGENDS,97,Unranked
+230,AKD,PT-Family,91,Diamond
+230,BJD,PT-Family,91,Diamond
+230,FJD,PT-Family,91,Diamond
+230,HID,PT-Family,91,Diamond
+230,HJD,PT-Family,91,Diamond
+230,JHD,PT-Family,91,Diamond
+230,JKD,PT-Family,91,Diamond
+230,KKD,PT-Family,91,Diamond
+230,LHD,PT-Family,91,Diamond
+230,LJD,PT-Family,91,Diamond
+230,QKD,PT-Family,91,Diamond
+230,SJD,PT-Family,91,Diamond
+230,TLD,PT-Family,91,Diamond
+230,ULD,PT-Family,91,Diamond
+230,WID,PT-Family,91,Diamond
+230,ZJD,PT-Family,91,Diamond
+231,BZE,Destructive Anomaly,92,Diamond
+231,CZD,Destructive Anomaly,92,Diamond
+231,CZE,Destructive Anomaly,92,Diamond
+231,DPD,Destructive Anomaly,92,Diamond
+231,DZE,Destructive Anomaly,92,Diamond
+231,EZE,Destructive Anomaly,92,Diamond
+231,FAD,Destructive Anomaly,92,Diamond
+231,GAD,Destructive Anomaly,92,Diamond
+231,HOD,Destructive Anomaly,92,Diamond
+231,JJE,Destructive Anomaly,92,Diamond
+231,KBD,Destructive Anomaly,92,Diamond
+231,KJE,Destructive Anomaly,92,Diamond
+231,MYD,Destructive Anomaly,92,Diamond
+231,OKE,Destructive Anomaly,92,Diamond
+231,PKE,Destructive Anomaly,92,Diamond
+231,SRD,Destructive Anomaly,92,Diamond
+231,YUD,Destructive Anomaly,92,Diamond
+366,BEF,Evolution,97,Diamond
+366,BVE,Evolution,97,Diamond
+366,CEF,Evolution,97,Diamond
+366,CVE,Evolution,97,Diamond
+366,HCD,Evolution,97,Diamond
+366,IXD,Evolution,97,Diamond
+366,JBD,Evolution,97,Diamond
+366,LIE,Evolution,97,Diamond
+366,MEF,Evolution,97,Diamond
+366,NJE,Evolution,97,Diamond
+366,OGE,Evolution,97,Diamond
+366,QBD,Evolution,97,Diamond
+366,QZD,Evolution,97,Diamond
+366,RZD,Evolution,97,Diamond
+366,XEF,Evolution,97,Diamond
+366,YCD,Evolution,97,Diamond
+366,ZEF,Evolution,97,Diamond
+478,CKE,PT-ShadowRazers,90,Diamond
+478,EXD,PT-ShadowRazers,90,Diamond
+478,JKE,PT-ShadowRazers,90,Diamond
+478,JYD,PT-ShadowRazers,90,Diamond
+478,LED,PT-ShadowRazers,90,Diamond
+478,LKE,PT-ShadowRazers,90,Diamond
+478,MDD,PT-ShadowRazers,90,Diamond
+478,MKE,PT-ShadowRazers,90,Diamond
+478,MXD,PT-ShadowRazers,90,Diamond
+478,NED,PT-ShadowRazers,90,Diamond
+478,NLE,PT-ShadowRazers,90,Diamond
+478,OLE,PT-ShadowRazers,90,Diamond
+478,PLE,PT-ShadowRazers,90,Diamond
+478,RXD,PT-ShadowRazers,90,Diamond
+478,VOE,PT-ShadowRazers,90,Diamond
+525,AGG,Ministry of Mayhem,90,Platinum
+525,CGG,Ministry of Mayhem,90,Platinum
+525,FGG,Ministry of Mayhem,90,Platinum
+525,FRF,Ministry of Mayhem,90,Platinum
+525,GRF,Ministry of Mayhem,90,Platinum
+525,HRF,Ministry of Mayhem,90,Platinum
+525,IGG,Ministry of Mayhem,90,Platinum
+525,IRF,Ministry of Mayhem,90,Platinum
+525,JRF,Ministry of Mayhem,90,Platinum
+525,KGG,Ministry of Mayhem,90,Platinum
+525,MGG,Ministry of Mayhem,90,Platinum
+525,MRF,Ministry of Mayhem,90,Platinum
+525,QRF,Ministry of Mayhem,90,Platinum
+525,SRF,Ministry of Mayhem,90,Platinum
+937,BXG,Sport Club,101,Platinum
+937,EKD,Sport Club,101,Platinum
+937,FXG,Sport Club,101,Platinum
+937,FYG,Sport Club,101,Platinum
+937,GLD,Sport Club,101,Platinum
+937,GOF,Sport Club,101,Platinum
+937,GXG,Sport Club,101,Platinum
+937,HXG,Sport Club,101,Platinum
+937,LLD,Sport Club,101,Platinum
+937,OJD,Sport Club,101,Platinum
+937,RZG,Sport Club,101,Platinum
+937,TCE,Sport Club,101,Platinum
+937,UCE,Sport Club,101,Platinum
+937,VID,Sport Club,101,Platinum
+937,WUG,Sport Club,101,Platinum
+937,YMD,Sport Club,101,Platinum
+937,ZMD,Sport Club,101,Platinum
+946,EOD,PT-IronHearts,99,Platinum
+946,JLC,PT-IronHearts,99,Platinum
+946,KMC,PT-IronHearts,99,Platinum
+946,NKC,PT-IronHearts,99,Platinum
+946,NND,PT-IronHearts,99,Platinum
+946,OQD,PT-IronHearts,99,Platinum
+946,OSD,PT-IronHearts,99,Platinum
+946,QPD,PT-IronHearts,99,Platinum
+946,RLC,PT-IronHearts,99,Platinum
+946,SLC,PT-IronHearts,99,Platinum
+946,TBE,PT-IronHearts,99,Platinum
+946,TKC,PT-IronHearts,99,Platinum
+946,UBE,PT-IronHearts,99,Platinum
+946,UQD,PT-IronHearts,99,Platinum
+946,YJC,PT-IronHearts,99,Platinum
+1117,KRF,Ascension,51,Platinum
+1117,LRF,Ascension,51,Platinum
+1117,NSF,Ascension,51,Platinum
+1117,OSF,Ascension,51,Platinum
+1117,PSF,Ascension,51,Platinum
+1117,QSF,Ascension,51,Platinum
+1117,RSF,Ascension,51,Platinum
+1117,TSF,Ascension,51,Platinum
+1117,USF,Ascension,51,Platinum
+1117,VSF,Ascension,51,Platinum
+1117,WSF,Ascension,51,Platinum
+1117,XSF,Ascension,51,Platinum
+1117,YSF,Ascension,51,Platinum
+1117,ZSF,Ascension,51,Platinum
+1149,BMC,WTF,97,Diamond
+1149,DJC,WTF,97,Diamond
+1149,DMC,WTF,97,Diamond
+1149,END,WTF,97,Diamond
+1149,HJC,WTF,97,Diamond
+1149,HJE,WTF,97,Diamond
+1149,IJE,WTF,97,Diamond
+1149,IPD,WTF,97,Diamond
+1149,IVE,WTF,97,Diamond
+1149,JMC,WTF,97,Diamond
+1149,LKC,WTF,97,Diamond
+1149,MKC,WTF,97,Diamond
+1149,MLC,WTF,97,Diamond
+1149,NLC,WTF,97,Diamond
+1149,PLC,WTF,97,Diamond
+1149,QOD,WTF,97,Diamond
+1149,YKC,WTF,97,Diamond
+2013,BJC,Subversive  Alliance,100,Diamond
+2013,BSD,Subversive  Alliance,100,Diamond
+2013,BTE,Subversive  Alliance,100,Diamond
+2013,CAE,Subversive  Alliance,100,Diamond
+2013,CTE,Subversive  Alliance,100,Diamond
+2013,FLC,Subversive  Alliance,100,Diamond
+2013,JOD,Subversive  Alliance,100,Diamond
+2013,MMC,Subversive  Alliance,100,Diamond
+2013,PKC,Subversive  Alliance,100,Diamond
+2013,SMC,Subversive  Alliance,100,Diamond
+2013,SOE,Subversive  Alliance,100,Diamond
+2013,TMC,Subversive  Alliance,100,Diamond
+2013,XTE,Subversive  Alliance,100,Diamond
+2013,YTE,Subversive  Alliance,100,Diamond
+2013,ZKC,Subversive  Alliance,100,Diamond
+2013,ZMC,Subversive  Alliance,100,Diamond
+2013,ZTE,Subversive  Alliance,100,Diamond
+2095,DTD,SMTH - Healing Pulse,69,Silver
+2095,JBF,SMTH - Healing Pulse,69,Silver
+2095,MMF,SMTH - Healing Pulse,69,Silver
+2095,MNG,SMTH - Healing Pulse,69,Silver
+2095,NDE,SMTH - Healing Pulse,69,Silver
+2095,NNG,SMTH - Healing Pulse,69,Silver
+2095,NOG,SMTH - Healing Pulse,69,Silver
+2095,OOG,SMTH - Healing Pulse,69,Silver
+2095,QEE,SMTH - Healing Pulse,69,Silver
+2095,QOE,SMTH - Healing Pulse,69,Silver
+2095,REE,SMTH - Healing Pulse,69,Silver
+2095,SEE,SMTH - Healing Pulse,69,Silver
+2095,TEE,SMTH - Healing Pulse,69,Silver
+2095,UEE,SMTH - Healing Pulse,69,Silver
+2095,VEE,SMTH - Healing Pulse,69,Silver
+2095,VRE,SMTH - Healing Pulse,69,Silver
+2095,WEE,SMTH - Healing Pulse,69,Silver
+2736,AVF,Itsi Bitsi Bikini,95,Platinum
+2736,CVF,Itsi Bitsi Bikini,95,Platinum
+2736,DYF,Itsi Bitsi Bikini,95,Platinum
+2736,HNF,Itsi Bitsi Bikini,95,Platinum
+2736,INF,Itsi Bitsi Bikini,95,Platinum
+2736,JNF,Itsi Bitsi Bikini,95,Platinum
+2736,KNF,Itsi Bitsi Bikini,95,Platinum
+2736,LNF,Itsi Bitsi Bikini,95,Platinum
+2736,MNF,Itsi Bitsi Bikini,95,Platinum
+2736,NOF,Itsi Bitsi Bikini,95,Platinum
+2736,OOF,Itsi Bitsi Bikini,95,Platinum
+2736,RVF,Itsi Bitsi Bikini,95,Platinum
+2736,SVF,Itsi Bitsi Bikini,95,Platinum
+2736,TVF,Itsi Bitsi Bikini,95,Platinum
+2736,UVF,Itsi Bitsi Bikini,95,Platinum
+2736,VVF,Itsi Bitsi Bikini,95,Platinum
+3241,AUF,JFK,80,Diamond
+3241,BUF,JFK,80,Diamond
+3241,CUF,JFK,80,Diamond
+3241,DUF,JFK,80,Diamond
+3241,KQE,JFK,80,Diamond
+3241,LQE,JFK,80,Diamond
+3241,PRE,JFK,80,Diamond
+3241,QRE,JFK,80,Diamond
+3241,QXC,JFK,80,Diamond
+3241,SUF,JFK,80,Diamond
+3241,TUF,JFK,80,Diamond
+3241,UUF,JFK,80,Diamond
+3241,VUF,JFK,80,Diamond
+3241,WUF,JFK,80,Diamond
+3241,XUF,JFK,80,Diamond
+3241,YUF,JFK,80,Diamond
+3241,ZUF,JFK,80,Diamond
+5431,ARE,[Redacted],59,Platinum
+5431,DAE,[Redacted],59,Platinum
+5431,EZD,[Redacted],59,Platinum
+5431,FZD,[Redacted],59,Platinum
+5431,GCD,[Redacted],59,Platinum
+5431,GYD,[Redacted],59,Platinum
+5431,HBD,[Redacted],59,Platinum
+5431,IWD,[Redacted],59,Platinum
+5431,RBD,[Redacted],59,Platinum
+5431,UBD,[Redacted],59,Platinum
+5431,WDD,[Redacted],59,Platinum
+5431,WXD,[Redacted],59,Platinum
+5431,WYD,[Redacted],59,Platinum
+5431,XBE,[Redacted],59,Platinum
+5431,YBE,[Redacted],59,Platinum
+5431,ZCD,[Redacted],59,Platinum
+5431,ZXD,[Redacted],59,Platinum
+6731,AKE,The Next Level,95,Diamond
+6731,BKE,The Next Level,95,Diamond
+6731,MRD,The Next Level,95,Diamond
+6731,QKE,The Next Level,95,Diamond
+6731,RAE,The Next Level,95,Diamond
+6731,RKE,The Next Level,95,Diamond
+6731,SAE,The Next Level,95,Diamond
+6731,SKE,The Next Level,95,Diamond
+6731,TAE,The Next Level,95,Diamond
+6731,TWD,The Next Level,95,Diamond
+6731,VXD,The Next Level,95,Diamond
+6731,WOE,The Next Level,95,Diamond
+6731,WZD,The Next Level,95,Diamond
+6731,XOE,The Next Level,95,Diamond
+6731,YKE,The Next Level,95,Diamond
+6731,ZKE,The Next Level,95,Diamond
+6834,AXC,TBA - Rise Above,79,Gold
+6895,ATB,Iron Rose Cartel,74,Gold
+6895,BTB,Iron Rose Cartel,74,Gold
+6895,CUB,Iron Rose Cartel,74,Gold
+6895,DUB,Iron Rose Cartel,74,Gold
+6895,FUB,Iron Rose Cartel,74,Gold
+6895,GUB,Iron Rose Cartel,74,Gold
+6895,IAA,Iron Rose Cartel,74,Gold
+6895,JAA,Iron Rose Cartel,74,Gold
+6895,UUB,Iron Rose Cartel,74,Gold
+6895,VUB,Iron Rose Cartel,74,Gold
+6895,YTB,Iron Rose Cartel,74,Gold
+6895,ZTB,Iron Rose Cartel,74,Gold
+6924,ANE,JFR,92,Unranked
+6924,CRF,JFR,92,Unranked
+6924,ERF,JFR,92,Unranked
+6924,HXC,JFR,92,Unranked
+6924,IXC,JFR,92,Unranked
+6924,JXC,JFR,92,Unranked
+6924,KRE,JFR,92,Unranked
+6924,KXC,JFR,92,Unranked
+6924,LWC,JFR,92,Unranked
+6924,LXC,JFR,92,Unranked
+6924,MXC,JFR,92,Unranked
+6924,OXC,JFR,92,Unranked
+6924,PXC,JFR,92,Unranked
+6924,RRF,JFR,92,Unranked
+6924,SXC,JFR,92,Unranked
+6924,TRF,JFR,92,Unranked
+6924,WRF,JFR,92,Unranked
+6974,ARC,Onion Smugglers,98,Platinum
+6974,BAG,Onion Smugglers,98,Platinum
+6974,BBG,Onion Smugglers,98,Platinum
+6974,CAG,Onion Smugglers,98,Platinum
+6974,DWG,Onion Smugglers,98,Platinum
+6974,HTG,Onion Smugglers,98,Platinum
+6974,JTG,Onion Smugglers,98,Platinum
+6974,PNE,Onion Smugglers,98,Platinum
+6974,RNE,Onion Smugglers,98,Platinum
+6974,UNE,Onion Smugglers,98,Platinum
+6974,VBG,Onion Smugglers,98,Platinum
+6974,VNE,Onion Smugglers,98,Platinum
+6974,WBG,Onion Smugglers,98,Platinum
+6974,XBG,Onion Smugglers,98,Platinum
+6974,YRC,Onion Smugglers,98,Platinum
+6974,ZRC,Onion Smugglers,98,Platinum
+6984,AXB,Wraith,96,Bronze
+6984,BXB,Wraith,96,Bronze
+6984,CXB,Wraith,96,Bronze
+6984,DXB,Wraith,96,Bronze
+6984,EXB,Wraith,96,Bronze
+6984,FXB,Wraith,96,Bronze
+6984,HHA,Wraith,96,Bronze
+6984,IPG,Wraith,96,Bronze
+6984,JLF,Wraith,96,Bronze
+6984,LPG,Wraith,96,Bronze
+6984,MWB,Wraith,96,Bronze
+6984,NIA,Wraith,96,Bronze
+6984,NYB,Wraith,96,Bronze
+6984,PKF,Wraith,96,Bronze
+6984,QXB,Wraith,96,Bronze
+6984,RXB,Wraith,96,Bronze
+6984,WXB,Wraith,96,Bronze
+7049,AXD,39th Street Healers,96,Platinum
+7049,FTD,39th Street Healers,96,Platinum
+7049,NVD,39th Street Healers,96,Platinum
+7049,OXD,39th Street Healers,96,Platinum
+7049,PAE,39th Street Healers,96,Platinum
+7049,PYD,39th Street Healers,96,Platinum
+7049,QAE,39th Street Healers,96,Platinum
+7049,TKE,39th Street Healers,96,Platinum
+7049,UAE,39th Street Healers,96,Platinum
+7049,UKE,39th Street Healers,96,Platinum
+7049,VAE,39th Street Healers,96,Platinum
+7049,VKE,39th Street Healers,96,Platinum
+7049,VUD,39th Street Healers,96,Platinum
+7049,WKE,39th Street Healers,96,Platinum
+7049,WUD,39th Street Healers,96,Platinum
+7049,XKE,39th Street Healers,96,Platinum
+7049,ZVD,39th Street Healers,96,Platinum
+7093,ABB,Halos,55,Silver
+7093,ABF,Halos,55,Silver
+7093,ACB,Halos,55,Silver
+7093,BBF,Halos,55,Silver
+7093,DBB,Halos,55,Silver
+7093,KBF,Halos,55,Silver
+7093,KMF,Halos,55,Silver
+7093,NKF,Halos,55,Silver
+7093,PDB,Halos,55,Silver
+7093,QDB,Halos,55,Silver
+7093,RTG,Halos,55,Silver
+7093,UBB,Halos,55,Silver
+7093,VBB,Halos,55,Silver
+7093,YBB,Halos,55,Silver
+7093,ZBB,Halos,55,Silver
+7093,ZBF,Halos,55,Silver
+7115,GJA,Republic Of Futuria,62,Platinum
+7115,OJA,Republic Of Futuria,62,Platinum
+7115,PJA,Republic Of Futuria,62,Platinum
+7115,QJA,Republic Of Futuria,62,Platinum
+7115,TJA,Republic Of Futuria,62,Platinum
+7115,UKF,Republic Of Futuria,62,Platinum
+7115,VKF,Republic Of Futuria,62,Platinum
+7115,YKF,Republic Of Futuria,62,Platinum
+7197,BLD,HeLa,87,Unranked
+7197,DJD,HeLa,87,Unranked
+7197,EJD,HeLa,87,Unranked
+7197,GJD,HeLa,87,Unranked
+7197,HLD,HeLa,87,Unranked
+7197,HUG,HeLa,87,Unranked
+7197,JJD,HeLa,87,Unranked
+7197,NKD,HeLa,87,Unranked
+7197,OLD,HeLa,87,Unranked
+7197,SCE,HeLa,87,Unranked
+7197,TKD,HeLa,87,Unranked
+7197,WKD,HeLa,87,Unranked
+7227,BVB,The Collective JTF,95,Platinum
+7227,CVB,The Collective JTF,95,Platinum
+7227,DVB,The Collective JTF,95,Platinum
+7227,EVB,The Collective JTF,95,Platinum
+7227,FVB,The Collective JTF,95,Platinum
+7227,GVB,The Collective JTF,95,Platinum
+7227,HVB,The Collective JTF,95,Platinum
+7227,JVB,The Collective JTF,95,Platinum
+7227,KVB,The Collective JTF,95,Platinum
+7227,LVB,The Collective JTF,95,Platinum
+7227,MVB,The Collective JTF,95,Platinum
+7227,NQF,The Collective JTF,95,Platinum
+7227,OQF,The Collective JTF,95,Platinum
+7227,PQF,The Collective JTF,95,Platinum
+7227,QQF,The Collective JTF,95,Platinum
+7227,RQF,The Collective JTF,95,Platinum
+7251,PKA,EIRE Ranger Wing HQ,95,Unranked
+7251,RKA,EIRE Ranger Wing HQ,95,Unranked
+7282,BEB,Luscious Dreams,65,Platinum
+7282,CAB,Luscious Dreams,65,Platinum
+7282,DAB,Luscious Dreams,65,Platinum
+7282,EAB,Luscious Dreams,65,Platinum
+7282,FAB,Luscious Dreams,65,Platinum
+7282,JZB,Luscious Dreams,65,Platinum
+7282,KZB,Luscious Dreams,65,Platinum
+7282,PAB,Luscious Dreams,65,Platinum
+7282,SQG,Luscious Dreams,65,Platinum
+7282,TQG,Luscious Dreams,65,Platinum
+7282,UQG,Luscious Dreams,65,Platinum
+7282,VQG,Luscious Dreams,65,Platinum
+7282,WQG,Luscious Dreams,65,Platinum
+7282,XQG,Luscious Dreams,65,Platinum
+7282,YEB,Luscious Dreams,65,Platinum
+7282,YGA,Luscious Dreams,65,Platinum
+7282,ZEB,Luscious Dreams,65,Platinum
+7652,ARF,Alley Cats,48,Platinum
+7652,BRF,Alley Cats,48,Platinum
+7652,DRF,Alley Cats,48,Platinum
+7652,DWC,Alley Cats,48,Platinum
+7652,EQF,Alley Cats,48,Platinum
+7652,FWC,Alley Cats,48,Platinum
+7652,GVC,Alley Cats,48,Platinum
+7652,JRE,Alley Cats,48,Platinum
+7652,MWC,Alley Cats,48,Platinum
+7652,QWC,Alley Cats,48,Platinum
+7652,RWC,Alley Cats,48,Platinum
+7652,XRF,Alley Cats,48,Platinum
+7652,YRF,Alley Cats,48,Platinum
+7652,ZRF,Alley Cats,48,Platinum
+7709,BHB,Vulpes Vulpes,96,Diamond
+7709,FGB,Vulpes Vulpes,96,Diamond
+7709,GHB,Vulpes Vulpes,96,Diamond
+7709,GIB,Vulpes Vulpes,96,Diamond
+7709,HGB,Vulpes Vulpes,96,Diamond
+7709,HIB,Vulpes Vulpes,96,Diamond
+7709,HNG,Vulpes Vulpes,96,Diamond
+7709,IGB,Vulpes Vulpes,96,Diamond
+7709,IIB,Vulpes Vulpes,96,Diamond
+7709,ING,Vulpes Vulpes,96,Diamond
+7709,JQC,Vulpes Vulpes,96,Diamond
+7709,LQG,Vulpes Vulpes,96,Diamond
+7709,PGB,Vulpes Vulpes,96,Diamond
+7709,RGB,Vulpes Vulpes,96,Diamond
+7709,SGB,Vulpes Vulpes,96,Diamond
+7709,SIA,Vulpes Vulpes,96,Diamond
+7709,TGB,Vulpes Vulpes,96,Diamond
+7818,EYF,The Box,100,Bronze
+7818,GYF,The Box,100,Bronze
+7818,NVF,The Box,100,Bronze
+7818,OVF,The Box,100,Bronze
+7818,POF,The Box,100,Bronze
+7818,PVF,The Box,100,Bronze
+7818,QOF,The Box,100,Bronze
+7818,QVF,The Box,100,Bronze
+7818,ROF,The Box,100,Bronze
+7818,SOF,The Box,100,Bronze
+7818,TOF,The Box,100,Bronze
+7818,TZF,The Box,100,Bronze
+7818,UOF,The Box,100,Bronze
+7818,UZF,The Box,100,Bronze
+7818,VOF,The Box,100,Bronze
+7818,WOF,The Box,100,Bronze
+7835,AJD,Monarch Mutation,90,Diamond
+7835,DWE,Monarch Mutation,90,Diamond
+7835,EWE,Monarch Mutation,90,Diamond
+7835,FBF,Monarch Mutation,90,Diamond
+7835,GBF,Monarch Mutation,90,Diamond
+7835,GID,Monarch Mutation,90,Diamond
+7835,LFE,Monarch Mutation,90,Diamond
+7835,NFD,Monarch Mutation,90,Diamond
+7835,SWE,Monarch Mutation,90,Diamond
+7835,TWE,Monarch Mutation,90,Diamond
+7835,UWE,Monarch Mutation,90,Diamond
+7835,VWE,Monarch Mutation,90,Diamond
+7835,WWE,Monarch Mutation,90,Diamond
+7835,XWE,Monarch Mutation,90,Diamond
+7835,YWE,Monarch Mutation,90,Diamond
+7835,ZWE,Monarch Mutation,90,Diamond
+7969,BDD,WIT-Premier,94,Diamond
+7969,DBD,WIT-Premier,94,Diamond
+7969,FHE,WIT-Premier,94,Diamond
+7969,ICE,WIT-Premier,94,Diamond
+7969,JYE,WIT-Premier,94,Diamond
+7969,OCF,WIT-Premier,94,Diamond
+7969,OIE,WIT-Premier,94,Diamond
+7969,ORG,WIT-Premier,94,Diamond
+7969,PFD,WIT-Premier,94,Diamond
+7969,PIE,WIT-Premier,94,Diamond
+7969,POG,WIT-Premier,94,Diamond
+7969,RIE,WIT-Premier,94,Diamond
+7969,SIE,WIT-Premier,94,Diamond
+7969,TIE,WIT-Premier,94,Diamond
+7969,TOG,WIT-Premier,94,Diamond
+7969,UAD,WIT-Premier,94,Diamond
+7969,WAD,WIT-Premier,94,Diamond
+7990,ASF,Nomads,97,Gold
+7990,BGG,Nomads,97,Gold
+8062,ACG,Ruthless Reborn,82,Platinum
+8062,BBA,Ruthless Reborn,82,Platinum
+8062,CBA,Ruthless Reborn,82,Platinum
+8062,DBA,Ruthless Reborn,82,Platinum
+8062,NJB,Ruthless Reborn,82,Platinum
+8062,OJB,Ruthless Reborn,82,Platinum
+8062,PJB,Ruthless Reborn,82,Platinum
+8062,RBA,Ruthless Reborn,82,Platinum
+8062,SBA,Ruthless Reborn,82,Platinum
+8062,SXF,Ruthless Reborn,82,Platinum
+8062,TBA,Ruthless Reborn,82,Platinum
+8062,TXF,Ruthless Reborn,82,Platinum
+8062,UXF,Ruthless Reborn,82,Platinum
+8062,VXF,Ruthless Reborn,82,Platinum
+8062,XCG,Ruthless Reborn,82,Platinum
+8062,YBA,Ruthless Reborn,82,Platinum
+8062,YCG,Ruthless Reborn,82,Platinum
+8076,AJB,Order Through Chaos,93,Diamond
+8076,BJB,Order Through Chaos,93,Diamond
+8076,BPE,Order Through Chaos,93,Diamond
+8076,CPE,Order Through Chaos,93,Diamond
+8076,HJB,Order Through Chaos,93,Diamond
+8076,MOE,Order Through Chaos,93,Diamond
+8076,NPE,Order Through Chaos,93,Diamond
+8076,TPE,Order Through Chaos,93,Diamond
+8076,UJB,Order Through Chaos,93,Diamond
+8076,VJB,Order Through Chaos,93,Diamond
+8076,VWF,Order Through Chaos,93,Diamond
+8076,WJB,Order Through Chaos,93,Diamond
+8076,WWF,Order Through Chaos,93,Diamond
+8076,XJB,Order Through Chaos,93,Diamond
+8076,YJB,Order Through Chaos,93,Diamond
+8076,ZJB,Order Through Chaos,93,Diamond
+8085,BAD,Nuclear Blast,90,Platinum
+8085,FCD,Nuclear Blast,90,Platinum
+8085,FDD,Nuclear Blast,90,Platinum
+8085,IYD,Nuclear Blast,90,Platinum
+8085,JZD,Nuclear Blast,90,Platinum
+8085,KUE,Nuclear Blast,90,Platinum
+8085,KXD,Nuclear Blast,90,Platinum
+8085,LYD,Nuclear Blast,90,Platinum
+8085,MEE,Nuclear Blast,90,Platinum
+8085,OBD,Nuclear Blast,90,Platinum
+8085,OYD,Nuclear Blast,90,Platinum
+8085,PWE,Nuclear Blast,90,Platinum
+8085,PZD,Nuclear Blast,90,Platinum
+8085,SBD,Nuclear Blast,90,Platinum
+8085,TZD,Nuclear Blast,90,Platinum
+8085,WBD,Nuclear Blast,90,Platinum
+8085,XDD,Nuclear Blast,90,Platinum
+8151,AVG,Chromatic,96,Diamond
+8151,CBG,Chromatic,96,Diamond
+8151,CWG,Chromatic,96,Diamond
+8151,DBG,Chromatic,96,Diamond
+8151,HWG,Chromatic,96,Diamond
+8151,JAG,Chromatic,96,Diamond
+8151,MAG,Chromatic,96,Diamond
+8151,NBG,Chromatic,96,Diamond
+8151,PXG,Chromatic,96,Diamond
+8151,QWG,Chromatic,96,Diamond
+8151,QXG,Chromatic,96,Diamond
+8151,TYG,Chromatic,96,Diamond
+8151,UWG,Chromatic,96,Diamond
+8151,VVG,Chromatic,96,Diamond
+8151,VYG,Chromatic,96,Diamond
+8151,XVG,Chromatic,96,Diamond
+8151,ZWG,Chromatic,96,Diamond
+8255,DMA,Requiem,61,Gold
+8255,EMA,Requiem,61,Gold
+8255,FMA,Requiem,61,Gold
+8255,GMA,Requiem,61,Gold
+8255,HMA,Requiem,61,Gold
+8255,IMA,Requiem,61,Gold
+8255,JMA,Requiem,61,Gold
+8255,KMA,Requiem,61,Gold
+8255,ONB,Requiem,61,Gold
+8255,PNB,Requiem,61,Gold
+8255,QNB,Requiem,61,Gold
+8255,QOB,Requiem,61,Gold
+8255,ROB,Requiem,61,Gold
+8255,SOB,Requiem,61,Gold
+8255,VNB,Requiem,61,Gold
+8285,AOG,Get Stuffed,88,Unranked
+8285,FAC,Get Stuffed,88,Unranked
+8285,GAC,Get Stuffed,88,Unranked
+8285,JSG,Get Stuffed,88,Unranked
+8285,KSG,Get Stuffed,88,Unranked
+8285,VAC,Get Stuffed,88,Unranked
+8317,AWG,Naughty Souls,79,Diamond
+8317,AXG,Naughty Souls,79,Diamond
+8317,BVG,Naughty Souls,79,Diamond
+8317,BWG,Naughty Souls,79,Diamond
+8317,DYG,Naughty Souls,79,Diamond
+8317,EYG,Naughty Souls,79,Diamond
+8317,FVG,Naughty Souls,79,Diamond
+8317,FWG,Naughty Souls,79,Diamond
+8317,GYG,Naughty Souls,79,Diamond
+8317,HYG,Naughty Souls,79,Diamond
+8317,KVG,Naughty Souls,79,Diamond
+8317,KXG,Naughty Souls,79,Diamond
+8317,MVG,Naughty Souls,79,Diamond
+8317,RWG,Naughty Souls,79,Diamond
+8317,SWG,Naughty Souls,79,Diamond
+8317,TWG,Naughty Souls,79,Diamond
+8317,ZVG,Naughty Souls,79,Diamond
+8322,APG,The Project Syndicate,99,Unranked
+8322,IPB,The Project Syndicate,99,Unranked
+8322,JNB,The Project Syndicate,99,Unranked
+8322,JPB,The Project Syndicate,99,Unranked
+8322,KOB,The Project Syndicate,99,Unranked
+8322,LKF,The Project Syndicate,99,Unranked
+8322,MKA,The Project Syndicate,99,Unranked
+8322,NLF,The Project Syndicate,99,Unranked
+8322,NSB,The Project Syndicate,99,Unranked
+8322,OOB,The Project Syndicate,99,Unranked
+8322,QPB,The Project Syndicate,99,Unranked
+8336,AJE,Monarch HQ,98,Diamond
+8336,AWE,Monarch HQ,98,Diamond
+8336,BJE,Monarch HQ,98,Diamond
+8336,FKD,Monarch HQ,98,Diamond
+8336,FMD,Monarch HQ,98,Diamond
+8336,IID,Monarch HQ,98,Diamond
+8336,QLD,Monarch HQ,98,Diamond
+8336,QMD,Monarch HQ,98,Diamond
+8336,RJD,Monarch HQ,98,Diamond
+8336,RKD,Monarch HQ,98,Diamond
+8336,RMD,Monarch HQ,98,Diamond
+8336,RWE,Monarch HQ,98,Diamond
+8336,XJD,Monarch HQ,98,Diamond
+8336,XJE,Monarch HQ,98,Diamond
+8336,XKD,Monarch HQ,98,Diamond
+8336,YJE,Monarch HQ,98,Diamond
+8336,ZJE,Monarch HQ,98,Diamond
+8384,AYE,Savage Plague,67,Platinum
+8384,BYE,Savage Plague,67,Platinum
+8384,EBD,Savage Plague,67,Platinum
+8384,EYE,Savage Plague,67,Platinum
+8384,FYE,Savage Plague,67,Platinum
+8384,GYE,Savage Plague,67,Platinum
+8384,HHE,Savage Plague,67,Platinum
+8384,HYE,Savage Plague,67,Platinum
+8384,IHE,Savage Plague,67,Platinum
+8384,IYE,Savage Plague,67,Platinum
+8384,JHE,Savage Plague,67,Platinum
+8384,KHE,Savage Plague,67,Platinum
+8384,OZD,Savage Plague,67,Platinum
+8384,TOE,Savage Plague,67,Platinum
+8384,XYE,Savage Plague,67,Platinum
+8384,YYE,Savage Plague,67,Platinum
+8384,ZYE,Savage Plague,67,Platinum
+8400,BRE,Lingering Insanity,65,Diamond
+8400,CRE,Lingering Insanity,65,Diamond
+8400,DRE,Lingering Insanity,65,Diamond
+8400,KVC,Lingering Insanity,65,Diamond
+8400,LVC,Lingering Insanity,65,Diamond
+8400,NWC,Lingering Insanity,65,Diamond
+8400,OVC,Lingering Insanity,65,Diamond
+8400,PVC,Lingering Insanity,65,Diamond
+8400,PWC,Lingering Insanity,65,Diamond
+8400,RVC,Lingering Insanity,65,Diamond
+8400,SVC,Lingering Insanity,65,Diamond
+8400,SWC,Lingering Insanity,65,Diamond
+8400,TVC,Lingering Insanity,65,Diamond
+8400,TWC,Lingering Insanity,65,Diamond
+8400,UVC,Lingering Insanity,65,Diamond
+8400,WNE,Lingering Insanity,65,Diamond
+8400,XNE,Lingering Insanity,65,Diamond
+8422,CRG,Monarch Cupid,100,Diamond
+8422,DBF,Monarch Cupid,100,Diamond
+8422,EBF,Monarch Cupid,100,Diamond
+8422,HBF,Monarch Cupid,100,Diamond
+8422,JNG,Monarch Cupid,100,Diamond
+8422,MQC,Monarch Cupid,100,Diamond
+8422,MQG,Monarch Cupid,100,Diamond
+8422,ORC,Monarch Cupid,100,Diamond
+8422,PRC,Monarch Cupid,100,Diamond
+8422,QPF,Monarch Cupid,100,Diamond
+8422,QRC,Monarch Cupid,100,Diamond
+8422,RPF,Monarch Cupid,100,Diamond
+8422,RUC,Monarch Cupid,100,Diamond
+8422,SPF,Monarch Cupid,100,Diamond
+8422,TPF,Monarch Cupid,100,Diamond
+8422,UPF,Monarch Cupid,100,Diamond
+8422,UPG,Monarch Cupid,100,Diamond
+8468,ACF,Bloodbath and Beyond,92,Diamond
+8468,AEA,Bloodbath and Beyond,92,Diamond
+8468,AFB,Bloodbath and Beyond,92,Diamond
+8468,ASB,Bloodbath and Beyond,92,Diamond
+8468,BEA,Bloodbath and Beyond,92,Diamond
+8468,EFB,Bloodbath and Beyond,92,Diamond
+8468,OSB,Bloodbath and Beyond,92,Diamond
+8468,PEA,Bloodbath and Beyond,92,Diamond
+8468,SEA,Bloodbath and Beyond,92,Diamond
+8468,UKB,Bloodbath and Beyond,92,Diamond
+8468,WEA,Bloodbath and Beyond,92,Diamond
+8468,WKB,Bloodbath and Beyond,92,Diamond
+8468,XEA,Bloodbath and Beyond,92,Diamond
+8468,XKB,Bloodbath and Beyond,92,Diamond
+8468,YSB,Bloodbath and Beyond,92,Diamond
+8468,ZCF,Bloodbath and Beyond,92,Diamond
+8468,ZSB,Bloodbath and Beyond,92,Diamond
+8500,BGF,Extinction,100,Platinum
+8500,BIF,Extinction,100,Platinum
+8500,CGF,Extinction,100,Platinum
+8500,DGF,Extinction,100,Platinum
+8500,EGF,Extinction,100,Platinum
+8500,HGF,Extinction,100,Platinum
+8500,IGF,Extinction,100,Platinum
+8500,JGF,Extinction,100,Platinum
+8500,MGF,Extinction,100,Platinum
+8500,PHF,Extinction,100,Platinum
+8500,UIF,Extinction,100,Platinum
+8500,VIF,Extinction,100,Platinum
+8500,WIF,Extinction,100,Platinum
+8520,BKD,Xenon,95,Diamond
+8520,CRC,Xenon,95,Diamond
+8520,DQC,Xenon,95,Diamond
+8520,EMD,Xenon,95,Diamond
+8520,GMD,Xenon,95,Diamond
+8520,IPF,Xenon,95,Diamond
+8520,JMD,Xenon,95,Diamond
+8520,JPF,Xenon,95,Diamond
+8520,LBE,Xenon,95,Diamond
+8520,MMD,Xenon,95,Diamond
+8520,NMD,Xenon,95,Diamond
+8520,ONE,Xenon,95,Diamond
+8520,PKD,Xenon,95,Diamond
+8520,SKD,Xenon,95,Diamond
+8520,TMD,Xenon,95,Diamond
+8520,WRC,Xenon,95,Diamond
+8520,XRC,Xenon,95,Diamond
+8536,AHF,White Walkers,23,Bronze
+8536,HFF,White Walkers,23,Bronze
+8536,IFF,White Walkers,23,Bronze
+8536,LGF,White Walkers,23,Bronze
+8536,NHF,White Walkers,23,Bronze
+8536,ZHF,White Walkers,23,Bronze
+8537,CHD,NNGO,96,Platinum
+8537,DHD,NNGO,96,Platinum
+8537,DID,NNGO,96,Platinum
+8537,EHD,NNGO,96,Platinum
+8537,HKD,NNGO,96,Platinum
+8537,LID,NNGO,96,Platinum
+8537,MHD,NNGO,96,Platinum
+8537,MJD,NNGO,96,Platinum
+8537,PLD,NNGO,96,Platinum
+8537,VHD,NNGO,96,Platinum
+8537,WJD,NNGO,96,Platinum
+8537,XID,NNGO,96,Platinum
+8537,YLD,NNGO,96,Platinum
+8537,ZID,NNGO,96,Platinum
+8537,ZLD,NNGO,96,Platinum
+8677,AMA,Mana,35,Platinum
+8677,BMA,Mana,35,Platinum
+8677,CMA,Mana,35,Platinum
+8677,GCB,Mana,35,Platinum
+8677,ICB,Mana,35,Platinum
+8677,JCB,Mana,35,Platinum
+8677,KCB,Mana,35,Platinum
+8677,MCB,Mana,35,Platinum
+8677,TCB,Mana,35,Platinum
+8677,UCB,Mana,35,Platinum
+8677,VCB,Mana,35,Platinum
+8677,WCB,Mana,35,Platinum
+8677,XCB,Mana,35,Platinum
+8677,YCB,Mana,35,Platinum
+8706,ADF,Carbon,97,Diamond
+8706,BMD,Carbon,97,Diamond
+8706,BQC,Carbon,97,Diamond
+8706,BRC,Carbon,97,Diamond
+8706,CMD,Carbon,97,Diamond
+8706,DDF,Carbon,97,Diamond
+8706,FCF,Carbon,97,Diamond
+8706,FDF,Carbon,97,Diamond
+8706,GCF,Carbon,97,Diamond
+8706,GDF,Carbon,97,Diamond
+8706,HCF,Carbon,97,Diamond
+8706,ICF,Carbon,97,Diamond
+8706,IDF,Carbon,97,Diamond
+8706,JCF,Carbon,97,Diamond
+8706,ODF,Carbon,97,Diamond
+8706,SID,Carbon,97,Diamond
+8706,SLD,Carbon,97,Diamond
+8715,AYG,Midnight X,81,Gold
+8715,MXG,Midnight X,81,Gold
+8715,NYG,Midnight X,81,Gold
+8715,NZG,Midnight X,81,Gold
+8715,OWG,Midnight X,81,Gold
+8715,PUG,Midnight X,81,Gold
+8715,PWG,Midnight X,81,Gold
+8715,PYG,Midnight X,81,Gold
+8715,QYG,Midnight X,81,Gold
+8715,RYG,Midnight X,81,Gold
+8715,VWG,Midnight X,81,Gold
+8715,WWG,Midnight X,81,Gold
+8715,XWG,Midnight X,81,Gold
+8715,YAG,Midnight X,81,Gold
+8715,YWG,Midnight X,81,Gold
+8715,ZYG,Midnight X,81,Gold
+8766,BXF,FLUX,100,Bronze
+8766,FBA,FLUX,100,Bronze
+8766,GXF,FLUX,100,Bronze
+8766,HXF,FLUX,100,Bronze
+8766,IBA,FLUX,100,Bronze
+8766,IXF,FLUX,100,Bronze
+8766,KIB,FLUX,100,Bronze
+8766,LIB,FLUX,100,Bronze
+8766,PCA,FLUX,100,Bronze
+8766,TCA,FLUX,100,Bronze
+8766,VBA,FLUX,100,Bronze
+8766,VCA,FLUX,100,Bronze
+8766,VDG,FLUX,100,Bronze
+8766,XBA,FLUX,100,Bronze
+8766,XCA,FLUX,100,Bronze
+8766,ZCG,FLUX,100,Bronze
+8795,ADD,The Brotherhood of Battle,77,Gold
+8795,BEE,The Brotherhood of Battle,77,Gold
+8795,GNB,The Brotherhood of Battle,77,Gold
+8795,HNB,The Brotherhood of Battle,77,Gold
+8795,IAF,The Brotherhood of Battle,77,Gold
+8795,KKA,The Brotherhood of Battle,77,Gold
+8795,LKA,The Brotherhood of Battle,77,Gold
+8795,LLA,The Brotherhood of Battle,77,Gold
+8795,LNB,The Brotherhood of Battle,77,Gold
+8795,MNB,The Brotherhood of Battle,77,Gold
+8795,MSB,The Brotherhood of Battle,77,Gold
+8795,NOB,The Brotherhood of Battle,77,Gold
+8795,NTB,The Brotherhood of Battle,77,Gold
+8795,QEB,The Brotherhood of Battle,77,Gold
+8795,SEB,The Brotherhood of Battle,77,Gold
+8795,TEB,The Brotherhood of Battle,77,Gold
+8795,WOB,The Brotherhood of Battle,77,Gold
+8802,DJA,Luscious Incarnation,72,Platinum
+8802,DOB,Luscious Incarnation,72,Platinum
+8802,EKF,Luscious Incarnation,72,Platinum
+8802,EPG,Luscious Incarnation,72,Platinum
+8802,FKA,Luscious Incarnation,72,Platinum
+8802,FOB,Luscious Incarnation,72,Platinum
+8802,HOB,Luscious Incarnation,72,Platinum
+8802,IOB,Luscious Incarnation,72,Platinum
+8802,JGA,Luscious Incarnation,72,Platinum
+8802,JOB,Luscious Incarnation,72,Platinum
+8802,KGA,Luscious Incarnation,72,Platinum
+8802,LGA,Luscious Incarnation,72,Platinum
+8802,MOB,Luscious Incarnation,72,Platinum
+8802,NPB,Luscious Incarnation,72,Platinum
+8802,SPB,Luscious Incarnation,72,Platinum
+8802,UPB,Luscious Incarnation,72,Platinum
+8802,VPB,Luscious Incarnation,72,Platinum
+8803,AFF,Buttgrass Inc,82,Platinum
+8803,BFF,Buttgrass Inc,82,Platinum
+8803,DFF,Buttgrass Inc,82,Platinum
+8803,EFF,Buttgrass Inc,82,Platinum
+8803,FFF,Buttgrass Inc,82,Platinum
+8803,KEF,Buttgrass Inc,82,Platinum
+8803,LEF,Buttgrass Inc,82,Platinum
+8803,NFF,Buttgrass Inc,82,Platinum
+8803,OFF,Buttgrass Inc,82,Platinum
+8803,PFF,Buttgrass Inc,82,Platinum
+8803,RFF,Buttgrass Inc,82,Platinum
+8803,SFF,Buttgrass Inc,82,Platinum
+8803,TFF,Buttgrass Inc,82,Platinum
+8803,UFF,Buttgrass Inc,82,Platinum
+8803,VFF,Buttgrass Inc,82,Platinum
+8803,XFF,Buttgrass Inc,82,Platinum
+8803,ZFF,Buttgrass Inc,82,Platinum
+8811,ENF,Impulse 13!,79,Gold
+8811,FNF,Impulse 13!,79,Gold
+8811,GVF,Impulse 13!,79,Gold
+8811,IVF,Impulse 13!,79,Gold
+8811,NWF,Impulse 13!,79,Gold
+8836,BTG,Vinerri,99,Diamond
+8836,CTG,Vinerri,99,Diamond
+8836,DTG,Vinerri,99,Diamond
+8836,ETG,Vinerri,99,Diamond
+8836,EWG,Vinerri,99,Diamond
+8836,GWG,Vinerri,99,Diamond
+8836,IVG,Vinerri,99,Diamond
+8836,IWG,Vinerri,99,Diamond
+8836,JVG,Vinerri,99,Diamond
+8836,KAG,Vinerri,99,Diamond
+8836,LAG,Vinerri,99,Diamond
+8836,OUG,Vinerri,99,Diamond
+8836,OXG,Vinerri,99,Diamond
+8836,QUG,Vinerri,99,Diamond
+8836,RUG,Vinerri,99,Diamond
+8836,WVG,Vinerri,99,Diamond
+8867,BWE,Monarch Chrysalis,93,Diamond
+8867,CED,Monarch Chrysalis,93,Diamond
+8867,CJE,Monarch Chrysalis,93,Diamond
+8867,CWE,Monarch Chrysalis,93,Diamond
+8867,DED,Monarch Chrysalis,93,Diamond
+8867,DJE,Monarch Chrysalis,93,Diamond
+8867,FFD,Monarch Chrysalis,93,Diamond
+8867,GWE,Monarch Chrysalis,93,Diamond
+8867,HGD,Monarch Chrysalis,93,Diamond
+8867,HWE,Monarch Chrysalis,93,Diamond
+8867,KHD,Monarch Chrysalis,93,Diamond
+8867,LYE,Monarch Chrysalis,93,Diamond
+8867,NZE,Monarch Chrysalis,93,Diamond
+8867,OID,Monarch Chrysalis,93,Diamond
+8867,PGD,Monarch Chrysalis,93,Diamond
+8867,UID,Monarch Chrysalis,93,Diamond
+8867,WHD,Monarch Chrysalis,93,Diamond
+8938,ALD,Arcadia,90,Diamond
+8938,CKD,Arcadia,90,Diamond
+8938,GKD,Arcadia,90,Diamond
+8938,ILD,Arcadia,90,Diamond
+8938,JLD,Arcadia,90,Diamond
+8938,KLD,Arcadia,90,Diamond
+8938,MLD,Arcadia,90,Diamond
+8938,PCE,Arcadia,90,Diamond
+8938,PMD,Arcadia,90,Diamond
+8938,RXG,Arcadia,90,Diamond
+8938,SXG,Arcadia,90,Diamond
+8938,TVG,Arcadia,90,Diamond
+8938,TXG,Arcadia,90,Diamond
+8938,UMD,Arcadia,90,Diamond
+8938,VLD,Arcadia,90,Diamond
+8938,XUG,Arcadia,90,Diamond
+8938,ZKD,Arcadia,90,Diamond
+8954,AFA,Nuclear Armageddon,96,Diamond
+8954,ELF,Nuclear Armageddon,96,Diamond
+8954,FLF,Nuclear Armageddon,96,Diamond
+8954,FNB,Nuclear Armageddon,96,Diamond
+8954,GPG,Nuclear Armageddon,96,Diamond
+8954,LRB,Nuclear Armageddon,96,Diamond
+8954,MFA,Nuclear Armageddon,96,Diamond
+8954,NGA,Nuclear Armageddon,96,Diamond
+8954,OGA,Nuclear Armageddon,96,Diamond
+8954,QCF,Nuclear Armageddon,96,Diamond
+8954,QFA,Nuclear Armageddon,96,Diamond
+8954,QSB,Nuclear Armageddon,96,Diamond
+8954,RSB,Nuclear Armageddon,96,Diamond
+8954,SSB,Nuclear Armageddon,96,Diamond
+8954,TSB,Nuclear Armageddon,96,Diamond
+8954,USB,Nuclear Armageddon,96,Diamond
+8954,WFA,Nuclear Armageddon,96,Diamond
+9032,FBD,Wolf Pack,62,Platinum
+9032,JVE,Wolf Pack,62,Platinum
+9032,KAD,Wolf Pack,62,Platinum
+9032,KVE,Wolf Pack,62,Platinum
+9032,LVE,Wolf Pack,62,Platinum
+9032,MVE,Wolf Pack,62,Platinum
+9032,NFE,Wolf Pack,62,Platinum
+9032,NWE,Wolf Pack,62,Platinum
+9032,ODD,Wolf Pack,62,Platinum
+9032,OFE,Wolf Pack,62,Platinum
+9032,OWE,Wolf Pack,62,Platinum
+9032,PFE,Wolf Pack,62,Platinum
+9032,QCD,Wolf Pack,62,Platinum
+9032,QWE,Wolf Pack,62,Platinum
+9032,TDD,Wolf Pack,62,Platinum
+9032,ZED,Wolf Pack,62,Platinum
+9036,BFG,The Black Pearl,98,Diamond
+9036,CFG,The Black Pearl,98,Diamond
+9036,DFG,The Black Pearl,98,Diamond
+9036,SFG,The Black Pearl,98,Diamond
+9036,TFG,The Black Pearl,98,Diamond
+9036,UFG,The Black Pearl,98,Diamond
+9036,VFG,The Black Pearl,98,Diamond
+9036,WFG,The Black Pearl,98,Diamond
+9036,XFG,The Black Pearl,98,Diamond
+9036,ZFG,The Black Pearl,98,Diamond
+9041,ABE,PT-Calculated,95,Diamond
+9041,CID,PT-Calculated,95,Diamond
+9041,IHD,PT-Calculated,95,Diamond
+9041,JED,PT-Calculated,95,Diamond
+9041,OCD,PT-Calculated,95,Diamond
+9041,PED,PT-Calculated,95,Diamond
+9041,QID,PT-Calculated,95,Diamond
+9041,SGD,PT-Calculated,95,Diamond
+9041,THD,PT-Calculated,95,Diamond
+9041,YID,PT-Calculated,95,Diamond
+9041,ZBE,PT-Calculated,95,Diamond
+9041,ZHD,PT-Calculated,95,Diamond
+9055,AQC,Natural Selection IV,96,Diamond
+9055,BPF,Natural Selection IV,96,Diamond
+9055,GFF,Natural Selection IV,96,Diamond
+9055,IRC,Natural Selection IV,96,Diamond
+9055,JRC,Natural Selection IV,96,Diamond
+9055,KRC,Natural Selection IV,96,Diamond
+9055,LRC,Natural Selection IV,96,Diamond
+9055,NSC,Natural Selection IV,96,Diamond
+9055,OSC,Natural Selection IV,96,Diamond
+9055,QFF,Natural Selection IV,96,Diamond
+9055,SPG,Natural Selection IV,96,Diamond
+9055,TDF,Natural Selection IV,96,Diamond
+9055,VZE,Natural Selection IV,96,Diamond
+9055,WFF,Natural Selection IV,96,Diamond
+9055,YQC,Natural Selection IV,96,Diamond
+9055,ZQC,Natural Selection IV,96,Diamond
+9100,AFC,The Black Hand,74,Platinum
+9100,AZC,The Black Hand,74,Platinum
+9100,BOF,The Black Hand,74,Platinum
+9100,BZC,The Black Hand,74,Platinum
+9100,COF,The Black Hand,74,Platinum
+9100,CZC,The Black Hand,74,Platinum
+9100,DOF,The Black Hand,74,Platinum
+9100,DZC,The Black Hand,74,Platinum
+9100,HCC,The Black Hand,74,Platinum
+9100,MAC,The Black Hand,74,Platinum
+9100,MCC,The Black Hand,74,Platinum
+9100,QTE,The Black Hand,74,Platinum
+9100,RTE,The Black Hand,74,Platinum
+9100,TBC,The Black Hand,74,Platinum
+9100,WZC,The Black Hand,74,Platinum
+9100,XZC,The Black Hand,74,Platinum
+9100,YZC,The Black Hand,74,Platinum
+9110,BFC,Siege,73,Platinum
+9110,DEC,Siege,73,Platinum
+9110,FGC,Siege,73,Platinum
+9110,JFC,Siege,73,Platinum
+9110,LOE,Siege,73,Platinum
+9110,PFC,Siege,73,Platinum
+9110,QGC,Siege,73,Platinum
+9110,RGC,Siege,73,Platinum
+9110,RLE,Siege,73,Platinum
+9110,SFC,Siege,73,Platinum
+9110,TEC,Siege,73,Platinum
+9110,TFC,Siege,73,Platinum
+9110,UFC,Siege,73,Platinum
+9110,VFC,Siege,73,Platinum
+9110,XEC,Siege,73,Platinum
+9110,XFC,Siege,73,Platinum
+9118,BIC,Maiden Voyage,99,Unranked
+9118,CAC,Maiden Voyage,99,Unranked
+9118,DGC,Maiden Voyage,99,Unranked
+9118,EHC,Maiden Voyage,99,Unranked
+9118,JHC,Maiden Voyage,99,Unranked
+9118,OTG,Maiden Voyage,99,Unranked
+9118,TGC,Maiden Voyage,99,Unranked
+9118,THC,Maiden Voyage,99,Unranked
+9118,XGC,Maiden Voyage,99,Unranked
+9118,YHC,Maiden Voyage,99,Unranked
+9171,EGD,Occul2us,15,Platinum
+9171,HXE,Occul2us,15,Platinum
+9171,IXE,Occul2us,15,Platinum
+9171,SYE,Occul2us,15,Platinum
+9201,CCD,Destination Unknown,74,Gold
+9201,EEE,Destination Unknown,74,Gold
+9201,FSB,Destination Unknown,74,Gold
+9201,GSB,Destination Unknown,74,Gold
+9201,MIF,Destination Unknown,74,Gold
+9201,OEE,Destination Unknown,74,Gold
+9201,QEA,Destination Unknown,74,Gold
+9201,QOG,Destination Unknown,74,Gold
+9201,RCF,Destination Unknown,74,Gold
+9201,REA,Destination Unknown,74,Gold
+9201,ROG,Destination Unknown,74,Gold
+9201,SOG,Destination Unknown,74,Gold
+9201,TBD,Destination Unknown,74,Gold
+9201,TEA,Destination Unknown,74,Gold
+9201,UEA,Destination Unknown,74,Gold
+9201,VAD,Destination Unknown,74,Gold
+9201,VEA,Destination Unknown,74,Gold
+9280,DGG,Nomads Medical,94,Unranked
+9280,DSF,Nomads Medical,94,Unranked
+9280,ESF,Nomads Medical,94,Unranked
+9280,OSE,Nomads Medical,94,Unranked
+9280,SYC,Nomads Medical,94,Unranked
+9280,ZGG,Nomads Medical,94,Unranked
+9305,AED,Legitimate Business,93,Platinum
+9305,AHD,Legitimate Business,93,Platinum
+9305,BHD,Legitimate Business,93,Platinum
+9305,BID,Legitimate Business,93,Platinum
+9305,CBF,Legitimate Business,93,Platinum
+9305,CLD,Legitimate Business,93,Platinum
+9305,DKD,Legitimate Business,93,Platinum
+9305,EUG,Legitimate Business,93,Platinum
+9305,FID,Legitimate Business,93,Platinum
+9305,FLD,Legitimate Business,93,Platinum
+9305,GBE,Legitimate Business,93,Platinum
+9305,HHD,Legitimate Business,93,Platinum
+9305,JGD,Legitimate Business,93,Platinum
+9305,NLD,Legitimate Business,93,Platinum
+9305,PHD,Legitimate Business,93,Platinum
+9305,UKD,Legitimate Business,93,Platinum
+9356,DOC,SMTH - Party Animals,96,Platinum
+9356,EOC,SMTH - Party Animals,96,Platinum
+9356,FOC,SMTH - Party Animals,96,Platinum
+9356,GQG,SMTH - Party Animals,96,Platinum
+9356,HOC,SMTH - Party Animals,96,Platinum
+9356,IOC,SMTH - Party Animals,96,Platinum
+9356,JOC,SMTH - Party Animals,96,Platinum
+9356,KNC,SMTH - Party Animals,96,Platinum
+9356,KNG,SMTH - Party Animals,96,Platinum
+9356,KOC,SMTH - Party Animals,96,Platinum
+9356,LOC,SMTH - Party Animals,96,Platinum
+9356,MPC,SMTH - Party Animals,96,Platinum
+9356,NPC,SMTH - Party Animals,96,Platinum
+9356,NQC,SMTH - Party Animals,96,Platinum
+9356,OPC,SMTH - Party Animals,96,Platinum
+9356,YNG,SMTH - Party Animals,96,Platinum
+9356,ZNG,SMTH - Party Animals,96,Platinum
+9357,COG,AQUA-Neptune,84,Diamond
+9357,CXD,AQUA-Neptune,84,Diamond
+9357,DEF,AQUA-Neptune,84,Diamond
+9357,EEF,AQUA-Neptune,84,Diamond
+9357,EWD,AQUA-Neptune,84,Diamond
+9357,FEF,AQUA-Neptune,84,Diamond
+9357,HME,AQUA-Neptune,84,Diamond
+9357,RJE,AQUA-Neptune,84,Diamond
+9357,SFE,AQUA-Neptune,84,Diamond
+9357,SJE,AQUA-Neptune,84,Diamond
+9357,TGE,AQUA-Neptune,84,Diamond
+9357,UXD,AQUA-Neptune,84,Diamond
+9357,WME,AQUA-Neptune,84,Diamond
+9357,WWD,AQUA-Neptune,84,Diamond
+9357,XME,AQUA-Neptune,84,Diamond
+9357,XVD,AQUA-Neptune,84,Diamond
+9357,XXD,AQUA-Neptune,84,Diamond
+9412,ARD,BLACK STATUES,98,Diamond
+9412,DRD,BLACK STATUES,98,Diamond
+9412,DVE,BLACK STATUES,98,Diamond
+9412,HEF,BLACK STATUES,98,Diamond
+9412,IEF,BLACK STATUES,98,Diamond
+9412,KVD,BLACK STATUES,98,Diamond
+9412,LVD,BLACK STATUES,98,Diamond
+9412,MSD,BLACK STATUES,98,Diamond
+9412,NSD,BLACK STATUES,98,Diamond
+9412,PUD,BLACK STATUES,98,Diamond
+9412,TJE,BLACK STATUES,98,Diamond
+9412,UJE,BLACK STATUES,98,Diamond
+9412,WQD,BLACK STATUES,98,Diamond
+9412,XPD,BLACK STATUES,98,Diamond
+9412,XUD,BLACK STATUES,98,Diamond
+9412,ZGE,BLACK STATUES,98,Diamond
+9412,ZME,BLACK STATUES,98,Diamond
+9420,GLF,Band of Brothers,49,Gold
+9420,HLF,Band of Brothers,49,Gold
+9420,IKF,Band of Brothers,49,Gold
+9420,KSB,Band of Brothers,49,Gold
+9420,LSB,Band of Brothers,49,Gold
+9420,NLA,Band of Brothers,49,Gold
+9420,OLA,Band of Brothers,49,Gold
+9420,OTB,Band of Brothers,49,Gold
+9420,PLA,Band of Brothers,49,Gold
+9420,PTB,Band of Brothers,49,Gold
+9420,QLA,Band of Brothers,49,Gold
+9420,QTB,Band of Brothers,49,Gold
+9420,RLA,Band of Brothers,49,Gold
+9420,RTB,Band of Brothers,49,Gold
+9420,SLA,Band of Brothers,49,Gold
+9420,TLA,Band of Brothers,49,Gold
+9503,BAF,TSFTS Microbrewery,37,Platinum
+9503,GZF,TSFTS Microbrewery,37,Platinum
+9503,HZF,TSFTS Microbrewery,37,Platinum
+9503,IZF,TSFTS Microbrewery,37,Platinum
+9503,SZF,TSFTS Microbrewery,37,Platinum
+9517,ELD,OverWatch,79,Platinum
+9517,FUG,OverWatch,79,Platinum
+9517,IUG,OverWatch,79,Platinum
+9517,JUG,OverWatch,79,Platinum
+9517,KUG,OverWatch,79,Platinum
+9517,LUG,OverWatch,79,Platinum
+9517,MUG,OverWatch,79,Platinum
+9517,NVG,OverWatch,79,Platinum
+9517,OVG,OverWatch,79,Platinum
+9517,SVG,OverWatch,79,Platinum
+9517,UXG,OverWatch,79,Platinum
+9517,UYG,OverWatch,79,Platinum
+9517,VXG,OverWatch,79,Platinum
+9517,WXG,OverWatch,79,Platinum
+9517,YVG,OverWatch,79,Platinum
+9524,CTB,|HT|,96,Diamond
+9524,FAA,|HT|,96,Diamond
+9524,FTB,|HT|,96,Diamond
+9524,GAA,|HT|,96,Diamond
+9524,GTB,|HT|,96,Diamond
+9524,HTB,|HT|,96,Diamond
+9524,JCG,|HT|,96,Diamond
+9524,JTB,|HT|,96,Diamond
+9524,KUB,|HT|,96,Diamond
+9524,LCG,|HT|,96,Diamond
+9524,MAA,|HT|,96,Diamond
+9524,MCG,|HT|,96,Diamond
+9524,NBA,|HT|,96,Diamond
+9524,OBA,|HT|,96,Diamond
+9524,PBA,|HT|,96,Diamond
+9524,XTB,|HT|,96,Diamond
+9528,SUG,Fallen X,29,Gold
+9528,XTG,Fallen X,29,Gold
+9528,ZTG,Fallen X,29,Gold
+9533,AZE,Natural Selection,100,Diamond
+9533,DDD,Natural Selection,100,Diamond
+9533,HFD,Natural Selection,100,Diamond
+9533,JCD,Natural Selection,100,Diamond
+9533,LCD,Natural Selection,100,Diamond
+9533,MAD,Natural Selection,100,Diamond
+9533,NID,Natural Selection,100,Diamond
+9533,NKE,Natural Selection,100,Diamond
+9533,NZD,Natural Selection,100,Diamond
+9533,QHD,Natural Selection,100,Diamond
+9533,TID,Natural Selection,100,Diamond
+9533,TJD,Natural Selection,100,Diamond
+9533,UFD,Natural Selection,100,Diamond
+9533,WCD,Natural Selection,100,Diamond
+9533,XBD,Natural Selection,100,Diamond
+9533,YBD,Natural Selection,100,Diamond
+9642,LAA,HT-Training,19,Unranked
+9674,CCC,Smells like Sex,55,Platinum
+9674,DCC,Smells like Sex,55,Platinum
+9674,EAC,Smells like Sex,55,Platinum
+9674,LCC,Smells like Sex,55,Platinum
+9674,PCC,Smells like Sex,55,Platinum
+9674,PEC,Smells like Sex,55,Platinum
+9674,QCC,Smells like Sex,55,Platinum
+9674,QEC,Smells like Sex,55,Platinum
+9674,RCC,Smells like Sex,55,Platinum
+9674,REC,Smells like Sex,55,Platinum
+9674,VBC,Smells like Sex,55,Platinum
+9674,VCC,Smells like Sex,55,Platinum
+9674,VEC,Smells like Sex,55,Platinum
+9674,VYF,Smells like Sex,55,Platinum
+9674,WEC,Smells like Sex,55,Platinum
+9674,XYF,Smells like Sex,55,Platinum
+9686,MIA,Cosa-Nostra,35,Platinum
+9686,YLA,Cosa-Nostra,35,Platinum
+9689,FGD,Deja,85,Platinum
+9689,GGD,Deja,85,Platinum
+9689,GHD,Deja,85,Platinum
+9689,HED,Deja,85,Platinum
+9689,IFD,Deja,85,Platinum
+9689,IGD,Deja,85,Platinum
+9689,IJD,Deja,85,Platinum
+9689,KJD,Deja,85,Platinum
+9689,MBE,Deja,85,Platinum
+9689,NJD,Deja,85,Platinum
+9689,RFD,Deja,85,Platinum
+9689,UGD,Deja,85,Platinum
+9689,VFD,Deja,85,Platinum
+9689,YHD,Deja,85,Platinum
+9745,AQB,Emergency Room,84,Gold
+9745,CQB,Emergency Room,84,Gold
+9745,DQB,Emergency Room,84,Gold
+9745,GDG,Emergency Room,84,Gold
+9745,IQB,Emergency Room,84,Gold
+9745,JQB,Emergency Room,84,Gold
+9745,KQB,Emergency Room,84,Gold
+9745,NMF,Emergency Room,84,Gold
+9745,OMF,Emergency Room,84,Gold
+9745,OYB,Emergency Room,84,Gold
+9745,PYB,Emergency Room,84,Gold
+9745,QQB,Emergency Room,84,Gold
+9745,RYB,Emergency Room,84,Gold
+9745,TQB,Emergency Room,84,Gold
+9745,UQB,Emergency Room,84,Gold
+9745,VQB,Emergency Room,84,Gold
+9745,WCF,Emergency Room,84,Gold
+9953,BWC,The Drunk Tank,64,Platinum
+9953,CQF,The Drunk Tank,64,Platinum
+9953,CWC,The Drunk Tank,64,Platinum
+9953,DNE,The Drunk Tank,64,Platinum
+9953,DQF,The Drunk Tank,64,Platinum
+9953,GRE,The Drunk Tank,64,Platinum
+9953,HRE,The Drunk Tank,64,Platinum
+9953,HVC,The Drunk Tank,64,Platinum
+9953,IRE,The Drunk Tank,64,Platinum
+9953,IVC,The Drunk Tank,64,Platinum
+9953,IYC,The Drunk Tank,64,Platinum
+9953,LYC,The Drunk Tank,64,Platinum
+9953,MQE,The Drunk Tank,64,Platinum
+9953,NRE,The Drunk Tank,64,Platinum
+9953,ORE,The Drunk Tank,64,Platinum
+9953,RRE,The Drunk Tank,64,Platinum
+9953,UYF,The Drunk Tank,64,Platinum
+10140,CHF,In Memory of the Fallen,81,Platinum
+10140,DAA,In Memory of the Fallen,81,Platinum
+10140,DTB,In Memory of the Fallen,81,Platinum
+10140,EAA,In Memory of the Fallen,81,Platinum
+10140,ETB,In Memory of the Fallen,81,Platinum
+10140,HAA,In Memory of the Fallen,81,Platinum
+10140,ITB,In Memory of the Fallen,81,Platinum
+10140,JIF,In Memory of the Fallen,81,Platinum
+10140,JUB,In Memory of the Fallen,81,Platinum
+10140,KCG,In Memory of the Fallen,81,Platinum
+10140,NDG,In Memory of the Fallen,81,Platinum
+10140,PVB,In Memory of the Fallen,81,Platinum
+10140,RVB,In Memory of the Fallen,81,Platinum
+10140,SVB,In Memory of the Fallen,81,Platinum
+10140,TVB,In Memory of the Fallen,81,Platinum
+10140,UVB,In Memory of the Fallen,81,Platinum
+10174,AHB,AQUA-Poseidon,95,Diamond
+10174,AXE,AQUA-Poseidon,95,Diamond
+10174,BIB,AQUA-Poseidon,95,Diamond
+10174,BXE,AQUA-Poseidon,95,Diamond
+10174,CIB,AQUA-Poseidon,95,Diamond
+10174,KOE,AQUA-Poseidon,95,Diamond
+10174,KWE,AQUA-Poseidon,95,Diamond
+10174,NCF,AQUA-Poseidon,95,Diamond
+10174,QIB,AQUA-Poseidon,95,Diamond
+10174,RIB,AQUA-Poseidon,95,Diamond
+10174,SIB,AQUA-Poseidon,95,Diamond
+10174,UIB,AQUA-Poseidon,95,Diamond
+10174,VJD,AQUA-Poseidon,95,Diamond
+10174,WIB,AQUA-Poseidon,95,Diamond
+10174,XIB,AQUA-Poseidon,95,Diamond
+10174,YHE,AQUA-Poseidon,95,Diamond
+10174,YIB,AQUA-Poseidon,95,Diamond
+10296,CCA,Retaliation,67,Platinum
+10296,ECA,Retaliation,67,Platinum
+10296,FCA,Retaliation,67,Platinum
+10296,ICA,Retaliation,67,Platinum
+10296,LCA,Retaliation,67,Platinum
+10296,MCA,Retaliation,67,Platinum
+10296,MIB,Retaliation,67,Platinum
+10296,NDA,Retaliation,67,Platinum
+10296,ODA,Retaliation,67,Platinum
+10296,RCA,Retaliation,67,Platinum
+10296,RDA,Retaliation,67,Platinum
+10296,SCA,Retaliation,67,Platinum
+10296,UCA,Retaliation,67,Platinum
+10296,YCA,Retaliation,67,Platinum
+10507,CPF,Ducks of Quacken,62,Platinum
+10507,DPF,Ducks of Quacken,62,Platinum
+10507,EPF,Ducks of Quacken,62,Platinum
+10507,FPF,Ducks of Quacken,62,Platinum
+10507,LUC,Ducks of Quacken,62,Platinum
+10507,MSC,Ducks of Quacken,62,Platinum
+10507,TSC,Ducks of Quacken,62,Platinum
+10542,AGF,The Fellowship of LOL,75,Unranked
+10542,BHF,The Fellowship of LOL,75,Unranked
+10542,DDG,The Fellowship of LOL,75,Unranked
+10542,KIF,The Fellowship of LOL,75,Unranked
+10542,MFF,The Fellowship of LOL,75,Unranked
+10542,NGF,The Fellowship of LOL,75,Unranked
+10542,RGF,The Fellowship of LOL,75,Unranked
+10542,SGF,The Fellowship of LOL,75,Unranked
+10542,TGF,The Fellowship of LOL,75,Unranked
+10542,UGF,The Fellowship of LOL,75,Unranked
+10542,VGF,The Fellowship of LOL,75,Unranked
+10542,WQF,The Fellowship of LOL,75,Unranked
+10542,XQF,The Fellowship of LOL,75,Unranked
+10542,XWB,The Fellowship of LOL,75,Unranked
+10542,YQF,The Fellowship of LOL,75,Unranked
+10542,ZQF,The Fellowship of LOL,75,Unranked
+10566,AUG,The Rifle Company,56,Platinum
+10566,BUG,The Rifle Company,56,Platinum
+10566,CUG,The Rifle Company,56,Platinum
+10566,DMD,The Rifle Company,56,Platinum
+10566,GUG,The Rifle Company,56,Platinum
+10566,HMD,The Rifle Company,56,Platinum
+10566,IAG,The Rifle Company,56,Platinum
+10566,JWG,The Rifle Company,56,Platinum
+10566,KWG,The Rifle Company,56,Platinum
+10566,LWG,The Rifle Company,56,Platinum
+10566,NXG,The Rifle Company,56,Platinum
+10566,SMD,The Rifle Company,56,Platinum
+10566,UVG,The Rifle Company,56,Platinum
+10566,XYG,The Rifle Company,56,Platinum
+10566,YUG,The Rifle Company,56,Platinum
+10566,ZUG,The Rifle Company,56,Platinum
+10610,CWF,NPO - Strength,83,Platinum
+10610,DFC,NPO - Strength,83,Platinum
+10610,IGC,NPO - Strength,83,Platinum
+10610,IWF,NPO - Strength,83,Platinum
+10610,MGC,NPO - Strength,83,Platinum
+10610,QLE,NPO - Strength,83,Platinum
+10610,QSG,NPO - Strength,83,Platinum
+10610,SSG,NPO - Strength,83,Platinum
+10610,TSG,NPO - Strength,83,Platinum
+10610,USG,NPO - Strength,83,Platinum
+10610,VSG,NPO - Strength,83,Platinum
+10610,WSG,NPO - Strength,83,Platinum
+10610,XSG,NPO - Strength,83,Platinum
+10610,YSG,NPO - Strength,83,Platinum
+10610,YYF,NPO - Strength,83,Platinum
+10610,ZSG,NPO - Strength,83,Platinum
+10739,EAD,The Next Level - Forge,85,Diamond
+10739,IDD,The Next Level - Forge,85,Diamond
+10739,JDD,The Next Level - Forge,85,Diamond
+10739,KYE,The Next Level - Forge,85,Diamond
+10739,MYE,The Next Level - Forge,85,Diamond
+10739,OZE,The Next Level - Forge,85,Diamond
+10739,PZE,The Next Level - Forge,85,Diamond
+10739,QZE,The Next Level - Forge,85,Diamond
+10739,RZE,The Next Level - Forge,85,Diamond
+10739,SDD,The Next Level - Forge,85,Diamond
+10739,SZE,The Next Level - Forge,85,Diamond
+10739,TCD,The Next Level - Forge,85,Diamond
+10739,TZE,The Next Level - Forge,85,Diamond
+10739,VBD,The Next Level - Forge,85,Diamond
+10739,YED,The Next Level - Forge,85,Diamond
+10739,ZDD,The Next Level - Forge,85,Diamond
+10741,ARB,SMTH - Trisolary,100,Bronze
+10741,CRB,SMTH - Trisolary,100,Bronze
+10741,EMB,SMTH - Trisolary,100,Bronze
+10741,ERB,SMTH - Trisolary,100,Bronze
+10741,FQG,SMTH - Trisolary,100,Bronze
+10741,FRB,SMTH - Trisolary,100,Bronze
+10741,GPC,SMTH - Trisolary,100,Bronze
+10741,IMB,SMTH - Trisolary,100,Bronze
+10741,JLB,SMTH - Trisolary,100,Bronze
+10741,LLB,SMTH - Trisolary,100,Bronze
+10741,QRB,SMTH - Trisolary,100,Bronze
+10741,SNG,SMTH - Trisolary,100,Bronze
+10741,TNG,SMTH - Trisolary,100,Bronze
+10741,XLF,SMTH - Trisolary,100,Bronze
+10741,YLF,SMTH - Trisolary,100,Bronze
+10741,YOG,SMTH - Trisolary,100,Bronze
+10818,AMF,Lex Wolverines,88,Platinum
+10818,AZB,Lex Wolverines,88,Platinum
+10818,BPG,Lex Wolverines,88,Platinum
+10818,CZB,Lex Wolverines,88,Platinum
+10818,DZB,Lex Wolverines,88,Platinum
+10818,FMF,Lex Wolverines,88,Platinum
+10818,GZB,Lex Wolverines,88,Platinum
+10818,HGA,Lex Wolverines,88,Platinum
+10818,HZB,Lex Wolverines,88,Platinum
+10818,IZB,Lex Wolverines,88,Platinum
+10818,OIA,Lex Wolverines,88,Platinum
+10818,RKF,Lex Wolverines,88,Platinum
+10818,RQG,Lex Wolverines,88,Platinum
+10818,TKF,Lex Wolverines,88,Platinum
+10818,VHA,Lex Wolverines,88,Platinum
+10818,WZB,Lex Wolverines,88,Platinum
+10818,ZMF,Lex Wolverines,88,Platinum
+10820,AQD,Lithium,82,Diamond
+10820,BOD,Lithium,82,Diamond
+10820,EMC,Lithium,82,Diamond
+10820,EWF,Lithium,82,Diamond
+10820,GND,Lithium,82,Diamond
+10820,GPD,Lithium,82,Diamond
+10820,HPD,Lithium,82,Diamond
+10820,OOD,Lithium,82,Diamond
+10820,QRD,Lithium,82,Diamond
+10820,SOD,Lithium,82,Diamond
+10820,UND,Lithium,82,Diamond
+10820,UOD,Lithium,82,Diamond
+10820,WJE,Lithium,82,Diamond
+10820,WOD,Lithium,82,Diamond
+10820,XOD,Lithium,82,Diamond
+10820,YPD,Lithium,82,Diamond
+10820,ZOD,Lithium,82,Diamond
+10856,ECD,REK II,94,Gold
+10856,EUD,REK II,94,Gold
+10856,FUD,REK II,94,Gold
+10856,GDD,REK II,94,Gold
+10856,ICD,REK II,94,Gold
+10856,JAD,REK II,94,Gold
+10856,LTE,REK II,94,Gold
+10856,MTE,REK II,94,Gold
+10856,NDD,REK II,94,Gold
+10856,NUE,REK II,94,Gold
+10856,OUE,REK II,94,Gold
+10856,PUE,REK II,94,Gold
+10856,UBF,REK II,94,Gold
+10856,UDD,REK II,94,Gold
+10856,UYD,REK II,94,Gold
+10856,VYD,REK II,94,Gold
+10960,BWD,Wolverines Health Org,72,Unranked
+10960,DZD,Wolverines Health Org,72,Unranked
+10960,FZE,Wolverines Health Org,72,Unranked
+10960,GZE,Wolverines Health Org,72,Unranked
+10960,HWD,Wolverines Health Org,72,Unranked
+10960,IZE,Wolverines Health Org,72,Unranked
+10960,JUD,Wolverines Health Org,72,Unranked
+10960,JZE,Wolverines Health Org,72,Unranked
+10960,KZE,Wolverines Health Org,72,Unranked
+10960,LJE,Wolverines Health Org,72,Unranked
+10960,LZE,Wolverines Health Org,72,Unranked
+10960,MVD,Wolverines Health Org,72,Unranked
+10960,MZE,Wolverines Health Org,72,Unranked
+10960,NAE,Wolverines Health Org,72,Unranked
+10960,QTD,Wolverines Health Org,72,Unranked
+10960,YXD,Wolverines Health Org,72,Unranked
+11131,ANB,Infernum-,64,Gold
+11131,BKF,Infernum-,64,Gold
+11131,BNB,Infernum-,64,Gold
+11131,CKA,Infernum-,64,Gold
+11131,CKF,Infernum-,64,Gold
+11131,CNB,Infernum-,64,Gold
+11131,DNB,Infernum-,64,Gold
+11131,ENB,Infernum-,64,Gold
+11131,JLA,Infernum-,64,Gold
+11131,KKF,Infernum-,64,Gold
+11131,KLA,Infernum-,64,Gold
+11131,UKA,Infernum-,64,Gold
+11131,VOB,Infernum-,64,Gold
+11131,WKA,Infernum-,64,Gold
+11131,ZNB,Infernum-,64,Gold
+11162,AWF,InQuest,25,Platinum
+11214,THF,Pennywise Clown Plague,38,Bronze
+11214,UHF,Pennywise Clown Plague,38,Bronze
+11214,VHF,Pennywise Clown Plague,38,Bronze
+11376,BNF,Also Impulse,90,Gold
+11376,GNF,Also Impulse,90,Gold
+11376,LUF,Also Impulse,90,Gold
+11376,MVF,Also Impulse,90,Gold
+11522,CIA,Droogs,77,Unranked
+11522,FWB,Droogs,77,Unranked
+11522,GWB,Droogs,77,Unranked
+11522,GXB,Droogs,77,Unranked
+11522,HWB,Droogs,77,Unranked
+11522,IIA,Droogs,77,Unranked
+11522,JWB,Droogs,77,Unranked
+11522,KIA,Droogs,77,Unranked
+11522,KWB,Droogs,77,Unranked
+11522,LWB,Droogs,77,Unranked
+11522,NXB,Droogs,77,Unranked
+11522,TIA,Droogs,77,Unranked
+11522,TXB,Droogs,77,Unranked
+11522,UXB,Droogs,77,Unranked
+11522,XIA,Droogs,77,Unranked
+11522,YXB,Droogs,77,Unranked
+11522,ZXB,Droogs,77,Unranked
+11539,BDE,The Sick Bay,99,Unranked
+11539,BYD,The Sick Bay,99,Unranked
+11539,CDE,The Sick Bay,99,Unranked
+11539,CWD,The Sick Bay,99,Unranked
+11539,DXD,The Sick Bay,99,Unranked
+11539,IVD,The Sick Bay,99,Unranked
+11539,KTD,The Sick Bay,99,Unranked
+11539,KUD,The Sick Bay,99,Unranked
+11539,KYD,The Sick Bay,99,Unranked
+11539,LXD,The Sick Bay,99,Unranked
+11539,MUD,The Sick Bay,99,Unranked
+11539,NWD,The Sick Bay,99,Unranked
+11539,TUD,The Sick Bay,99,Unranked
+11539,UWD,The Sick Bay,99,Unranked
+11539,VWD,The Sick Bay,99,Unranked
+11539,XZD,The Sick Bay,99,Unranked
+11581,AVE,Natural Selection III,94,Diamond
+11581,CGD,Natural Selection III,94,Diamond
+11581,EJE,Natural Selection III,94,Diamond
+11581,FJE,Natural Selection III,94,Diamond
+11581,KFD,Natural Selection III,94,Diamond
+11581,MIE,Natural Selection III,94,Diamond
+11581,OGD,Natural Selection III,94,Diamond
+11581,OHD,Natural Selection III,94,Diamond
+11581,OJE,Natural Selection III,94,Diamond
+11581,PJE,Natural Selection III,94,Diamond
+11581,QJE,Natural Selection III,94,Diamond
+11581,RDF,Natural Selection III,94,Diamond
+11581,VDF,Natural Selection III,94,Diamond
+11581,WFD,Natural Selection III,94,Diamond
+11581,XGD,Natural Selection III,94,Diamond
+11581,YDF,Natural Selection III,94,Diamond
+11747,BCD,Natural Selection II,98,Diamond
+11747,BFD,Natural Selection II,98,Diamond
+11747,BGD,Natural Selection II,98,Diamond
+11747,EDD,Natural Selection II,98,Diamond
+11747,EOF,Natural Selection II,98,Diamond
+11747,FED,Natural Selection II,98,Diamond
+11747,FOF,Natural Selection II,98,Diamond
+11747,JOE,Natural Selection II,98,Diamond
+11747,NGD,Natural Selection II,98,Diamond
+11747,OED,Natural Selection II,98,Diamond
+11747,PDD,Natural Selection II,98,Diamond
+11747,QDD,Natural Selection II,98,Diamond
+11747,RHD,Natural Selection II,98,Diamond
+11747,XZE,Natural Selection II,98,Diamond
+11747,YZE,Natural Selection II,98,Diamond
+11747,ZZE,Natural Selection II,98,Diamond
+11782,SYG,Midnight Judgement,10,Platinum
+11796,AMB,SMTH - Bright Summit,90,Diamond
+11796,BOB,SMTH - Bright Summit,90,Diamond
+11796,COB,SMTH - Bright Summit,90,Diamond
+11796,DIA,SMTH - Bright Summit,90,Diamond
+11796,DQG,SMTH - Bright Summit,90,Diamond
+11796,EIA,SMTH - Bright Summit,90,Diamond
+11796,EQG,SMTH - Bright Summit,90,Diamond
+11796,GIA,SMTH - Bright Summit,90,Diamond
+11796,GKF,SMTH - Bright Summit,90,Diamond
+11796,IKA,SMTH - Bright Summit,90,Diamond
+11796,JKA,SMTH - Bright Summit,90,Diamond
+11796,MPB,SMTH - Bright Summit,90,Diamond
+11796,QNG,SMTH - Bright Summit,90,Diamond
+11796,RIA,SMTH - Bright Summit,90,Diamond
+11796,VRB,SMTH - Bright Summit,90,Diamond
+11796,XOB,SMTH - Bright Summit,90,Diamond
+11796,YLB,SMTH - Bright Summit,90,Diamond
+12094,GED,Nuclear Fusion,79,Diamond
+12094,KEE,Nuclear Fusion,79,Diamond
+12094,LBD,Nuclear Fusion,79,Diamond
+12094,LEE,Nuclear Fusion,79,Diamond
+12094,LUE,Nuclear Fusion,79,Diamond
+12094,MUE,Nuclear Fusion,79,Diamond
+12094,OVE,Nuclear Fusion,79,Diamond
+12094,PEF,Nuclear Fusion,79,Diamond
+12094,PVE,Nuclear Fusion,79,Diamond
+12094,QEF,Nuclear Fusion,79,Diamond
+12094,RVE,Nuclear Fusion,79,Diamond
+12094,SVE,Nuclear Fusion,79,Diamond
+12094,TVE,Nuclear Fusion,79,Diamond
+12094,UVE,Nuclear Fusion,79,Diamond
+12094,VVE,Nuclear Fusion,79,Diamond
+12094,XVE,Nuclear Fusion,79,Diamond
+12094,YVE,Nuclear Fusion,79,Diamond
+12249,AEB,Aurora Surrealis,100,Platinum
+12249,BFB,Aurora Surrealis,100,Platinum
+12249,BSB,Aurora Surrealis,100,Platinum
+12249,CFB,Aurora Surrealis,100,Platinum
+12249,DFB,Aurora Surrealis,100,Platinum
+12249,FFB,Aurora Surrealis,100,Platinum
+12249,IEB,Aurora Surrealis,100,Platinum
+12249,IMF,Aurora Surrealis,100,Platinum
+12249,JEB,Aurora Surrealis,100,Platinum
+12249,JMF,Aurora Surrealis,100,Platinum
+12249,LEB,Aurora Surrealis,100,Platinum
+12249,MEB,Aurora Surrealis,100,Platinum
+12249,NFB,Aurora Surrealis,100,Platinum
+12249,NJF,Aurora Surrealis,100,Platinum
+12249,OFB,Aurora Surrealis,100,Platinum
+12249,QFB,Aurora Surrealis,100,Platinum
+12249,RFB,Aurora Surrealis,100,Platinum
+12255,AEC,Imperial MediHaven,83,Bronze
+12255,AGC,Imperial MediHaven,83,Bronze
+12255,BJF,Imperial MediHaven,83,Bronze
+12255,CFC,Imperial MediHaven,83,Bronze
+12255,GHC,Imperial MediHaven,83,Bronze
+12255,GNE,Imperial MediHaven,83,Bronze
+12255,HGC,Imperial MediHaven,83,Bronze
+12255,IHC,Imperial MediHaven,83,Bronze
+12255,IIC,Imperial MediHaven,83,Bronze
+12255,NFC,Imperial MediHaven,83,Bronze
+12255,WJF,Imperial MediHaven,83,Bronze
+12255,XJF,Imperial MediHaven,83,Bronze
+12255,YJF,Imperial MediHaven,83,Bronze
+12255,ZGC,Imperial MediHaven,83,Bronze
+12255,ZJF,Imperial MediHaven,83,Bronze
+12505,XKA,Cul-de-sac Cartel,45,Bronze
+12645,BND,NPO - Endurance,97,Gold
+12645,CJC,NPO - Endurance,97,Gold
+12645,IND,NPO - Endurance,97,Gold
+12645,MND,NPO - Endurance,97,Gold
+12645,PND,NPO - Endurance,97,Gold
+12645,POD,NPO - Endurance,97,Gold
+12645,RDG,NPO - Endurance,97,Gold
+12645,SDG,NPO - Endurance,97,Gold
+12645,TDG,NPO - Endurance,97,Gold
+12645,ULC,NPO - Endurance,97,Gold
+12645,XMC,NPO - Endurance,97,Gold
+12645,ZSD,NPO - Endurance,97,Gold
+12863,BRD,WTF Healers,94,Gold
+12863,CCE,WTF Healers,94,Gold
+12863,DOD,WTF Healers,94,Gold
+12863,FKC,WTF Healers,94,Gold
+12863,FPD,WTF Healers,94,Gold
+12863,FQD,WTF Healers,94,Gold
+12863,HQD,WTF Healers,94,Gold
+12863,IGE,WTF Healers,94,Gold
+12863,MFE,WTF Healers,94,Gold
+12863,MJC,WTF Healers,94,Gold
+12863,NHE,WTF Healers,94,Gold
+12863,PHE,WTF Healers,94,Gold
+12863,QHE,WTF Healers,94,Gold
+12863,QMC,WTF Healers,94,Gold
+12863,RHE,WTF Healers,94,Gold
+12863,RMC,WTF Healers,94,Gold
+12863,UHE,WTF Healers,94,Gold
+12893,CNG,Darkline,86,Diamond
+12893,EQC,Darkline,86,Diamond
+12893,ERC,Darkline,86,Diamond
+12893,FRC,Darkline,86,Diamond
+12893,GRC,Darkline,86,Diamond
+12893,HRC,Darkline,86,Diamond
+12893,MDF,Darkline,86,Diamond
+12893,OEF,Darkline,86,Diamond
+12893,REF,Darkline,86,Diamond
+12893,SEF,Darkline,86,Diamond
+12893,TQC,Darkline,86,Diamond
+12893,TRC,Darkline,86,Diamond
+12893,UQC,Darkline,86,Diamond
+12893,URC,Darkline,86,Diamond
+12893,VQC,Darkline,86,Diamond
+12893,WQC,Darkline,86,Diamond
+12894,CLE,New Sith Order II,55,Gold
+12894,DLE,New Sith Order II,55,Gold
+12894,ELE,New Sith Order II,55,Gold
+12894,EXC,New Sith Order II,55,Gold
+12894,FLE,New Sith Order II,55,Gold
+12894,GLE,New Sith Order II,55,Gold
+12894,GSE,New Sith Order II,55,Gold
+12894,HSE,New Sith Order II,55,Gold
+12894,IBC,New Sith Order II,55,Gold
+12894,JBC,New Sith Order II,55,Gold
+12894,JYC,New Sith Order II,55,Gold
+12894,KYC,New Sith Order II,55,Gold
+12894,QBC,New Sith Order II,55,Gold
+12894,QZC,New Sith Order II,55,Gold
+12894,WBC,New Sith Order II,55,Gold
+12894,XBC,New Sith Order II,55,Gold
+12912,PDE,The House Of Retribution,72,Unranked
+12912,QDE,The House Of Retribution,72,Unranked
+12912,RDE,The House Of Retribution,72,Unranked
+13138,GKA,Dark Carnival,18,Gold
+13180,AXF,-Borealis-,17,Bronze
+13180,JCA,-Borealis-,17,Bronze
+13180,LXF,-Borealis-,17,Bronze
+13180,NCA,-Borealis-,17,Bronze
+13180,OCA,-Borealis-,17,Bronze
+13180,QCA,-Borealis-,17,Bronze
+13180,WCA,-Borealis-,17,Bronze
+13180,ZXF,-Borealis-,17,Bronze
+13343,AAF,The Defiant,33,Platinum
+13343,AZF,The Defiant,33,Platinum
+13343,BZF,The Defiant,33,Platinum
+13343,CZF,The Defiant,33,Platinum
+13343,DZF,The Defiant,33,Platinum
+13343,EZF,The Defiant,33,Platinum
+13343,IYF,The Defiant,33,Platinum
+13343,NZF,The Defiant,33,Platinum
+13343,OZF,The Defiant,33,Platinum
+13343,QZF,The Defiant,33,Platinum
+13343,VZF,The Defiant,33,Platinum
+13343,WZF,The Defiant,33,Platinum
+13343,XZF,The Defiant,33,Platinum
+13343,YZF,The Defiant,33,Platinum
+13343,ZZF,The Defiant,33,Platinum
+13377,ISF,The Brotherhood of War,98,Diamond
+13377,JSF,The Brotherhood of War,98,Diamond
+13377,KSF,The Brotherhood of War,98,Diamond
+13377,LSF,The Brotherhood of War,98,Diamond
+13377,ONF,The Brotherhood of War,98,Diamond
+13377,QGG,The Brotherhood of War,98,Diamond
+13377,QNF,The Brotherhood of War,98,Diamond
+13377,RGG,The Brotherhood of War,98,Diamond
+13377,RNF,The Brotherhood of War,98,Diamond
+13377,SGG,The Brotherhood of War,98,Diamond
+13377,SNF,The Brotherhood of War,98,Diamond
+13377,UGG,The Brotherhood of War,98,Diamond
+13377,UNF,The Brotherhood of War,98,Diamond
+13377,YFG,The Brotherhood of War,98,Diamond
+13421,AKA,Wild Guardians,75,Silver
+13421,DKA,Wild Guardians,75,Silver
+13421,EKA,Wild Guardians,75,Silver
+13421,TKA,Wild Guardians,75,Silver
+13502,BME,Dead or Alive,95,Platinum
+13502,BQD,Dead or Alive,95,Platinum
+13502,BTD,Dead or Alive,95,Platinum
+13502,CYD,Dead or Alive,95,Platinum
+13502,HUD,Dead or Alive,95,Platinum
+13502,HVD,Dead or Alive,95,Platinum
+13502,KPD,Dead or Alive,95,Platinum
+13502,KSD,Dead or Alive,95,Platinum
+13502,LRD,Dead or Alive,95,Platinum
+13502,LTD,Dead or Alive,95,Platinum
+13502,NTD,Dead or Alive,95,Platinum
+13502,OVD,Dead or Alive,95,Platinum
+13502,PVD,Dead or Alive,95,Platinum
+13502,RRD,Dead or Alive,95,Platinum
+13502,RTD,Dead or Alive,95,Platinum
+13502,USD,Dead or Alive,95,Platinum
+13502,ZRD,Dead or Alive,95,Platinum
+13665,CGC,PT-Penguins,86,Diamond
+13665,CHC,PT-Penguins,86,Diamond
+13665,GFC,PT-Penguins,86,Diamond
+13665,HIC,PT-Penguins,86,Diamond
+13665,IEC,PT-Penguins,86,Diamond
+13665,LFC,PT-Penguins,86,Diamond
+13665,MNE,PT-Penguins,86,Diamond
+13665,TIC,PT-Penguins,86,Diamond
+13665,UIC,PT-Penguins,86,Diamond
+13665,WFC,PT-Penguins,86,Diamond
+13665,XHC,PT-Penguins,86,Diamond
+13665,YEC,PT-Penguins,86,Diamond
+13665,ZEC,PT-Penguins,86,Diamond
+13665,ZHC,PT-Penguins,86,Diamond
+13784,FTC,WarBirds,77,Diamond
+13784,HSC,WarBirds,77,Diamond
+13784,ISC,WarBirds,77,Diamond
+13784,JSC,WarBirds,77,Diamond
+13784,KSC,WarBirds,77,Diamond
+13784,KTC,WarBirds,77,Diamond
+13784,LSC,WarBirds,77,Diamond
+13784,NTC,WarBirds,77,Diamond
+13784,OTC,WarBirds,77,Diamond
+13784,PTC,WarBirds,77,Diamond
+13784,RSC,WarBirds,77,Diamond
+13784,SSC,WarBirds,77,Diamond
+13784,TTC,WarBirds,77,Diamond
+13784,UTC,WarBirds,77,Diamond
+13784,VSC,WarBirds,77,Diamond
+13784,VTC,WarBirds,77,Diamond
+13784,WTC,WarBirds,77,Diamond
+13789,AUB,Aperture Science,100,Bronze
+13789,BUB,Aperture Science,100,Bronze
+13789,EWB,Aperture Science,100,Bronze
+13789,JJF,Aperture Science,100,Bronze
+13789,NWB,Aperture Science,100,Bronze
+13789,OGF,Aperture Science,100,Bronze
+13789,OWB,Aperture Science,100,Bronze
+13789,PDG,Aperture Science,100,Bronze
+13789,PGF,Aperture Science,100,Bronze
+13789,QGF,Aperture Science,100,Bronze
+13789,VQF,Aperture Science,100,Bronze
+13789,ZUB,Aperture Science,100,Bronze
+13851,CFA,Nuclear Therapy,98,Platinum
+13851,DFA,Nuclear Therapy,98,Platinum
+13851,EFA,Nuclear Therapy,98,Platinum
+13851,FFA,Nuclear Therapy,98,Platinum
+13851,GFA,Nuclear Therapy,98,Platinum
+13851,LFA,Nuclear Therapy,98,Platinum
+13851,NFA,Nuclear Therapy,98,Platinum
+13851,PFA,Nuclear Therapy,98,Platinum
+13851,PGA,Nuclear Therapy,98,Platinum
+13851,RFA,Nuclear Therapy,98,Platinum
+13851,RGA,Nuclear Therapy,98,Platinum
+13851,SGA,Nuclear Therapy,98,Platinum
+13851,TFA,Nuclear Therapy,98,Platinum
+13851,UFA,Nuclear Therapy,98,Platinum
+13851,VFA,Nuclear Therapy,98,Platinum
+13851,XFA,Nuclear Therapy,98,Platinum
+13851,ZPG,Nuclear Therapy,98,Platinum
+14052,BWF,NPO - Serenity,53,Bronze
+14052,FWF,NPO - Serenity,53,Bronze
+14052,GWF,NPO - Serenity,53,Bronze
+14052,HWF,NPO - Serenity,53,Bronze
+14052,KLC,NPO - Serenity,53,Bronze
+14052,ROD,NPO - Serenity,53,Bronze
+14052,RPD,NPO - Serenity,53,Bronze
+14052,SPD,NPO - Serenity,53,Bronze
+14052,TPD,NPO - Serenity,53,Bronze
+14078,CUC,~Twisted~,90,Diamond
+14078,ESC,~Twisted~,90,Diamond
+14078,EUC,~Twisted~,90,Diamond
+14078,FUC,~Twisted~,90,Diamond
+14078,GUC,~Twisted~,90,Diamond
+14078,HUC,~Twisted~,90,Diamond
+14078,IUC,~Twisted~,90,Diamond
+14078,KRG,~Twisted~,90,Diamond
+14078,NUC,~Twisted~,90,Diamond
+14078,OUC,~Twisted~,90,Diamond
+14078,PUC,~Twisted~,90,Diamond
+14078,QUC,~Twisted~,90,Diamond
+14078,UUC,~Twisted~,90,Diamond
+14078,VUC,~Twisted~,90,Diamond
+14078,XUC,~Twisted~,90,Diamond
+14078,YUC,~Twisted~,90,Diamond
+14078,ZUC,~Twisted~,90,Diamond
+14365,AOF,JFK 2.1,100,Diamond
+14365,DPE,JFK 2.1,100,Diamond
+14365,GYC,JFK 2.1,100,Diamond
+14365,NXF,JFK 2.1,100,Diamond
+14365,OZC,JFK 2.1,100,Diamond
+14365,QPE,JFK 2.1,100,Diamond
+14365,RBC,JFK 2.1,100,Diamond
+14365,RPE,JFK 2.1,100,Diamond
+14365,RQE,JFK 2.1,100,Diamond
+14365,TQE,JFK 2.1,100,Diamond
+14365,TXC,JFK 2.1,100,Diamond
+14365,TYF,JFK 2.1,100,Diamond
+14365,UQE,JFK 2.1,100,Diamond
+14365,UXC,JFK 2.1,100,Diamond
+14365,WXC,JFK 2.1,100,Diamond
+14365,YOF,JFK 2.1,100,Diamond
+14365,ZOF,JFK 2.1,100,Diamond
+14386,BAA,Blue Rock Cartel (BRC),62,Gold
+14386,IVB,Blue Rock Cartel (BRC),62,Gold
+14386,KTB,Blue Rock Cartel (BRC),62,Gold
+14386,LBG,Blue Rock Cartel (BRC),62,Gold
+14386,LTB,Blue Rock Cartel (BRC),62,Gold
+14386,MTB,Blue Rock Cartel (BRC),62,Gold
+14386,NCG,Blue Rock Cartel (BRC),62,Gold
+14386,NUB,Blue Rock Cartel (BRC),62,Gold
+14386,OCG,Blue Rock Cartel (BRC),62,Gold
+14386,OUB,Blue Rock Cartel (BRC),62,Gold
+14386,PUB,Blue Rock Cartel (BRC),62,Gold
+14386,QCG,Blue Rock Cartel (BRC),62,Gold
+14386,QUB,Blue Rock Cartel (BRC),62,Gold
+14386,RUB,Blue Rock Cartel (BRC),62,Gold
+14386,SCG,Blue Rock Cartel (BRC),62,Gold
+14386,TCG,Blue Rock Cartel (BRC),62,Gold
+14438,KAB,Core,17,Gold
+14438,MAB,Core,17,Gold
+14438,NBB,Core,17,Gold
+14438,OBB,Core,17,Gold
+14581,DHF,Project Nimbus,77,Platinum
+14581,EHF,Project Nimbus,77,Platinum
+14581,FHF,Project Nimbus,77,Platinum
+14581,GHF,Project Nimbus,77,Platinum
+14581,HHF,Project Nimbus,77,Platinum
+14581,IHF,Project Nimbus,77,Platinum
+14581,KGF,Project Nimbus,77,Platinum
+14581,KHF,Project Nimbus,77,Platinum
+14581,NIF,Project Nimbus,77,Platinum
+14581,OIF,Project Nimbus,77,Platinum
+14581,QIF,Project Nimbus,77,Platinum
+14581,RIF,Project Nimbus,77,Platinum
+14581,SIF,Project Nimbus,77,Platinum
+14581,TIF,Project Nimbus,77,Platinum
+14633,ELB,SMTH - Hermit Sage,99,Bronze
+14633,FLB,SMTH - Hermit Sage,99,Bronze
+14633,HLB,SMTH - Hermit Sage,99,Bronze
+14633,KLB,SMTH - Hermit Sage,99,Bronze
+14633,MLB,SMTH - Hermit Sage,99,Bronze
+14633,MQB,SMTH - Hermit Sage,99,Bronze
+14633,NRB,SMTH - Hermit Sage,99,Bronze
+14633,PLF,SMTH - Hermit Sage,99,Bronze
+14633,RLF,SMTH - Hermit Sage,99,Bronze
+14633,TRB,SMTH - Hermit Sage,99,Bronze
+14633,VLB,SMTH - Hermit Sage,99,Bronze
+14633,WLB,SMTH - Hermit Sage,99,Bronze
+14633,WRB,SMTH - Hermit Sage,99,Bronze
+14633,XLB,SMTH - Hermit Sage,99,Bronze
+14633,XRB,SMTH - Hermit Sage,99,Bronze
+14633,YRB,SMTH - Hermit Sage,99,Bronze
+14686,ATF,Endless Endeavor,82,Platinum
+14686,BTF,Endless Endeavor,82,Platinum
+14686,BXC,Endless Endeavor,82,Platinum
+14686,CTF,Endless Endeavor,82,Platinum
+14686,DTF,Endless Endeavor,82,Platinum
+14686,MSF,Endless Endeavor,82,Platinum
+14686,NNF,Endless Endeavor,82,Platinum
+14686,PNF,Endless Endeavor,82,Platinum
+14686,RYC,Endless Endeavor,82,Platinum
+14686,SSE,Endless Endeavor,82,Platinum
+14686,TSE,Endless Endeavor,82,Platinum
+14686,USE,Endless Endeavor,82,Platinum
+14686,WTF,Endless Endeavor,82,Platinum
+14686,XTF,Endless Endeavor,82,Platinum
+14686,XXC,Endless Endeavor,82,Platinum
+14686,YTF,Endless Endeavor,82,Platinum
+14686,ZTF,Endless Endeavor,82,Platinum
+14760,ANC,Dopeheads on Mopeds,69,Silver
+14760,CNC,Dopeheads on Mopeds,69,Silver
+14760,DNC,Dopeheads on Mopeds,69,Silver
+14760,ENC,Dopeheads on Mopeds,69,Silver
+14760,GNC,Dopeheads on Mopeds,69,Silver
+14760,GOC,Dopeheads on Mopeds,69,Silver
+14760,MNC,Dopeheads on Mopeds,69,Silver
+14760,OOC,Dopeheads on Mopeds,69,Silver
+14760,POC,Dopeheads on Mopeds,69,Silver
+14760,QOC,Dopeheads on Mopeds,69,Silver
+14760,ROC,Dopeheads on Mopeds,69,Silver
+14760,TOC,Dopeheads on Mopeds,69,Silver
+14760,UOC,Dopeheads on Mopeds,69,Silver
+14760,UPC,Dopeheads on Mopeds,69,Silver
+14760,VOC,Dopeheads on Mopeds,69,Silver
+14760,WNG,Dopeheads on Mopeds,69,Silver
+14760,WOC,Dopeheads on Mopeds,69,Silver
+14821,CJB,JFK - Future Killers,78,Diamond
+14821,DJB,JFK - Future Killers,78,Diamond
+14821,EJB,JFK - Future Killers,78,Diamond
+14821,FJB,JFK - Future Killers,78,Diamond
+14821,GJB,JFK - Future Killers,78,Diamond
+14821,HAC,JFK - Future Killers,78,Diamond
+14821,IJB,JFK - Future Killers,78,Diamond
+14821,JJB,JFK - Future Killers,78,Diamond
+14821,KJB,JFK - Future Killers,78,Diamond
+14821,LJB,JFK - Future Killers,78,Diamond
+14821,MJB,JFK - Future Killers,78,Diamond
+14821,NKB,JFK - Future Killers,78,Diamond
+14821,PKB,JFK - Future Killers,78,Diamond
+14821,SKB,JFK - Future Killers,78,Diamond
+14821,TJB,JFK - Future Killers,78,Diamond
+14821,UCG,JFK - Future Killers,78,Diamond
+14821,VCG,JFK - Future Killers,78,Diamond
+15120,EVD,Wolf Pack Next Generation,91,Gold
+15120,FYD,Wolf Pack Next Generation,91,Gold
+15120,GZD,Wolf Pack Next Generation,91,Gold
+15120,HYD,Wolf Pack Next Generation,91,Gold
+15120,OTD,Wolf Pack Next Generation,91,Gold
+15120,PBD,Wolf Pack Next Generation,91,Gold
+15120,QFE,Wolf Pack Next Generation,91,Gold
+15120,QGE,Wolf Pack Next Generation,91,Gold
+15120,RFE,Wolf Pack Next Generation,91,Gold
+15120,RGE,Wolf Pack Next Generation,91,Gold
+15120,SGE,Wolf Pack Next Generation,91,Gold
+15120,SXD,Wolf Pack Next Generation,91,Gold
+15120,UZE,Wolf Pack Next Generation,91,Gold
+15120,XYD,Wolf Pack Next Generation,91,Gold
+15120,ZAD,Wolf Pack Next Generation,91,Gold
+15120,ZZD,Wolf Pack Next Generation,91,Gold
+15151,AAG,The ZOO,95,Platinum
+15151,DAG,The ZOO,95,Platinum
+15151,EAG,The ZOO,95,Platinum
+15151,EBG,The ZOO,95,Platinum
+15151,FAG,The ZOO,95,Platinum
+15151,FBG,The ZOO,95,Platinum
+15151,FTG,The ZOO,95,Platinum
+15151,GTG,The ZOO,95,Platinum
+15151,HAG,The ZOO,95,Platinum
+15151,ITG,The ZOO,95,Platinum
+15151,KTG,The ZOO,95,Platinum
+15151,LTG,The ZOO,95,Platinum
+15151,NUG,The ZOO,95,Platinum
+15151,ZAG,The ZOO,95,Platinum
+15154,ALA,The Fallen,96,Unranked
+15154,BLA,The Fallen,96,Unranked
+15154,CLA,The Fallen,96,Unranked
+15154,DKF,The Fallen,96,Unranked
+15154,DLA,The Fallen,96,Unranked
+15154,FLA,The Fallen,96,Unranked
+15154,GLA,The Fallen,96,Unranked
+15154,HLA,The Fallen,96,Unranked
+15154,ILA,The Fallen,96,Unranked
+15154,JKF,The Fallen,96,Unranked
+15154,ULA,The Fallen,96,Unranked
+15154,WLA,The Fallen,96,Unranked
+15154,XLA,The Fallen,96,Unranked
+15154,ZLA,The Fallen,96,Unranked
+15222,BCF,Mortiferi,48,Platinum
+15222,EEB,Mortiferi,48,Platinum
+15222,FEB,Mortiferi,48,Platinum
+15222,GEB,Mortiferi,48,Platinum
+15222,GFB,Mortiferi,48,Platinum
+15222,HEB,Mortiferi,48,Platinum
+15222,PFB,Mortiferi,48,Platinum
+15222,SFB,Mortiferi,48,Platinum
+15222,TFB,Mortiferi,48,Platinum
+15222,UFB,Mortiferi,48,Platinum
+15222,VFB,Mortiferi,48,Platinum
+15222,WFB,Mortiferi,48,Platinum
+15222,XFB,Mortiferi,48,Platinum
+15222,YFB,Mortiferi,48,Platinum
+15222,ZFB,Mortiferi,48,Platinum
+15256,FEC,Defenestration,14,Platinum
+15256,NFG,Defenestration,14,Platinum
+15256,OFG,Defenestration,14,Platinum
+15256,PFG,Defenestration,14,Platinum
+15256,QFG,Defenestration,14,Platinum
+15256,TTE,Defenestration,14,Platinum
+15256,UTE,Defenestration,14,Platinum
+15256,VDC,Defenestration,14,Platinum
+15286,BIA,Luscious Nightmares,81,Gold
+15286,EOB,Luscious Nightmares,81,Gold
+15286,FIA,Luscious Nightmares,81,Gold
+15286,HIA,Luscious Nightmares,81,Gold
+15286,HKA,Luscious Nightmares,81,Gold
+15286,RNG,Luscious Nightmares,81,Gold
+15286,YOB,Luscious Nightmares,81,Gold
+15286,ZOB,Luscious Nightmares,81,Gold
+15446,BNC,Druggies in Snuggies,100,Diamond
+15446,BOC,Druggies in Snuggies,100,Diamond
+15446,COC,Druggies in Snuggies,100,Diamond
+15446,FNC,Druggies in Snuggies,100,Diamond
+15446,IPC,Druggies in Snuggies,100,Diamond
+15446,IQG,Druggies in Snuggies,100,Diamond
+15446,SOC,Druggies in Snuggies,100,Diamond
+15446,TNC,Druggies in Snuggies,100,Diamond
+15446,UNC,Druggies in Snuggies,100,Diamond
+15446,UNG,Druggies in Snuggies,100,Diamond
+15446,VNG,Druggies in Snuggies,100,Diamond
+15446,WNC,Druggies in Snuggies,100,Diamond
+15446,XNC,Druggies in Snuggies,100,Diamond
+15446,XOC,Druggies in Snuggies,100,Diamond
+15446,YOC,Druggies in Snuggies,100,Diamond
+15446,ZNC,Druggies in Snuggies,100,Diamond
+15446,ZOC,Druggies in Snuggies,100,Diamond
+15547,MYF,Anarchist of Torn,47,Silver
+15547,PZF,Anarchist of Torn,47,Silver
+15547,RZF,Anarchist of Torn,47,Silver
+15547,ZAF,Anarchist of Torn,47,Silver
+15644,FCC,New Sith Order,84,Platinum
+15644,FSE,New Sith Order,84,Platinum
+15644,HJF,New Sith Order,84,Platinum
+15644,IDC,New Sith Order,84,Platinum
+15644,IJF,New Sith Order,84,Platinum
+15644,ILE,New Sith Order,84,Platinum
+15644,JLE,New Sith Order,84,Platinum
+15644,KBC,New Sith Order,84,Platinum
+15644,OBC,New Sith Order,84,Platinum
+15644,PDC,New Sith Order,84,Platinum
+15644,SEC,New Sith Order,84,Platinum
+15644,SLE,New Sith Order,84,Platinum
+15644,TLE,New Sith Order,84,Platinum
+15644,UDC,New Sith Order,84,Platinum
+15644,ULE,New Sith Order,84,Platinum
+15644,XDC,New Sith Order,84,Platinum
+15644,YDC,New Sith Order,84,Platinum
+15655,EDC,Ravage,99,Platinum
+15655,ISE,Ravage,99,Platinum
+15655,JCC,Ravage,99,Platinum
+15655,KSE,Ravage,99,Platinum
+15655,LSE,Ravage,99,Platinum
+15655,MSE,Ravage,99,Platinum
+15655,NAC,Ravage,99,Platinum
+15655,NBC,Ravage,99,Platinum
+15655,ODC,Ravage,99,Platinum
+15655,OTE,Ravage,99,Platinum
+15655,PAC,Ravage,99,Platinum
+15655,PZC,Ravage,99,Platinum
+15655,RZC,Ravage,99,Platinum
+15655,UZC,Ravage,99,Platinum
+15655,WAC,Ravage,99,Platinum
+15929,BEC,The Inquisition,78,Platinum
+15929,EJC,The Inquisition,78,Platinum
+15929,GEC,The Inquisition,78,Platinum
+15929,HHC,The Inquisition,78,Platinum
+15929,HLC,The Inquisition,78,Platinum
+15929,HNE,The Inquisition,78,Platinum
+15929,IJC,The Inquisition,78,Platinum
+15929,JIC,The Inquisition,78,Platinum
+15929,KHC,The Inquisition,78,Platinum
+15929,KIC,The Inquisition,78,Platinum
+15929,LIC,The Inquisition,78,Platinum
+15929,NGC,The Inquisition,78,Platinum
+15929,NHC,The Inquisition,78,Platinum
+15929,OEC,The Inquisition,78,Platinum
+15929,UME,The Inquisition,78,Platinum
+15929,WHC,The Inquisition,78,Platinum
+15929,YND,The Inquisition,78,Platinum
+16040,CDG,Winter is Coming,83,Platinum
+16040,CIF,Winter is Coming,83,Platinum
+16040,DIF,Winter is Coming,83,Platinum
+16040,EIF,Winter is Coming,83,Platinum
+16040,FIF,Winter is Coming,83,Platinum
+16040,GDA,Winter is Coming,83,Platinum
+16040,GKC,Winter is Coming,83,Platinum
+16040,ICG,Winter is Coming,83,Platinum
+16040,MDA,Winter is Coming,83,Platinum
+16040,MME,Winter is Coming,83,Platinum
+16040,PQD,Winter is Coming,83,Platinum
+16040,QND,Winter is Coming,83,Platinum
+16040,UDA,Winter is Coming,83,Platinum
+16040,URE,Winter is Coming,83,Platinum
+16040,WPD,Winter is Coming,83,Platinum
+16040,ZND,Winter is Coming,83,Platinum
+16040,ZUE,Winter is Coming,83,Platinum
+16053,AKC,Asylum 2.0,45,Platinum
+16053,ALC,Asylum 2.0,45,Platinum
+16053,HKC,Asylum 2.0,45,Platinum
+16053,ILC,Asylum 2.0,45,Platinum
+16053,LGC,Asylum 2.0,45,Platinum
+16053,MFC,Asylum 2.0,45,Platinum
+16053,NIC,Asylum 2.0,45,Platinum
+16053,QHC,Asylum 2.0,45,Platinum
+16053,SIC,Asylum 2.0,45,Platinum
+16053,UDE,Asylum 2.0,45,Platinum
+16053,VDE,Asylum 2.0,45,Platinum
+16053,WTE,Asylum 2.0,45,Platinum
+16053,XKC,Asylum 2.0,45,Platinum
+16053,ZLC,Asylum 2.0,45,Platinum
+16057,EYB,Glory to Heroes,66,Platinum
+16057,KYB,Glory to Heroes,66,Platinum
+16057,LYB,Glory to Heroes,66,Platinum
+16057,MPG,Glory to Heroes,66,Platinum
+16057,MYB,Glory to Heroes,66,Platinum
+16057,NQG,Glory to Heroes,66,Platinum
+16057,NZB,Glory to Heroes,66,Platinum
+16057,OQG,Glory to Heroes,66,Platinum
+16057,QMF,Glory to Heroes,66,Platinum
+16057,RMF,Glory to Heroes,66,Platinum
+16057,VZB,Glory to Heroes,66,Platinum
+16057,YCF,Glory to Heroes,66,Platinum
+16057,YYB,Glory to Heroes,66,Platinum
+16079,PBB,Below the Wake,54,Platinum
+16079,QBB,Below the Wake,54,Platinum
+16079,QTG,Below the Wake,54,Platinum
+16079,RBB,Below the Wake,54,Platinum
+16079,TBB,Below the Wake,54,Platinum
+16120,DAF,WarDogs CM,29,Unranked
+16120,DOE,WarDogs CM,29,Unranked
+16120,EAF,WarDogs CM,29,Unranked
+16120,GAF,WarDogs CM,29,Unranked
+16120,JXD,WarDogs CM,29,Unranked
+16120,KZD,WarDogs CM,29,Unranked
+16120,LBB,WarDogs CM,29,Unranked
+16120,MBB,WarDogs CM,29,Unranked
+16120,NEE,WarDogs CM,29,Unranked
+16120,NYD,WarDogs CM,29,Unranked
+16120,QAD,WarDogs CM,29,Unranked
+16120,XEE,WarDogs CM,29,Unranked
+16247,FRD,Capacity X,60,Platinum
+16247,FVD,Capacity X,60,Platinum
+16247,KQD,Capacity X,60,Platinum
+16247,LQD,Capacity X,60,Platinum
+16247,MQD,Capacity X,60,Platinum
+16247,NRD,Capacity X,60,Platinum
+16247,OND,Capacity X,60,Platinum
+16247,ORD,Capacity X,60,Platinum
+16247,ROE,Capacity X,60,Platinum
+16247,SDE,Capacity X,60,Platinum
+16247,TDE,Capacity X,60,Platinum
+16247,TTD,Capacity X,60,Platinum
+16247,UPD,Capacity X,60,Platinum
+16247,UTD,Capacity X,60,Platinum
+16247,VTD,Capacity X,60,Platinum
+16247,XQD,Capacity X,60,Platinum
+16282,AEF,Nuclear Winter,99,Diamond
+16282,DUE,Nuclear Winter,99,Diamond
+16282,EUE,Nuclear Winter,99,Diamond
+16282,FEE,Nuclear Winter,99,Diamond
+16282,FUE,Nuclear Winter,99,Diamond
+16282,GEE,Nuclear Winter,99,Diamond
+16282,HUE,Nuclear Winter,99,Diamond
+16282,IEE,Nuclear Winter,99,Diamond
+16282,IUE,Nuclear Winter,99,Diamond
+16282,JDF,Nuclear Winter,99,Diamond
+16282,JEE,Nuclear Winter,99,Diamond
+16282,JUE,Nuclear Winter,99,Diamond
+16282,NEF,Nuclear Winter,99,Diamond
+16282,TEF,Nuclear Winter,99,Diamond
+16282,UEF,Nuclear Winter,99,Diamond
+16282,VEF,Nuclear Winter,99,Diamond
+16282,WEF,Nuclear Winter,99,Diamond
+16299,AIE,Neon Cartel,95,Gold
+16299,XIE,Neon Cartel,95,Gold
+16299,YIE,Neon Cartel,95,Gold
+16299,ZIE,Neon Cartel,95,Gold
+16312,AAD,39th Street Killers X,98,Diamond
+16312,DFD,39th Street Killers X,98,Diamond
+16312,FHD,39th Street Killers X,98,Diamond
+16312,GBD,39th Street Killers X,98,Diamond
+16312,KDD,39th Street Killers X,98,Diamond
+16312,LFD,39th Street Killers X,98,Diamond
+16312,LGD,39th Street Killers X,98,Diamond
+16312,NBD,39th Street Killers X,98,Diamond
+16312,NCD,39th Street Killers X,98,Diamond
+16312,RYD,39th Street Killers X,98,Diamond
+16312,SYD,39th Street Killers X,98,Diamond
+16312,VZD,39th Street Killers X,98,Diamond
+16312,WAE,39th Street Killers X,98,Diamond
+16312,XAE,39th Street Killers X,98,Diamond
+16312,XED,39th Street Killers X,98,Diamond
+16312,YAE,39th Street Killers X,98,Diamond
+16312,ZAE,39th Street Killers X,98,Diamond
+16335,APC,SMTH - November Chopin,97,Diamond
+16335,BPC,SMTH - November Chopin,97,Diamond
+16335,CPC,SMTH - November Chopin,97,Diamond
+16335,CPG,SMTH - November Chopin,97,Diamond
+16335,JHA,SMTH - November Chopin,97,Diamond
+16335,PPC,SMTH - November Chopin,97,Diamond
+16335,TMF,SMTH - November Chopin,97,Diamond
+16335,UMF,SMTH - November Chopin,97,Diamond
+16335,VMF,SMTH - November Chopin,97,Diamond
+16335,WMF,SMTH - November Chopin,97,Diamond
+16335,XMF,SMTH - November Chopin,97,Diamond
+16335,XPC,SMTH - November Chopin,97,Diamond
+16335,YMF,SMTH - November Chopin,97,Diamond
+16335,YPC,SMTH - November Chopin,97,Diamond
+16335,ZZB,SMTH - November Chopin,97,Diamond
+16424,IXB,SMTH - HoYoverse,98,Bronze
+16424,JPG,SMTH - HoYoverse,98,Bronze
+16424,KLF,SMTH - HoYoverse,98,Bronze
+16424,KXB,SMTH - HoYoverse,98,Bronze
+16424,LLF,SMTH - HoYoverse,98,Bronze
+16424,LQB,SMTH - HoYoverse,98,Bronze
+16424,LXB,SMTH - HoYoverse,98,Bronze
+16424,MXB,SMTH - HoYoverse,98,Bronze
+16424,QLF,SMTH - HoYoverse,98,Bronze
+16424,WQB,SMTH - HoYoverse,98,Bronze
+16424,XQB,SMTH - HoYoverse,98,Bronze
+16424,YQB,SMTH - HoYoverse,98,Bronze
+16424,ZQB,SMTH - HoYoverse,98,Bronze
+16443,ADE,Undead Covenant,61,Platinum
+16443,VRD,Undead Covenant,61,Platinum
+16443,ZDE,Undead Covenant,61,Platinum
+16503,FQF,The Four Twenty C-K-A,101,Bronze
+16503,GQF,The Four Twenty C-K-A,101,Bronze
+16503,HQF,The Four Twenty C-K-A,101,Bronze
+16503,IQF,The Four Twenty C-K-A,101,Bronze
+16503,JIB,The Four Twenty C-K-A,101,Bronze
+16503,LQF,The Four Twenty C-K-A,101,Bronze
+16503,MUC,The Four Twenty C-K-A,101,Bronze
+16503,NRF,The Four Twenty C-K-A,101,Bronze
+16503,ORF,The Four Twenty C-K-A,101,Bronze
+16503,OWC,The Four Twenty C-K-A,101,Bronze
+16503,PRF,The Four Twenty C-K-A,101,Bronze
+16503,UWC,The Four Twenty C-K-A,101,Bronze
+16503,VWC,The Four Twenty C-K-A,101,Bronze
+16628,DKE,Chain Reaction,96,Diamond
+16628,EKE,Chain Reaction,96,Diamond
+16628,EYD,Chain Reaction,96,Diamond
+16628,FKE,Chain Reaction,96,Diamond
+16628,GKE,Chain Reaction,96,Diamond
+16628,HKE,Chain Reaction,96,Diamond
+16628,IKE,Chain Reaction,96,Diamond
+16628,KKE,Chain Reaction,96,Diamond
+16628,LAD,Chain Reaction,96,Diamond
+16628,MCD,Chain Reaction,96,Diamond
+16628,QFD,Chain Reaction,96,Diamond
+16628,RED,Chain Reaction,96,Diamond
+16628,UED,Chain Reaction,96,Diamond
+16628,VCD,Chain Reaction,96,Diamond
+16628,VED,Chain Reaction,96,Diamond
+16628,ZBD,Chain Reaction,96,Diamond
+16696,FOE,PT-Guemedolphinos,35,Gold
+17055,POB,Natural Born Killers,34,Platinum
+17055,WNB,Natural Born Killers,34,Platinum
+17055,XNB,Natural Born Killers,34,Platinum
+17055,YNB,Natural Born Killers,34,Platinum
+17133,ALF,Torn Medical,94,Silver
+17133,BLF,Torn Medical,94,Silver
+17133,CLF,Torn Medical,94,Silver
+17133,DLF,Torn Medical,94,Silver
+17133,GKB,Torn Medical,94,Silver
+17133,IKB,Torn Medical,94,Silver
+17133,MKB,Torn Medical,94,Silver
+17133,MRB,Torn Medical,94,Silver
+17133,NLB,Torn Medical,94,Silver
+17133,OLB,Torn Medical,94,Silver
+17133,PLB,Torn Medical,94,Silver
+17133,RLB,Torn Medical,94,Silver
+17133,TLB,Torn Medical,94,Silver
+17133,UHA,Torn Medical,94,Silver
+17133,UOG,Torn Medical,94,Silver
+17133,ZHA,Torn Medical,94,Silver
+17133,ZLF,Torn Medical,94,Silver
+17587,BSF,Nomads 2.0,42,Gold
+17924,JDB,The Brotherhood of Light,44,Bronze
+17924,KDB,The Brotherhood of Light,44,Bronze
+17924,LMA,The Brotherhood of Light,44,Bronze
+17924,MDB,The Brotherhood of Light,44,Bronze
+17924,NEB,The Brotherhood of Light,44,Bronze
+17924,NNB,The Brotherhood of Light,44,Bronze
+17924,REB,The Brotherhood of Light,44,Bronze
+17924,RMA,The Brotherhood of Light,44,Bronze
+17924,SMA,The Brotherhood of Light,44,Bronze
+17924,TMA,The Brotherhood of Light,44,Bronze
+18090,CKC,REK&morty,12,Gold
+18090,FYF,REK&morty,12,Gold
+18090,HDC,REK&morty,12,Gold
+18090,HYF,REK&morty,12,Gold
+18090,JYF,REK&morty,12,Gold
+18090,KYF,REK&morty,12,Gold
+18090,LYF,REK&morty,12,Gold
+18090,MDG,REK&morty,12,Gold
+18090,MEG,REK&morty,12,Gold
+18090,OCC,REK&morty,12,Gold
+18090,VTE,REK&morty,12,Gold
+18090,XIC,REK&morty,12,Gold
+18090,YAF,REK&morty,12,Gold
+18420,FZF,The Black Knights,52,Silver
+18420,KZF,The Black Knights,52,Silver
+18420,LZF,The Black Knights,52,Silver
+18420,OAF,The Black Knights,52,Silver
+18420,PAF,The Black Knights,52,Silver
+18477,HDA,Anonymous,80,Unranked
+18477,OHF,Anonymous,80,Unranked
+18477,QHF,Anonymous,80,Unranked
+18477,ZDA,Anonymous,80,Unranked
+18569,BBE,Romania Elite Kommando,93,Diamond
+18569,CBE,Romania Elite Kommando,93,Diamond
+18569,DBE,Romania Elite Kommando,93,Diamond
+18569,EBE,Romania Elite Kommando,93,Diamond
+18569,FAE,Romania Elite Kommando,93,Diamond
+18569,GAE,Romania Elite Kommando,93,Diamond
+18569,HAE,Romania Elite Kommando,93,Diamond
+18569,HZD,Romania Elite Kommando,93,Diamond
+18569,IAE,Romania Elite Kommando,93,Diamond
+18569,IBE,Romania Elite Kommando,93,Diamond
+18569,JBE,Romania Elite Kommando,93,Diamond
+18569,KBE,Romania Elite Kommando,93,Diamond
+18569,KED,Romania Elite Kommando,93,Diamond
+18569,LAE,Romania Elite Kommando,93,Diamond
+18569,MAE,Romania Elite Kommando,93,Diamond
+18569,OBE,Romania Elite Kommando,93,Diamond
+18569,YTD,Romania Elite Kommando,93,Diamond
+18597,AVB,The Collective Resistance,92,Bronze
+18597,EUB,The Collective Resistance,92,Bronze
+18597,HUB,The Collective Resistance,92,Bronze
+18597,ODG,The Collective Resistance,92,Bronze
+18597,SQF,The Collective Resistance,92,Bronze
+18597,TQF,The Collective Resistance,92,Bronze
+18597,VVB,The Collective Resistance,92,Bronze
+18597,WUB,The Collective Resistance,92,Bronze
+18597,WVB,The Collective Resistance,92,Bronze
+18597,XUB,The Collective Resistance,92,Bronze
+18597,XVB,The Collective Resistance,92,Bronze
+18597,YUB,The Collective Resistance,92,Bronze
+18597,YVB,The Collective Resistance,92,Bronze
+18597,ZVB,The Collective Resistance,92,Bronze
+18736,AFE,Monarch Research,100,Diamond
+18736,BFE,Monarch Research,100,Diamond
+18736,CFE,Monarch Research,100,Diamond
+18736,EFE,Monarch Research,100,Diamond
+18736,FFE,Monarch Research,100,Diamond
+18736,GFE,Monarch Research,100,Diamond
+18736,HFE,Monarch Research,100,Diamond
+18736,IFE,Monarch Research,100,Diamond
+18736,JFE,Monarch Research,100,Diamond
+18736,KFE,Monarch Research,100,Diamond
+18736,MFD,Monarch Research,100,Diamond
+18736,SRC,Monarch Research,100,Diamond
+18736,VFE,Monarch Research,100,Diamond
+18736,WFE,Monarch Research,100,Diamond
+18736,XFE,Monarch Research,100,Diamond
+18736,YFE,Monarch Research,100,Diamond
+18736,ZFE,Monarch Research,100,Diamond
+19982,OYG,Midnight Ghosts,21,Bronze
+20211,EKB,CR-ACK,55,Silver
+20211,HKB,CR-ACK,55,Silver
+20211,JKB,CR-ACK,55,Silver
+20211,JRB,CR-ACK,55,Silver
+20211,KKB,CR-ACK,55,Silver
+20211,KRB,CR-ACK,55,Silver
+20211,LKB,CR-ACK,55,Silver
+20211,MGA,CR-ACK,55,Silver
+20211,SLB,CR-ACK,55,Silver
+20211,YKB,CR-ACK,55,Silver
+20303,DIC,The Saviors,47,Platinum
+20303,EIC,The Saviors,47,Platinum
+20303,LEC,The Saviors,47,Platinum
+20303,MHC,The Saviors,47,Platinum
+20303,PGC,The Saviors,47,Platinum
+20303,SKC,The Saviors,47,Platinum
+20303,WGC,The Saviors,47,Platinum
+20303,YIC,The Saviors,47,Platinum
+20465,AHE,SMTH - Phoenix Nirvana,100,Diamond
+20465,BHE,SMTH - Phoenix Nirvana,100,Diamond
+20465,CEB,SMTH - Phoenix Nirvana,100,Diamond
+20465,CHE,SMTH - Phoenix Nirvana,100,Diamond
+20465,DEB,SMTH - Phoenix Nirvana,100,Diamond
+20465,LWE,SMTH - Phoenix Nirvana,100,Diamond
+20465,MKD,SMTH - Phoenix Nirvana,100,Diamond
+20465,MWE,SMTH - Phoenix Nirvana,100,Diamond
+20465,NXE,SMTH - Phoenix Nirvana,100,Diamond
+20465,QHB,SMTH - Phoenix Nirvana,100,Diamond
+20465,RLD,SMTH - Phoenix Nirvana,100,Diamond
+20465,UHB,SMTH - Phoenix Nirvana,100,Diamond
+20465,VKD,SMTH - Phoenix Nirvana,100,Diamond
+20465,WHB,SMTH - Phoenix Nirvana,100,Diamond
+20465,XHB,SMTH - Phoenix Nirvana,100,Diamond
+20465,YKD,SMTH - Phoenix Nirvana,100,Diamond
+20465,ZHE,SMTH - Phoenix Nirvana,100,Diamond
+20501,AOB,Unity,87,Bronze
+20501,AQG,Unity,87,Bronze
+20501,FKF,Unity,87,Bronze
+20501,PNG,Unity,87,Bronze
+20501,RMB,Unity,87,Bronze
+20501,SMB,Unity,87,Bronze
+20501,UJA,Unity,87,Bronze
+20501,VJA,Unity,87,Bronze
+20501,WJA,Unity,87,Bronze
+20501,WMB,Unity,87,Bronze
+20501,XMB,Unity,87,Bronze
+20501,XOG,Unity,87,Bronze
+20501,YIA,Unity,87,Bronze
+20501,YMB,Unity,87,Bronze
+20501,ZIA,Unity,87,Bronze
+20554,AYC,Rising Reckoning,43,Platinum
+20554,CYC,Rising Reckoning,43,Platinum
+20554,FYC,Rising Reckoning,43,Platinum
+20554,OGG,Rising Reckoning,43,Platinum
+20554,PGG,Rising Reckoning,43,Platinum
+20554,PSE,Rising Reckoning,43,Platinum
+20554,STF,Rising Reckoning,43,Platinum
+20554,TGG,Rising Reckoning,43,Platinum
+20554,VGG,Rising Reckoning,43,Platinum
+20554,WGG,Rising Reckoning,43,Platinum
+20554,ZYC,Rising Reckoning,43,Platinum
+20659,ZMB,Luscious Estuary,90,Gold
+20747,ANF,Damage Inc,77,Diamond
+20747,HTF,Damage Inc,77,Diamond
+20747,ITF,Damage Inc,77,Diamond
+20747,JTF,Damage Inc,77,Diamond
+20747,KTF,Damage Inc,77,Diamond
+20747,LTF,Damage Inc,77,Diamond
+20747,NUF,Damage Inc,77,Diamond
+20747,PUF,Damage Inc,77,Diamond
+20747,ZNF,Damage Inc,77,Diamond
+21028,DHA,Nuclear Clinic,100,Unranked
+21028,EQB,Nuclear Clinic,100,Unranked
+21028,FQB,Nuclear Clinic,100,Unranked
+21028,HQB,Nuclear Clinic,100,Unranked
+21028,HRB,Nuclear Clinic,100,Unranked
+21028,IRB,Nuclear Clinic,100,Unranked
+21028,MLF,Nuclear Clinic,100,Unranked
+21028,OLF,Nuclear Clinic,100,Unranked
+21028,PMF,Nuclear Clinic,100,Unranked
+21028,PQB,Nuclear Clinic,100,Unranked
+21028,QYB,Nuclear Clinic,100,Unranked
+21028,RQB,Nuclear Clinic,100,Unranked
+21028,SKF,Nuclear Clinic,100,Unranked
+21028,SQB,Nuclear Clinic,100,Unranked
+21028,VOG,Nuclear Clinic,100,Unranked
+21028,WOG,Nuclear Clinic,100,Unranked
+21028,YHA,Nuclear Clinic,100,Unranked
+21040,NRC,Monarch Vanguard,56,Platinum
+21040,RRC,Monarch Vanguard,56,Platinum
+21234,HPE,Underground Nation,80,Platinum
+21234,IPE,Underground Nation,80,Platinum
+21234,KPE,Underground Nation,80,Platinum
+21234,LPE,Underground Nation,80,Platinum
+21234,OWF,Underground Nation,80,Platinum
+21234,PWF,Underground Nation,80,Platinum
+21234,SQE,Underground Nation,80,Platinum
+21234,SWF,Underground Nation,80,Platinum
+21234,TWF,Underground Nation,80,Platinum
+21234,UPE,Underground Nation,80,Platinum
+21234,UWF,Underground Nation,80,Platinum
+21234,VPE,Underground Nation,80,Platinum
+21234,WPE,Underground Nation,80,Platinum
+21234,XPE,Underground Nation,80,Platinum
+21368,GPF,Escensio Incursus,99,Diamond
+21368,GVG,Escensio Incursus,99,Diamond
+21368,HPF,Escensio Incursus,99,Diamond
+21368,HVG,Escensio Incursus,99,Diamond
+21368,IMD,Escensio Incursus,99,Diamond
+21368,KMD,Escensio Incursus,99,Diamond
+21368,KPF,Escensio Incursus,99,Diamond
+21368,LMD,Escensio Incursus,99,Diamond
+21368,NNE,Escensio Incursus,99,Diamond
+21368,NWG,Escensio Incursus,99,Diamond
+21368,PVG,Escensio Incursus,99,Diamond
+21368,QNE,Escensio Incursus,99,Diamond
+21368,SNE,Escensio Incursus,99,Diamond
+21368,TNE,Escensio Incursus,99,Diamond
+21368,WYG,Escensio Incursus,99,Diamond
+21368,YYG,Escensio Incursus,99,Diamond
+21526,CRD,NS Bomb Shelter,100,Bronze
+21526,DLC,NS Bomb Shelter,100,Bronze
+21526,DTE,NS Bomb Shelter,100,Bronze
+21526,ELC,NS Bomb Shelter,100,Bronze
+21526,EQD,NS Bomb Shelter,100,Bronze
+21526,ETE,NS Bomb Shelter,100,Bronze
+21526,FMC,NS Bomb Shelter,100,Bronze
+21526,GJF,NS Bomb Shelter,100,Bronze
+21526,GLC,NS Bomb Shelter,100,Bronze
+21526,LOD,NS Bomb Shelter,100,Bronze
+21526,MIC,NS Bomb Shelter,100,Bronze
+21526,MPD,NS Bomb Shelter,100,Bronze
+21526,NOE,NS Bomb Shelter,100,Bronze
+21526,NQD,NS Bomb Shelter,100,Bronze
+21526,SND,NS Bomb Shelter,100,Bronze
+21526,SQD,NS Bomb Shelter,100,Bronze
+21665,BCA,Monarch Army of Light,97,Diamond
+21665,CCG,Monarch Army of Light,97,Diamond
+21665,DCA,Monarch Army of Light,97,Diamond
+21665,EBA,Monarch Army of Light,97,Diamond
+21665,LBA,Monarch Army of Light,97,Diamond
+21665,MBA,Monarch Army of Light,97,Diamond
+21665,QBA,Monarch Army of Light,97,Diamond
+21665,QDG,Monarch Army of Light,97,Diamond
+21665,QJB,Monarch Army of Light,97,Diamond
+21665,RJB,Monarch Army of Light,97,Diamond
+21665,UBA,Monarch Army of Light,97,Diamond
+21665,WCG,Monarch Army of Light,97,Diamond
+21665,XXF,Monarch Army of Light,97,Diamond
+21665,YXF,Monarch Army of Light,97,Diamond
+21665,ZBA,Monarch Army of Light,97,Diamond
+21716,BNE,The Covenant,93,Platinum
+21716,CNE,The Covenant,93,Platinum
+21716,CXC,The Covenant,93,Platinum
+21716,DYC,The Covenant,93,Platinum
+21716,EYC,The Covenant,93,Platinum
+21716,HYC,The Covenant,93,Platinum
+21716,MTF,The Covenant,93,Platinum
+21716,NXC,The Covenant,93,Platinum
+21716,OUF,The Covenant,93,Platinum
+21716,QUF,The Covenant,93,Platinum
+21716,TYC,The Covenant,93,Platinum
+21716,VSE,The Covenant,93,Platinum
+21716,YSE,The Covenant,93,Platinum
+21716,YXC,The Covenant,93,Platinum
+21716,ZXC,The Covenant,93,Platinum
+22295,ACD,Aquarius,92,Diamond
+22295,BED,Aquarius,92,Diamond
+22295,CAD,Aquarius,92,Diamond
+22295,CJD,Aquarius,92,Diamond
+22295,DAD,Aquarius,92,Diamond
+22295,DDE,Aquarius,92,Diamond
+22295,DGD,Aquarius,92,Diamond
+22295,EID,Aquarius,92,Diamond
+22295,GOE,Aquarius,92,Diamond
+22295,HBE,Aquarius,92,Diamond
+22295,HOE,Aquarius,92,Diamond
+22295,IOE,Aquarius,92,Diamond
+22295,JOF,Aquarius,92,Diamond
+22295,KOF,Aquarius,92,Diamond
+22295,MGD,Aquarius,92,Diamond
+22295,XHD,Aquarius,92,Diamond
+22295,YGD,Aquarius,92,Diamond
+22492,AWD,Dystopia,82,Platinum
+22492,BCE,Dystopia,82,Platinum
+22492,BXD,Dystopia,82,Platinum
+22492,DCE,Dystopia,82,Platinum
+22492,ECE,Dystopia,82,Platinum
+22492,GUD,Dystopia,82,Platinum
+22492,JVD,Dystopia,82,Platinum
+22492,QYD,Dystopia,82,Platinum
+22492,TVD,Dystopia,82,Platinum
+22492,TXD,Dystopia,82,Platinum
+22492,TYD,Dystopia,82,Platinum
+22492,WVD,Dystopia,82,Platinum
+22492,YWD,Dystopia,82,Platinum
+22492,ZWD,Dystopia,82,Platinum
+22631,LAB,Halos Pulse,97,Bronze
+22631,SBB,Halos Pulse,97,Bronze
+22631,WBB,Halos Pulse,97,Bronze
+22631,XBB,Halos Pulse,97,Bronze
+22680,JSE,39th Street Chillers,96,Silver
+22680,MZC,39th Street Chillers,96,Silver
+22680,OAC,39th Street Chillers,96,Silver
+22680,SBC,39th Street Chillers,96,Silver
+22691,MQF,MW - Beyond Valhalla,54,Bronze
+22781,AAE,The Wolverines,101,Diamond
+22781,BAE,The Wolverines,101,Diamond
+22781,DND,The Wolverines,101,Diamond
+22781,ETD,The Wolverines,101,Diamond
+22781,GSD,The Wolverines,101,Diamond
+22781,IMC,The Wolverines,101,Diamond
+22781,ISD,The Wolverines,101,Diamond
+22781,JPD,The Wolverines,101,Diamond
+22781,JQD,The Wolverines,101,Diamond
+22781,LLE,The Wolverines,101,Diamond
+22781,MJE,The Wolverines,101,Diamond
+22781,SSD,The Wolverines,101,Diamond
+22781,SVD,The Wolverines,101,Diamond
+22781,TRD,The Wolverines,101,Diamond
+22781,WSD,The Wolverines,101,Diamond
+22781,XSD,The Wolverines,101,Diamond
+22887,BVF,Resilience,100,Platinum
+22887,EVF,Resilience,100,Platinum
+22887,HVF,Resilience,100,Platinum
+22887,WVF,Resilience,100,Platinum
+22887,XVF,Resilience,100,Platinum
+22887,YVF,Resilience,100,Platinum
+22887,ZVF,Resilience,100,Platinum
+23188,AUE,Reign of Confusion,99,Unranked
+23188,DHC,Reign of Confusion,99,Unranked
+23188,FXF,Reign of Confusion,99,Unranked
+23188,LME,Reign of Confusion,99,Unranked
+23188,QUE,Reign of Confusion,99,Unranked
+23188,RUE,Reign of Confusion,99,Unranked
+23188,SUE,Reign of Confusion,99,Unranked
+23188,TUE,Reign of Confusion,99,Unranked
+23188,UDG,Reign of Confusion,99,Unranked
+23188,UUE,Reign of Confusion,99,Unranked
+23188,VUE,Reign of Confusion,99,Unranked
+23188,WDG,Reign of Confusion,99,Unranked
+23188,WUE,Reign of Confusion,99,Unranked
+23188,XDG,Reign of Confusion,99,Unranked
+23188,XUE,Reign of Confusion,99,Unranked
+23188,YDG,Reign of Confusion,99,Unranked
+23188,YUE,Reign of Confusion,99,Unranked
+23193,ABA,Materia,53,Gold
+23193,ECG,Materia,53,Gold
+23193,HCA,Materia,53,Gold
+23193,JWF,Materia,53,Gold
+23193,KCA,Materia,53,Gold
+23193,KWF,Materia,53,Gold
+23193,LWF,Materia,53,Gold
+23193,MWF,Materia,53,Gold
+23193,PDA,Materia,53,Gold
+23193,SJB,Materia,53,Gold
+23952,ATG,Midnight Plague,74,Platinum
+23952,BYG,Midnight Plague,74,Platinum
+23952,EZG,Midnight Plague,74,Platinum
+23952,GZG,Midnight Plague,74,Platinum
+23952,JYG,Midnight Plague,74,Platinum
+23952,KYG,Midnight Plague,74,Platinum
+23952,OZG,Midnight Plague,74,Platinum
+23952,PZG,Midnight Plague,74,Platinum
+23952,QZG,Midnight Plague,74,Platinum
+23952,STG,Midnight Plague,74,Platinum
+23952,VTG,Midnight Plague,74,Platinum
+23952,WZG,Midnight Plague,74,Platinum
+23952,YTG,Midnight Plague,74,Platinum
+24106,AQF,The Almanac,15,Platinum
+24106,BWB,The Almanac,15,Platinum
+24106,CWB,The Almanac,15,Platinum
+24106,DWB,The Almanac,15,Platinum
+24622,RUF,-RaiRay-,72,Unranked
+24622,VVC,-RaiRay-,72,Unranked
+25001,ACC,The Red Knights,96,Platinum
+25001,ADC,The Red Knights,96,Platinum
+25001,BDC,The Red Knights,96,Platinum
+25001,CDC,The Red Knights,96,Platinum
+25001,FDC,The Red Knights,96,Platinum
+25001,GCC,The Red Knights,96,Platinum
+25001,GDC,The Red Knights,96,Platinum
+25001,HBC,The Red Knights,96,Platinum
+25001,MDC,The Red Knights,96,Platinum
+25001,NCC,The Red Knights,96,Platinum
+25001,RFC,The Red Knights,96,Platinum
+25001,SCC,The Red Knights,96,Platinum
+25001,SDC,The Red Knights,96,Platinum
+25001,TDC,The Red Knights,96,Platinum
+25001,ZCC,The Red Knights,96,Platinum
+25025,ECC,DP Warriors,100,Diamond
+25025,FFC,DP Warriors,100,Diamond
+25025,HEC,DP Warriors,100,Diamond
+25025,ICC,DP Warriors,100,Diamond
+25025,IFC,DP Warriors,100,Diamond
+25025,INE,DP Warriors,100,Diamond
+25025,JDC,DP Warriors,100,Diamond
+25025,KDC,DP Warriors,100,Diamond
+25025,KEC,DP Warriors,100,Diamond
+25025,NDC,DP Warriors,100,Diamond
+25025,OGC,DP Warriors,100,Diamond
+25025,PTG,DP Warriors,100,Diamond
+25025,TCC,DP Warriors,100,Diamond
+25025,TME,DP Warriors,100,Diamond
+25025,VGC,DP Warriors,100,Diamond
+25025,VME,DP Warriors,100,Diamond
+25025,ZFC,DP Warriors,100,Diamond
+25874,BBC,Imminent Apocalypse,95,Unranked
+25874,CBC,Imminent Apocalypse,95,Unranked
+25874,DBC,Imminent Apocalypse,95,Unranked
+25874,EBC,Imminent Apocalypse,95,Unranked
+25874,FBC,Imminent Apocalypse,95,Unranked
+25874,OKB,Imminent Apocalypse,95,Unranked
+25874,OXF,Imminent Apocalypse,95,Unranked
+25874,PPE,Imminent Apocalypse,95,Unranked
+25874,QKB,Imminent Apocalypse,95,Unranked
+25874,RKB,Imminent Apocalypse,95,Unranked
+25874,RYF,Imminent Apocalypse,95,Unranked
+25874,SYF,Imminent Apocalypse,95,Unranked
+25874,TKB,Imminent Apocalypse,95,Unranked
+25874,VQE,Imminent Apocalypse,95,Unranked
+25874,WQE,Imminent Apocalypse,95,Unranked
+25874,XWF,Imminent Apocalypse,95,Unranked
+25874,YWF,Imminent Apocalypse,95,Unranked
+26043,ABD,War Crimes,19,Platinum
+26043,AOE,War Crimes,19,Platinum
+26043,AZD,War Crimes,19,Platinum
+26043,DYD,War Crimes,19,Platinum
+26043,FXD,War Crimes,19,Platinum
+26043,HAD,War Crimes,19,Platinum
+26043,IBD,War Crimes,19,Platinum
+26043,ODE,War Crimes,19,Platinum
+26043,OWD,War Crimes,19,Platinum
+26043,PWD,War Crimes,19,Platinum
+26043,QWD,War Crimes,19,Platinum
+26043,RCD,War Crimes,19,Platinum
+26043,SCD,War Crimes,19,Platinum
+26043,XCD,War Crimes,19,Platinum
+26043,YOE,War Crimes,19,Platinum
+26043,ZOE,War Crimes,19,Platinum
+26154,CVG,The Rifle Medics,95,Unranked
+26154,DUG,The Rifle Medics,95,Unranked
+26154,DVG,The Rifle Medics,95,Unranked
+26154,EVG,The Rifle Medics,95,Unranked
+26154,LVG,The Rifle Medics,95,Unranked
+26154,LYG,The Rifle Medics,95,Unranked
+26154,MYG,The Rifle Medics,95,Unranked
+26154,OMD,The Rifle Medics,95,Unranked
+26154,RVG,The Rifle Medics,95,Unranked
+26154,XXG,The Rifle Medics,95,Unranked
+26154,YXG,The Rifle Medics,95,Unranked
+26154,ZXG,The Rifle Medics,95,Unranked
+26312,ABC,JFK - Misfits,89,Gold
+26312,BAC,JFK - Misfits,89,Gold
+26312,EPE,JFK - Misfits,89,Gold
+26312,FPE,JFK - Misfits,89,Gold
+26312,JAC,JFK - Misfits,89,Gold
+26312,KAC,JFK - Misfits,89,Gold
+26312,KWC,JFK - Misfits,89,Gold
+26312,LBC,JFK - Misfits,89,Gold
+26312,MPE,JFK - Misfits,89,Gold
+26312,NQE,JFK - Misfits,89,Gold
+26312,OQE,JFK - Misfits,89,Gold
+26312,PQE,JFK - Misfits,89,Gold
+26312,QQE,JFK - Misfits,89,Gold
+26312,QWF,JFK - Misfits,89,Gold
+26312,RWF,JFK - Misfits,89,Gold
+26312,SPE,JFK - Misfits,89,Gold
+26312,WCC,JFK - Misfits,89,Gold
+26437,AIA,The Prowl,77,Platinum
+26437,DNG,The Prowl,77,Platinum
+26437,FNG,The Prowl,77,Platinum
+26437,FQC,The Prowl,77,Platinum
+26437,GQC,The Prowl,77,Platinum
+26437,IFB,The Prowl,77,Platinum
+26437,IQC,The Prowl,77,Platinum
+26437,JQG,The Prowl,77,Platinum
+26437,KQG,The Prowl,77,Platinum
+26437,LFB,The Prowl,77,Platinum
+26437,LMF,The Prowl,77,Platinum
+26437,MFB,The Prowl,77,Platinum
+26437,MZB,The Prowl,77,Platinum
+26437,QIA,The Prowl,77,Platinum
+26437,QKF,The Prowl,77,Platinum
+26437,WIA,The Prowl,77,Platinum
+26437,XHA,The Prowl,77,Platinum
+26885,AMC,NPO - Valour,95,Bronze
+26885,LGE,NPO - Valour,95,Bronze
+26885,NJC,NPO - Valour,95,Bronze
+26885,OHE,NPO - Valour,95,Bronze
+26885,OKC,NPO - Valour,95,Bronze
+26885,SHE,NPO - Valour,95,Bronze
+26885,SJC,NPO - Valour,95,Bronze
+26885,THE,NPO - Valour,95,Bronze
+26885,VHE,NPO - Valour,95,Bronze
+26885,VKC,NPO - Valour,95,Bronze
+26885,WHE,NPO - Valour,95,Bronze
+26885,WKC,NPO - Valour,95,Bronze
+26885,XHE,NPO - Valour,95,Bronze
+26885,YMC,NPO - Valour,95,Bronze
+27223,ASC,Stompers,98,Diamond
+27223,AUC,Stompers,98,Diamond
+27223,BSC,Stompers,98,Diamond
+27223,DTC,Stompers,98,Diamond
+27223,DUC,Stompers,98,Diamond
+27223,GTC,Stompers,98,Diamond
+27223,HTC,Stompers,98,Diamond
+27223,ITC,Stompers,98,Diamond
+27223,JTC,Stompers,98,Diamond
+27223,JUC,Stompers,98,Diamond
+27223,QSC,Stompers,98,Diamond
+27223,USC,Stompers,98,Diamond
+27223,WSC,Stompers,98,Diamond
+27223,WUC,Stompers,98,Diamond
+27223,XSC,Stompers,98,Diamond
+27223,YSC,Stompers,98,Diamond
+27223,ZSC,Stompers,98,Diamond
+27312,BSE,SA Succession,100,Diamond
+27312,GBC,SA Succession,100,Diamond
+27312,GSG,SA Succession,100,Diamond
+27312,HSG,SA Succession,100,Diamond
+27312,HWC,SA Succession,100,Diamond
+27312,ISG,SA Succession,100,Diamond
+27312,LSG,SA Succession,100,Diamond
+27312,MSG,SA Succession,100,Diamond
+27312,NTG,SA Succession,100,Diamond
+27312,NYC,SA Succession,100,Diamond
+27312,OYC,SA Succession,100,Diamond
+27312,PYC,SA Succession,100,Diamond
+27312,RME,SA Succession,100,Diamond
+27312,UAC,SA Succession,100,Diamond
+27312,WSE,SA Succession,100,Diamond
+27312,XSE,SA Succession,100,Diamond
+27370,AYB,Desert Eagle,68,Platinum
+27370,BMF,Desert Eagle,68,Platinum
+27370,BYB,Desert Eagle,68,Platinum
+27370,CYB,Desert Eagle,68,Platinum
+27370,DYB,Desert Eagle,68,Platinum
+27370,EZB,Desert Eagle,68,Platinum
+27370,FZB,Desert Eagle,68,Platinum
+27370,QAB,Desert Eagle,68,Platinum
+27370,QHA,Desert Eagle,68,Platinum
+27370,RAB,Desert Eagle,68,Platinum
+27370,SAB,Desert Eagle,68,Platinum
+27370,SXB,Desert Eagle,68,Platinum
+27370,SYB,Desert Eagle,68,Platinum
+27370,TAB,Desert Eagle,68,Platinum
+27370,UAB,Desert Eagle,68,Platinum
+27370,VAB,Desert Eagle,68,Platinum
+27370,ZYB,Desert Eagle,68,Platinum
+27458,QAC,The Black Hand: Legacy,18,Bronze
+27458,SAC,The Black Hand: Legacy,18,Bronze
+27458,TAC,The Black Hand: Legacy,18,Bronze
+27554,KPB,Luscious Healers,64,Silver
+27554,LOB,Luscious Healers,64,Silver
+27554,LPB,Luscious Healers,64,Silver
+27554,MKF,Luscious Healers,64,Silver
+27554,UIA,Luscious Healers,64,Silver
+27902,ANG,SMTH - Concord,95,Platinum
+27902,BNG,SMTH - Concord,95,Platinum
+27902,HQG,SMTH - Concord,95,Platinum
+27902,INC,SMTH - Concord,95,Platinum
+27902,JNC,SMTH - Concord,95,Platinum
+27902,LNC,SMTH - Concord,95,Platinum
+27902,MOC,SMTH - Concord,95,Platinum
+27902,NOC,SMTH - Concord,95,Platinum
+27902,QPC,SMTH - Concord,95,Platinum
+27902,RPC,SMTH - Concord,95,Platinum
+27902,SPC,SMTH - Concord,95,Platinum
+27902,TPC,SMTH - Concord,95,Platinum
+27902,VPC,SMTH - Concord,95,Platinum
+27902,WPC,SMTH - Concord,95,Platinum
+27902,XNG,SMTH - Concord,95,Platinum
+28073,DSE,Shiny Hoard Avian Team,72,Platinum
+28073,FXC,Shiny Hoard Avian Team,72,Platinum
+28073,GXC,Shiny Hoard Avian Team,72,Platinum
+28073,LRE,Shiny Hoard Avian Team,72,Platinum
+28073,MRE,Shiny Hoard Avian Team,72,Platinum
+28073,MYC,Shiny Hoard Avian Team,72,Platinum
+28073,URF,Shiny Hoard Avian Team,72,Platinum
+28073,VRF,Shiny Hoard Avian Team,72,Platinum
+28073,YNE,Shiny Hoard Avian Team,72,Platinum
+28073,ZNE,Shiny Hoard Avian Team,72,Platinum
+28349,AVC,Dexter&#039;s Laboratory,92,Diamond
+28349,BQF,Dexter&#039;s Laboratory,92,Diamond
+28349,BVC,Dexter&#039;s Laboratory,92,Diamond
+28349,CVC,Dexter&#039;s Laboratory,92,Diamond
+28349,DVC,Dexter&#039;s Laboratory,92,Diamond
+28349,ERE,Dexter&#039;s Laboratory,92,Diamond
+28349,EVC,Dexter&#039;s Laboratory,92,Diamond
+28349,FRE,Dexter&#039;s Laboratory,92,Diamond
+28349,FVC,Dexter&#039;s Laboratory,92,Diamond
+28349,JVC,Dexter&#039;s Laboratory,92,Diamond
+28349,MVC,Dexter&#039;s Laboratory,92,Diamond
+28349,NVC,Dexter&#039;s Laboratory,92,Diamond
+28349,QVC,Dexter&#039;s Laboratory,92,Diamond
+28349,WVC,Dexter&#039;s Laboratory,92,Diamond
+28349,XVC,Dexter&#039;s Laboratory,92,Diamond
+28349,YVC,Dexter&#039;s Laboratory,92,Diamond
+28349,ZVC,Dexter&#039;s Laboratory,92,Diamond
+29865,CME,WTF Ducks,97,Platinum
+29865,DGE,WTF Ducks,97,Platinum
+29865,DME,WTF Ducks,97,Platinum
+29865,EGE,WTF Ducks,97,Platinum
+29865,EME,WTF Ducks,97,Platinum
+29865,FME,WTF Ducks,97,Platinum
+29865,GME,WTF Ducks,97,Platinum
+29865,HGE,WTF Ducks,97,Platinum
+29865,KME,WTF Ducks,97,Platinum
+29865,PHC,WTF Ducks,97,Platinum
+29865,QJC,WTF Ducks,97,Platinum
+29865,RHC,WTF Ducks,97,Platinum
+29865,TJF,WTF Ducks,97,Platinum
+29865,UJF,WTF Ducks,97,Platinum
+29865,VGE,WTF Ducks,97,Platinum
+29865,XGE,WTF Ducks,97,Platinum
+29865,YGE,WTF Ducks,97,Platinum
+30009,ACE,White Rabbits,97,Diamond
+30009,BUD,White Rabbits,97,Diamond
+30009,GOD,White Rabbits,97,Diamond
+30009,JRD,White Rabbits,97,Diamond
+30009,NGE,White Rabbits,97,Diamond
+30009,NUD,White Rabbits,97,Diamond
+30009,UVD,White Rabbits,97,Diamond
+30009,VCE,White Rabbits,97,Diamond
+30009,VQD,White Rabbits,97,Diamond
+30009,VSD,White Rabbits,97,Diamond
+30009,WCE,White Rabbits,97,Diamond
+30009,XCE,White Rabbits,97,Diamond
+30009,YCE,White Rabbits,97,Diamond
+30009,ZCE,White Rabbits,97,Diamond
+30085,EFG,Wargasm HQ,60,Platinum
+30085,NTF,Wargasm HQ,60,Platinum
+30085,QSE,Wargasm HQ,60,Platinum
+30085,RSE,Wargasm HQ,60,Platinum
+30085,UTF,Wargasm HQ,60,Platinum
+30085,VTF,Wargasm HQ,60,Platinum
+30085,XGG,Wargasm HQ,60,Platinum
+30085,YGG,Wargasm HQ,60,Platinum
+30584,AJA,Disorderly Conduct,28,Platinum
+30584,BJA,Disorderly Conduct,28,Platinum
+30584,CJA,Disorderly Conduct,28,Platinum
+30584,DPG,Disorderly Conduct,28,Platinum
+30584,EJA,Disorderly Conduct,28,Platinum
+30584,RJA,Disorderly Conduct,28,Platinum
+30584,VIA,Disorderly Conduct,28,Platinum
+30584,XJA,Disorderly Conduct,28,Platinum
+30584,YJA,Disorderly Conduct,28,Platinum
+30584,ZJA,Disorderly Conduct,28,Platinum
+30584,ZKF,Disorderly Conduct,28,Platinum
+30820,BHA,Wolverines Resurrected,90,Platinum
+30820,GHA,Wolverines Resurrected,90,Platinum
+30820,JFB,Wolverines Resurrected,90,Platinum
+30820,KFB,Wolverines Resurrected,90,Platinum
+30820,LZB,Wolverines Resurrected,90,Platinum
+30820,MGB,Wolverines Resurrected,90,Platinum
+30820,NAB,Wolverines Resurrected,90,Platinum
+30820,NHA,Wolverines Resurrected,90,Platinum
+30820,NHB,Wolverines Resurrected,90,Platinum
+30820,OAB,Wolverines Resurrected,90,Platinum
+30820,OHB,Wolverines Resurrected,90,Platinum
+30820,PHA,Wolverines Resurrected,90,Platinum
+30820,PHB,Wolverines Resurrected,90,Platinum
+30820,VHB,Wolverines Resurrected,90,Platinum
+30820,XZB,Wolverines Resurrected,90,Platinum
+30820,YGB,Wolverines Resurrected,90,Platinum
+30820,ZGB,Wolverines Resurrected,90,Platinum
+31397,IXG,The Rifle Hotel,57,Bronze
+31397,JXG,The Rifle Hotel,57,Bronze
+31397,LXG,The Rifle Hotel,57,Bronze
+31412,XAC,Error [404],24,Silver
+31412,YAC,Error [404],24,Silver
+31764,AGE,39th Street Warriors,98,Platinum
+31764,BGE,39th Street Warriors,98,Platinum
+31764,BHC,39th Street Warriors,98,Platinum
+31764,FGE,39th Street Warriors,98,Platinum
+31764,FIC,39th Street Warriors,98,Platinum
+31764,GGE,39th Street Warriors,98,Platinum
+31764,GIC,39th Street Warriors,98,Platinum
+31764,IKC,39th Street Warriors,98,Platinum
+31764,IRD,39th Street Warriors,98,Platinum
+31764,JXF,39th Street Warriors,98,Platinum
+31764,KXF,39th Street Warriors,98,Platinum
+31764,NOD,39th Street Warriors,98,Platinum
+31764,QQD,39th Street Warriors,98,Platinum
+31764,TOD,39th Street Warriors,98,Platinum
+31764,TQD,39th Street Warriors,98,Platinum
+32395,ACA,-Aurora-,96,Gold
+32395,BCG,-Aurora-,96,Gold
+32395,DCG,-Aurora-,96,Gold
+32395,FCG,-Aurora-,96,Gold
+32395,GCA,-Aurora-,96,Gold
+32395,QDA,-Aurora-,96,Gold
+32395,SDA,-Aurora-,96,Gold
+32395,TDA,-Aurora-,96,Gold
+32395,ZCA,-Aurora-,96,Gold
+33007,AJF,HAKA,68,Platinum
+33007,CJF,HAKA,68,Platinum
+33007,EEC,HAKA,68,Platinum
+33007,GGC,HAKA,68,Platinum
+33007,GJC,HAKA,68,Platinum
+33007,JKC,HAKA,68,Platinum
+33007,KLE,HAKA,68,Platinum
+33007,MLE,HAKA,68,Platinum
+33007,OAE,HAKA,68,Platinum
+33007,OLC,HAKA,68,Platinum
+33007,PPD,HAKA,68,Platinum
+33007,SGC,HAKA,68,Platinum
+33007,STE,HAKA,68,Platinum
+33007,UEC,HAKA,68,Platinum
+33007,UKC,HAKA,68,Platinum
+33007,YFC,HAKA,68,Platinum
+33007,ZRE,HAKA,68,Platinum
+33097,DCD,Occultus,88,Platinum
+33097,EED,Occultus,88,Platinum
+33097,GHE,Occultus,88,Platinum
+33097,JDG,Occultus,88,Platinum
+33097,JXE,Occultus,88,Platinum
+33097,KXE,Occultus,88,Platinum
+33097,LHE,Occultus,88,Platinum
+33097,NYE,Occultus,88,Platinum
+33097,QED,Occultus,88,Platinum
+33097,RYE,Occultus,88,Platinum
+33097,TYE,Occultus,88,Platinum
+33097,UYE,Occultus,88,Platinum
+33097,VYE,Occultus,88,Platinum
+33097,WYE,Occultus,88,Platinum
+33241,APF,Nub Navy,98,Diamond
+33241,BRG,Nub Navy,98,Diamond
+33241,BUC,Nub Navy,98,Diamond
+33241,DRG,Nub Navy,98,Diamond
+33241,ERG,Nub Navy,98,Diamond
+33241,FRG,Nub Navy,98,Diamond
+33241,GRG,Nub Navy,98,Diamond
+33241,HRG,Nub Navy,98,Diamond
+33241,IRG,Nub Navy,98,Diamond
+33241,JRG,Nub Navy,98,Diamond
+33241,KUC,Nub Navy,98,Diamond
+33241,LRG,Nub Navy,98,Diamond
+33241,MRG,Nub Navy,98,Diamond
+33241,NSG,Nub Navy,98,Diamond
+33241,SUC,Nub Navy,98,Diamond
+33241,WPF,Nub Navy,98,Diamond
+33241,XPF,Nub Navy,98,Diamond
+33458,CIC,SA House of Mischief,98,Platinum
+33458,KKC,SA House of Mischief,98,Platinum
+33458,NMC,SA House of Mischief,98,Platinum
+33458,OMC,SA House of Mischief,98,Platinum
+33458,QKC,SA House of Mischief,98,Platinum
+33458,QLC,SA House of Mischief,98,Platinum
+33458,SHC,SA House of Mischief,98,Platinum
+33458,TJC,SA House of Mischief,98,Platinum
+33458,UJC,SA House of Mischief,98,Platinum
+33458,UMC,SA House of Mischief,98,Platinum
+33458,VJC,SA House of Mischief,98,Platinum
+33458,YLC,SA House of Mischief,98,Platinum
+33783,CNF,Impulse,91,Bronze
+33783,DNF,Impulse,91,Bronze
+33783,IWC,Impulse,91,Bronze
+33783,JUF,Impulse,91,Bronze
+33783,JVF,Impulse,91,Bronze
+33783,KUF,Impulse,91,Bronze
+33783,KVF,Impulse,91,Bronze
+33783,LVF,Impulse,91,Bronze
+33783,MUF,Impulse,91,Bronze
+34247,VKA,Veloce,29,Gold
+35090,EGA,Desert Phoenix,38,Gold
+35090,ELA,Desert Phoenix,38,Gold
+35090,FGA,Desert Phoenix,38,Gold
+35090,GGA,Desert Phoenix,38,Gold
+35090,IGA,Desert Phoenix,38,Gold
+35090,OPB,Desert Phoenix,38,Gold
+35090,RHA,Desert Phoenix,38,Gold
+35090,RPB,Desert Phoenix,38,Gold
+35090,SHA,Desert Phoenix,38,Gold
+35090,THA,Desert Phoenix,38,Gold
+35090,TPB,Desert Phoenix,38,Gold
+35090,UCF,Desert Phoenix,38,Gold
+35090,VLA,Desert Phoenix,38,Gold
+35423,KFA,S.W.A.T,99,Bronze
+35423,OKF,S.W.A.T,99,Bronze
+35423,OZB,S.W.A.T,99,Bronze
+35423,PQG,S.W.A.T,99,Bronze
+35423,PZB,S.W.A.T,99,Bronze
+35423,QGA,S.W.A.T,99,Bronze
+35423,QQG,S.W.A.T,99,Bronze
+35423,QZB,S.W.A.T,99,Bronze
+35423,SMF,S.W.A.T,99,Bronze
+35423,SZB,S.W.A.T,99,Bronze
+35423,TZB,S.W.A.T,99,Bronze
+35423,UZB,S.W.A.T,99,Bronze
+35423,VSB,S.W.A.T,99,Bronze
+35423,WSB,S.W.A.T,99,Bronze
+35423,XSB,S.W.A.T,99,Bronze
+35507,ATC,The Nest,79,Gold
+35507,BTC,The Nest,79,Gold
+35507,CSC,The Nest,79,Gold
+35507,CTC,The Nest,79,Gold
+35507,DSC,The Nest,79,Gold
+35507,ETC,The Nest,79,Gold
+35507,LTC,The Nest,79,Gold
+35507,MTC,The Nest,79,Gold
+35507,QTC,The Nest,79,Gold
+35507,RTC,The Nest,79,Gold
+35507,STC,The Nest,79,Gold
+35507,TPG,The Nest,79,Gold
+35507,VPF,The Nest,79,Gold
+35507,VPG,The Nest,79,Gold
+35507,XTC,The Nest,79,Gold
+35507,YTC,The Nest,79,Gold
+35507,ZTC,The Nest,79,Gold
+35739,AWB,Kingsmen,61,Gold
+35739,PWB,Kingsmen,61,Gold
+35739,QWB,Kingsmen,61,Gold
+35739,RWB,Kingsmen,61,Gold
+35739,TWB,Kingsmen,61,Gold
+35739,UQF,Kingsmen,61,Gold
+35739,UWB,Kingsmen,61,Gold
+35739,VWB,Kingsmen,61,Gold
+35739,WWB,Kingsmen,61,Gold
+35739,YWB,Kingsmen,61,Gold
+35739,ZWB,Kingsmen,61,Gold
+35776,AYF,IA Black,50,Platinum
+35776,DAC,IA Black,50,Platinum
+35776,GZC,IA Black,50,Platinum
+35776,HZC,IA Black,50,Platinum
+35776,IAC,IA Black,50,Platinum
+35776,JZC,IA Black,50,Platinum
+35776,KZC,IA Black,50,Platinum
+35776,LZC,IA Black,50,Platinum
+35776,OYF,IA Black,50,Platinum
+35776,RXC,IA Black,50,Platinum
+35776,TZC,IA Black,50,Platinum
+35776,VLE,IA Black,50,Platinum
+35776,VXC,IA Black,50,Platinum
+35776,WLE,IA Black,50,Platinum
+35776,XLE,IA Black,50,Platinum
+35776,XOF,IA Black,50,Platinum
+35776,ZZC,IA Black,50,Platinum
+35840,ASE,Baby Champers,97,Gold
+35840,BYF,Baby Champers,97,Gold
+35840,CSE,Baby Champers,97,Gold
+35840,CYF,Baby Champers,97,Gold
+35840,DVF,Baby Champers,97,Gold
+35840,FVF,Baby Champers,97,Gold
+35840,IZC,Baby Champers,97,Gold
+35840,JWC,Baby Champers,97,Gold
+35840,PME,Baby Champers,97,Gold
+35840,QME,Baby Champers,97,Gold
+35840,RAC,Baby Champers,97,Gold
+35840,VYC,Baby Champers,97,Gold
+35840,ZSE,Baby Champers,97,Gold
+36134,BLB,SMTH - Silver Hand,93,Platinum
+36134,BRB,SMTH - Silver Hand,93,Platinum
+36134,DLB,SMTH - Silver Hand,93,Platinum
+36134,FPG,SMTH - Silver Hand,93,Platinum
+36134,ILB,SMTH - Silver Hand,93,Platinum
+36134,PRB,SMTH - Silver Hand,93,Platinum
+36134,SLF,SMTH - Silver Hand,93,Platinum
+36134,TLF,SMTH - Silver Hand,93,Platinum
+36134,ULF,SMTH - Silver Hand,93,Platinum
+36134,VLF,SMTH - Silver Hand,93,Platinum
+36134,WLF,SMTH - Silver Hand,93,Platinum
+36134,ZRB,SMTH - Silver Hand,93,Platinum
+36274,AND,Violent Resolution II,98,Platinum
+36274,BLC,Violent Resolution II,98,Platinum
+36274,CLC,Violent Resolution II,98,Platinum
+36274,CMC,Violent Resolution II,98,Platinum
+36274,LLC,Violent Resolution II,98,Platinum
+36274,OJC,Violent Resolution II,98,Platinum
+36274,PJC,Violent Resolution II,98,Platinum
+36274,TLC,Violent Resolution II,98,Platinum
+36274,VMC,Violent Resolution II,98,Platinum
+36274,WMC,Violent Resolution II,98,Platinum
+36274,ZJC,Violent Resolution II,98,Platinum
+36457,ADG,Warband of the Fallen,48,Gold
+36457,BDG,Warband of the Fallen,48,Gold
+36457,BUE,Warband of the Fallen,48,Gold
+36457,CUE,Warband of the Fallen,48,Gold
+36457,FJC,Warband of the Fallen,48,Gold
+36457,MXF,Warband of the Fallen,48,Gold
+36457,WJC,Warband of the Fallen,48,Gold
+36457,XJC,Warband of the Fallen,48,Gold
+36457,ZDG,Warband of the Fallen,48,Gold
+36457,ZIC,Warband of the Fallen,48,Gold
+36691,AIF,Rabid Chihuahuas,70,Bronze
+36691,CXF,Rabid Chihuahuas,70,Bronze
+36691,DXF,Rabid Chihuahuas,70,Bronze
+36691,EXF,Rabid Chihuahuas,70,Bronze
+36691,JBA,Rabid Chihuahuas,70,Bronze
+36691,KBA,Rabid Chihuahuas,70,Bronze
+36691,PIF,Rabid Chihuahuas,70,Bronze
+36691,XIF,Rabid Chihuahuas,70,Bronze
+36691,YIF,Rabid Chihuahuas,70,Bronze
+36691,ZIF,Rabid Chihuahuas,70,Bronze
+36693,EEA,S.W.A.T Academy,45,Platinum
+36693,FEA,S.W.A.T Academy,45,Platinum
+36693,GEA,S.W.A.T Academy,45,Platinum
+36693,HFA,S.W.A.T Academy,45,Platinum
+36693,IFA,S.W.A.T Academy,45,Platinum
+36693,JFA,S.W.A.T Academy,45,Platinum
+36693,SFA,S.W.A.T Academy,45,Platinum
+36693,TCF,S.W.A.T Academy,45,Platinum
+36693,YFA,S.W.A.T Academy,45,Platinum
+36693,YPG,S.W.A.T Academy,45,Platinum
+36891,AGB,FLATLINE,88,Platinum
+36891,BGB,FLATLINE,88,Platinum
+36891,CGB,FLATLINE,88,Platinum
+36891,CHA,FLATLINE,88,Platinum
+36891,DGB,FLATLINE,88,Platinum
+36891,EGB,FLATLINE,88,Platinum
+36891,EHA,FLATLINE,88,Platinum
+36891,FHA,FLATLINE,88,Platinum
+36891,GGB,FLATLINE,88,Platinum
+36891,HFB,FLATLINE,88,Platinum
+36891,KGB,FLATLINE,88,Platinum
+36891,KHA,FLATLINE,88,Platinum
+36891,PIA,FLATLINE,88,Platinum
+36891,UGB,FLATLINE,88,Platinum
+36891,VGB,FLATLINE,88,Platinum
+36891,WGB,FLATLINE,88,Platinum
+36891,XGB,FLATLINE,88,Platinum
+37185,AIC,Catch 22,83,Gold
+37185,AOD,Catch 22,83,Gold
+37185,ATE,Catch 22,83,Gold
+37185,CND,Catch 22,83,Gold
+37185,COD,Catch 22,83,Gold
+37185,JJC,Catch 22,83,Gold
+37185,JNE,Catch 22,83,Gold
+37185,KJC,Catch 22,83,Gold
+37185,KOD,Catch 22,83,Gold
+37185,LJC,Catch 22,83,Gold
+37185,LNE,Catch 22,83,Gold
+37185,LPD,Catch 22,83,Gold
+37185,MEC,Catch 22,83,Gold
+37185,OOE,Catch 22,83,Gold
+37185,PMC,Catch 22,83,Gold
+37426,AHA,Monarch Embassy,33,Platinum
+37426,APB,Monarch Embassy,33,Platinum
+37426,BQB,Monarch Embassy,33,Platinum
+37426,GRB,Monarch Embassy,33,Platinum
+37426,NQB,Monarch Embassy,33,Platinum
+37426,OHA,Monarch Embassy,33,Platinum
+37426,PRG,Monarch Embassy,33,Platinum
+37426,VCF,Monarch Embassy,33,Platinum
+37426,WHA,Monarch Embassy,33,Platinum
+37426,WPB,Monarch Embassy,33,Platinum
+37426,XPB,Monarch Embassy,33,Platinum
+37426,YPB,Monarch Embassy,33,Platinum
+37426,ZPB,Monarch Embassy,33,Platinum
+37450,CXG,Wargasm-DNA,49,Silver
+37450,DLD,Wargasm-DNA,49,Silver
+37450,DXG,Wargasm-DNA,49,Silver
+37450,EXG,Wargasm-DNA,49,Silver
+37450,VMD,Wargasm-DNA,49,Silver
+37450,WMD,Wargasm-DNA,49,Silver
+37450,XMD,Wargasm-DNA,49,Silver
+37498,BBD,The Railroad,84,Silver
+37498,HDE,The Railroad,84,Silver
+37498,IDE,The Railroad,84,Silver
+37498,JDE,The Railroad,84,Silver
+37498,JFD,The Railroad,84,Silver
+37498,KDE,The Railroad,84,Silver
+37498,LDD,The Railroad,84,Silver
+37786,FDB,Halos Momentum,71,Platinum
+37786,GDB,Halos Momentum,71,Platinum
+37786,HDB,Halos Momentum,71,Platinum
+37786,LDB,Halos Momentum,71,Platinum
+37786,MMA,Halos Momentum,71,Platinum
+37786,OMA,Halos Momentum,71,Platinum
+37786,PMA,Halos Momentum,71,Platinum
+37786,QMA,Halos Momentum,71,Platinum
+37786,UMA,Halos Momentum,71,Platinum
+37786,VMA,Halos Momentum,71,Platinum
+37786,WMA,Halos Momentum,71,Platinum
+37786,XMA,Halos Momentum,71,Platinum
+37786,YMA,Halos Momentum,71,Platinum
+37786,ZMA,Halos Momentum,71,Platinum
+37803,DUD,PT-PimpTuga,44,Platinum
+38481,DIB,LIFELINE,97,Bronze
+38481,EIB,LIFELINE,97,Bronze
+38481,FIB,LIFELINE,97,Bronze
+38481,HHB,LIFELINE,97,Bronze
+38481,JHB,LIFELINE,97,Bronze
+38481,KHB,LIFELINE,97,Bronze
+38481,NIB,LIFELINE,97,Bronze
+38481,OIB,LIFELINE,97,Bronze
+38481,PIB,LIFELINE,97,Bronze
+38481,TIB,LIFELINE,97,Bronze
+38481,VIB,LIFELINE,97,Bronze
+38532,QXF,The People Vs VaflioG,28,Unranked
+38532,RXF,The People Vs VaflioG,28,Unranked
+38532,WXF,The People Vs VaflioG,28,Unranked
+38634,NIE,Takut Bini Army of Light,18,Platinum
+38634,PXE,Takut Bini Army of Light,18,Platinum
+38668,AWC,Valhalla - Barna,94,Bronze
+38668,EWC,Valhalla - Barna,94,Bronze
+38668,FUF,Valhalla - Barna,94,Bronze
+38668,GUF,Valhalla - Barna,94,Bronze
+38668,GWC,Valhalla - Barna,94,Bronze
+38668,HUF,Valhalla - Barna,94,Bronze
+38668,WWC,Valhalla - Barna,94,Bronze
+38668,XWC,Valhalla - Barna,94,Bronze
+38668,YWC,Valhalla - Barna,94,Bronze
+38668,ZWC,Valhalla - Barna,94,Bronze
+38675,GOB,The Legion of Evil,35,Bronze
+38761,CZG,Shadow Healers,76,Bronze
+38761,DZG,Shadow Healers,76,Bronze
+38761,FZG,Shadow Healers,76,Bronze
+38761,HZG,Shadow Healers,76,Bronze
+38761,IZG,Shadow Healers,76,Bronze
+38761,LZG,Shadow Healers,76,Bronze
+38761,NAG,Shadow Healers,76,Bronze
+38761,QAG,Shadow Healers,76,Bronze
+38761,SAG,Shadow Healers,76,Bronze
+38761,TAG,Shadow Healers,76,Bronze
+38761,TUG,Shadow Healers,76,Bronze
+38761,UTG,Shadow Healers,76,Bronze
+38761,UUG,Shadow Healers,76,Bronze
+38761,VUG,Shadow Healers,76,Bronze
+38761,VZG,Shadow Healers,76,Bronze
+38761,WTG,Shadow Healers,76,Bronze
+38761,XZG,Shadow Healers,76,Bronze
+39226,JZF,Samurai Uprising*,61,Silver
+39226,MZF,Samurai Uprising*,61,Silver
+39226,NAF,Samurai Uprising*,61,Silver
+39226,QAF,Samurai Uprising*,61,Silver
+39226,RAF,Samurai Uprising*,61,Silver
+39226,UAF,Samurai Uprising*,61,Silver
+39549,GYB,Good Guys,50,Gold
+39549,HYB,Good Guys,50,Gold
+39549,IBF,Good Guys,50,Gold
+39549,IYB,Good Guys,50,Gold
+39549,JYB,Good Guys,50,Gold
+39549,QLB,Good Guys,50,Gold
+39549,TYB,Good Guys,50,Gold
+39549,UYB,Good Guys,50,Gold
+39549,VGA,Good Guys,50,Gold
+39549,VYB,Good Guys,50,Gold
+39549,WYB,Good Guys,50,Gold
+39549,XCF,Good Guys,50,Gold
+39549,XYB,Good Guys,50,Gold
+39756,AFD,Abusement Park,98,Platinum
+39756,DXE,Abusement Park,98,Platinum
+39756,EXE,Abusement Park,98,Platinum
+39756,FDG,Abusement Park,98,Platinum
+39756,FIE,Abusement Park,98,Platinum
+39756,FXE,Abusement Park,98,Platinum
+39756,GIE,Abusement Park,98,Platinum
+39756,GXE,Abusement Park,98,Platinum
+39756,MED,Abusement Park,98,Platinum
+39756,UXE,Abusement Park,98,Platinum
+39756,VXE,Abusement Park,98,Platinum
+39756,WIE,Abusement Park,98,Platinum
+39756,XFD,Abusement Park,98,Platinum
+39756,ZFD,Abusement Park,98,Platinum
+39781,TNF,Zenith Rising,14,Platinum
+39788,CAA,Cerberus,82,Platinum
+39788,IUB,Cerberus,82,Platinum
+39788,KBG,Cerberus,82,Platinum
+39788,LUB,Cerberus,82,Platinum
+39788,MUB,Cerberus,82,Platinum
+39788,NVB,Cerberus,82,Platinum
+39788,OVB,Cerberus,82,Platinum
+39788,QVB,Cerberus,82,Platinum
+39788,RCG,Cerberus,82,Platinum
+40334,ALE,Sentinels,36,Platinum
+40334,BLE,Sentinels,36,Platinum
+40334,DXC,Sentinels,36,Platinum
+40334,EDG,Sentinels,36,Platinum
+40334,ESE,Sentinels,36,Platinum
+40334,EZC,Sentinels,36,Platinum
+40334,FZC,Sentinels,36,Platinum
+40334,NZC,Sentinels,36,Platinum
+40334,PBC,Sentinels,36,Platinum
+40334,SZC,Sentinels,36,Platinum
+40334,YLE,Sentinels,36,Platinum
+40334,ZLE,Sentinels,36,Platinum
+40399,AVD,WIT-Mayhem,88,Gold
+40399,FCE,WIT-Mayhem,88,Gold
+40399,GCE,WIT-Mayhem,88,Gold
+40399,GXD,WIT-Mayhem,88,Gold
+40399,HCE,WIT-Mayhem,88,Gold
+40399,JCE,WIT-Mayhem,88,Gold
+40399,KCE,WIT-Mayhem,88,Gold
+40399,LCE,WIT-Mayhem,88,Gold
+40399,LZD,WIT-Mayhem,88,Gold
+40399,MCE,WIT-Mayhem,88,Gold
+40399,MDE,WIT-Mayhem,88,Gold
+40399,MZD,WIT-Mayhem,88,Gold
+40399,PAD,WIT-Mayhem,88,Gold
+40399,SAD,WIT-Mayhem,88,Gold
+40399,TAD,WIT-Mayhem,88,Gold
+40399,ZYD,WIT-Mayhem,88,Gold
+40420,CQD,Too Sober for this Shit,94,Platinum
+40420,DKC,Too Sober for this Shit,94,Platinum
+40420,FOD,Too Sober for this Shit,94,Platinum
+40420,HND,Too Sober for this Shit,94,Platinum
+40420,NEG,Too Sober for this Shit,94,Platinum
+40420,TND,Too Sober for this Shit,94,Platinum
+40420,VLC,Too Sober for this Shit,94,Platinum
+40420,VND,Too Sober for this Shit,94,Platinum
+40420,WIC,Too Sober for this Shit,94,Platinum
+40420,WLC,Too Sober for this Shit,94,Platinum
+40420,XND,Too Sober for this Shit,94,Platinum
+40420,YDE,Too Sober for this Shit,94,Platinum
+40449,VRC,Razers,93,Bronze
+40518,CXE,Monarch Optimus,66,Gold
+40518,KID,Monarch Optimus,66,Gold
+40518,LXE,Monarch Optimus,66,Gold
+40518,MHE,Monarch Optimus,66,Gold
+40518,MXE,Monarch Optimus,66,Gold
+40518,OXE,Monarch Optimus,66,Gold
+40518,OYE,Monarch Optimus,66,Gold
+40518,QYE,Monarch Optimus,66,Gold
+40518,RXE,Monarch Optimus,66,Gold
+40518,SXE,Monarch Optimus,66,Gold
+40518,XXE,Monarch Optimus,66,Gold
+40518,YXE,Monarch Optimus,66,Gold
+40518,ZXE,Monarch Optimus,66,Gold
+40624,BCC,Toxic Reign,79,Platinum
+40624,EFC,Toxic Reign,79,Platinum
+40624,JGC,Toxic Reign,79,Platinum
+40624,KGC,Toxic Reign,79,Platinum
+40624,KNE,Toxic Reign,79,Platinum
+40624,LAC,Toxic Reign,79,Platinum
+40624,MBC,Toxic Reign,79,Platinum
+40624,NME,Toxic Reign,79,Platinum
+40624,OHC,Toxic Reign,79,Platinum
+40624,SME,Toxic Reign,79,Platinum
+40624,UBC,Toxic Reign,79,Platinum
+40624,UCC,Toxic Reign,79,Platinum
+40624,WDC,Toxic Reign,79,Platinum
+40624,YBC,Toxic Reign,79,Platinum
+40624,ZBC,Toxic Reign,79,Platinum
+40774,FGF,Pennywise Clown Posse,94,Gold
+40774,GGF,Pennywise Clown Posse,94,Gold
+40774,KJF,Pennywise Clown Posse,94,Gold
+40774,RHF,Pennywise Clown Posse,94,Gold
+40774,SHF,Pennywise Clown Posse,94,Gold
+40774,WHF,Pennywise Clown Posse,94,Gold
+40774,XHF,Pennywise Clown Posse,94,Gold
+40774,YGF,Pennywise Clown Posse,94,Gold
+40774,YHF,Pennywise Clown Posse,94,Gold
+40775,CHB,WarDogs HQ,86,Platinum
+40775,DHB,WarDogs HQ,86,Platinum
+40775,EHB,WarDogs HQ,86,Platinum
+40775,FHB,WarDogs HQ,86,Platinum
+40775,IHB,WarDogs HQ,86,Platinum
+40775,JGB,WarDogs HQ,86,Platinum
+40775,LGB,WarDogs HQ,86,Platinum
+40775,LHB,WarDogs HQ,86,Platinum
+40775,MHB,WarDogs HQ,86,Platinum
+40775,RHB,WarDogs HQ,86,Platinum
+40775,RJF,WarDogs HQ,86,Platinum
+40775,SHB,WarDogs HQ,86,Platinum
+40775,SJF,WarDogs HQ,86,Platinum
+40775,THB,WarDogs HQ,86,Platinum
+40775,YHB,WarDogs HQ,86,Platinum
+40775,ZHB,WarDogs HQ,86,Platinum
+40775,ZQG,WarDogs HQ,86,Platinum
+40951,CSF,TBA-Rise Again,59,Silver
+40951,NSE,TBA-Rise Again,59,Silver
+40992,BVD,Medic!!,98,Diamond
+40992,CVD,Medic!!,98,Diamond
+40992,DVD,Medic!!,98,Diamond
+40992,DWD,Medic!!,98,Diamond
+40992,GVE,Medic!!,98,Diamond
+40992,HRD,Medic!!,98,Diamond
+40992,HTD,Medic!!,98,Diamond
+40992,IQD,Medic!!,98,Diamond
+40992,JTD,Medic!!,98,Diamond
+40992,LSD,Medic!!,98,Diamond
+40992,OPD,Medic!!,98,Diamond
+40992,QSD,Medic!!,98,Diamond
+40992,RSD,Medic!!,98,Diamond
+40992,RWD,Medic!!,98,Diamond
+40992,SWD,Medic!!,98,Diamond
+40992,TSD,Medic!!,98,Diamond
+40992,UUD,Medic!!,98,Diamond
+41028,BGC,DP Medics,22,Platinum
+41067,NCE,Houdini,52,Platinum
+41225,KAF,PT-erodactyls,35,Platinum
+41225,LAF,PT-erodactyls,35,Platinum
+41225,PIC,PT-erodactyls,35,Platinum
+41225,QBF,PT-erodactyls,35,Platinum
+41225,QIC,PT-erodactyls,35,Platinum
+41225,RBF,PT-erodactyls,35,Platinum
+41225,TBF,PT-erodactyls,35,Platinum
+41234,AKF,Peaky CS,39,Platinum
+41234,FJA,Peaky CS,39,Platinum
+41234,HJA,Peaky CS,39,Platinum
+41234,IJA,Peaky CS,39,Platinum
+41234,JJA,Peaky CS,39,Platinum
+41234,KJA,Peaky CS,39,Platinum
+41234,LJA,Peaky CS,39,Platinum
+41234,MJA,Peaky CS,39,Platinum
+41234,NKA,Peaky CS,39,Platinum
+41234,QKA,Peaky CS,39,Platinum
+41363,BCB,WIT-Revolution,51,Silver
+41363,CCB,WIT-Revolution,51,Silver
+41363,DCB,WIT-Revolution,51,Silver
+41363,ECB,WIT-Revolution,51,Silver
+41363,FCB,WIT-Revolution,51,Silver
+41363,HCB,WIT-Revolution,51,Silver
+41363,ZCB,WIT-Revolution,51,Silver
+41593,LGG,TBA - Marauders,10,Gold
+41620,BYC,Wargasm Revival Medicare,33,Gold
+41620,TTF,Wargasm Revival Medicare,33,Gold
+41620,UYC,Wargasm Revival Medicare,33,Gold
+41620,YYC,Wargasm Revival Medicare,33,Gold
+41768,ATD,Aces Elite,92,Platinum
+41768,JND,Aces Elite,92,Platinum
+41768,PRD,Aces Elite,92,Platinum
+41768,RQD,Aces Elite,92,Platinum
+41768,RUD,Aces Elite,92,Platinum
+41768,URD,Aces Elite,92,Platinum
+41768,VPD,Aces Elite,92,Platinum
+41768,WDE,Aces Elite,92,Platinum
+41768,WTD,Aces Elite,92,Platinum
+41768,XDE,Aces Elite,92,Platinum
+41768,YOD,Aces Elite,92,Platinum
+41768,YRD,Aces Elite,92,Platinum
+41768,ZUD,Aces Elite,92,Platinum
+41775,HDD,PT-Torntuga,26,Platinum
+41775,IAD,PT-Torntuga,26,Platinum
+41775,KTE,PT-Torntuga,26,Platinum
+41775,MBD,PT-Torntuga,26,Platinum
+41775,PCD,PT-Torntuga,26,Platinum
+41775,SED,PT-Torntuga,26,Platinum
+41775,VDD,PT-Torntuga,26,Platinum
+41853,CFD,Blood Money,82,Gold
+41853,JID,Blood Money,82,Gold
+41853,MID,Blood Money,82,Gold
+41853,NHD,Blood Money,82,Gold
+41853,OCE,Blood Money,82,Gold
+41853,PID,Blood Money,82,Gold
+41853,QCE,Blood Money,82,Gold
+41853,TGD,Blood Money,82,Gold
+41853,VGD,Blood Money,82,Gold
+41853,WLD,Blood Money,82,Gold
+41853,XLD,Blood Money,82,Gold
+41853,YJD,Blood Money,82,Gold
+41929,AEE,Valor,95,Diamond
+41929,CEE,Valor,95,Diamond
+41929,DEE,Valor,95,Diamond
+41929,ESB,Valor,95,Diamond
+41929,HPG,Valor,95,Diamond
+41929,HSB,Valor,95,Diamond
+41929,ISB,Valor,95,Diamond
+41929,NEA,Valor,95,Diamond
+41929,OEA,Valor,95,Diamond
+41929,RAD,Valor,95,Diamond
+41929,WPG,Valor,95,Diamond
+41929,XPG,Valor,95,Diamond
+41929,YEA,Valor,95,Diamond
+41929,YEE,Valor,95,Diamond
+41929,ZEE,Valor,95,Diamond
+42055,LCB,Dead Fragment,41,Platinum
+42055,LIA,Dead Fragment,41,Platinum
+42055,TOB,Dead Fragment,41,Platinum
+42055,UOB,Dead Fragment,41,Platinum
+42113,XKF,TEs_t!.@&#039;,27,Bronze
+42125,AME,ODB,95,Diamond
+42125,AUD,ODB,95,Diamond
+42125,CSD,ODB,95,Diamond
+42125,DQD,ODB,95,Diamond
+42125,DSD,ODB,95,Diamond
+42125,GJE,ODB,95,Diamond
+42125,GVD,ODB,95,Diamond
+42125,HVE,ODB,95,Diamond
+42125,MTD,ODB,95,Diamond
+42125,PGE,ODB,95,Diamond
+42125,PXD,ODB,95,Diamond
+42125,QVD,ODB,95,Diamond
+42125,QXD,ODB,95,Diamond
+42125,SUD,ODB,95,Diamond
+42125,VVD,ODB,95,Diamond
+42125,XTD,ODB,95,Diamond
+42125,XWD,ODB,95,Diamond
+42263,HXD,Happy Vegemites,58,Silver
+42435,BBB,Nub Army,53,Platinum
+42435,CAF,Nub Army,53,Platinum
+42435,CBB,Nub Army,53,Platinum
+42435,EBB,Nub Army,53,Platinum
+42435,FBB,Nub Army,53,Platinum
+42435,GBB,Nub Army,53,Platinum
+42435,HBB,Nub Army,53,Platinum
+42435,JBB,Nub Army,53,Platinum
+42435,KBB,Nub Army,53,Platinum
+42435,LBF,Nub Army,53,Platinum
+42435,NDB,Nub Army,53,Platinum
+42435,ODB,Nub Army,53,Platinum
+42435,RDB,Nub Army,53,Platinum
+42435,SDB,Nub Army,53,Platinum
+42435,WBF,Nub Army,53,Platinum
+42435,XBF,Nub Army,53,Platinum
+42435,YBF,Nub Army,53,Platinum
+42505,AFG,BoW - Hidden Shadows,78,Gold
+42505,FFG,BoW - Hidden Shadows,78,Gold
+42505,GFG,BoW - Hidden Shadows,78,Gold
+42505,RFG,BoW - Hidden Shadows,78,Gold
+42505,SSF,BoW - Hidden Shadows,78,Gold
+42650,ADA,The Night’s Watch,73,Gold
+42650,BDA,The Night’s Watch,73,Gold
+42650,GCG,The Night’s Watch,73,Gold
+42650,HCG,The Night’s Watch,73,Gold
+42650,IDA,The Night’s Watch,73,Gold
+42650,JFF,The Night’s Watch,73,Gold
+42650,KFF,The Night’s Watch,73,Gold
+42650,LDA,The Night’s Watch,73,Gold
+42650,LFF,The Night’s Watch,73,Gold
+42650,STB,The Night’s Watch,73,Gold
+42650,TTB,The Night’s Watch,73,Gold
+42650,UTB,The Night’s Watch,73,Gold
+42650,VDA,The Night’s Watch,73,Gold
+42650,VTB,The Night’s Watch,73,Gold
+42650,WTB,The Night’s Watch,73,Gold
+42650,XDA,The Night’s Watch,73,Gold
+42650,YDA,The Night’s Watch,73,Gold
+42671,AAB,The Hellfire Club,62,Gold
+42671,BAB,The Hellfire Club,62,Gold
+42671,BGA,The Hellfire Club,62,Gold
+42671,CMF,The Hellfire Club,62,Gold
+42671,DGA,The Hellfire Club,62,Gold
+42671,GMF,The Hellfire Club,62,Gold
+42671,HMF,The Hellfire Club,62,Gold
+42671,PJF,The Hellfire Club,62,Gold
+42671,QJF,The Hellfire Club,62,Gold
+42671,WAB,The Hellfire Club,62,Gold
+42671,XGA,The Hellfire Club,62,Gold
+42671,YAB,The Hellfire Club,62,Gold
+42671,YQG,The Hellfire Club,62,Gold
+42671,ZGA,The Hellfire Club,62,Gold
+42685,HAF,WarDogs Outpost,38,Platinum
+42685,IBB,WarDogs Outpost,38,Platinum
+42685,TDB,WarDogs Outpost,38,Platinum
+42685,UDB,WarDogs Outpost,38,Platinum
+42685,UEB,WarDogs Outpost,38,Platinum
+42685,VDB,WarDogs Outpost,38,Platinum
+42685,VEB,WarDogs Outpost,38,Platinum
+42685,WEB,WarDogs Outpost,38,Platinum
+42685,XDB,WarDogs Outpost,38,Platinum
+42685,XEB,WarDogs Outpost,38,Platinum
+42741,PMB,Black  Lotus  Society,21,Platinum
+42741,QMB,Black  Lotus  Society,21,Platinum
+42741,TMB,Black  Lotus  Society,21,Platinum
+42741,UMB,Black  Lotus  Society,21,Platinum
+42741,VMB,Black  Lotus  Society,21,Platinum
+43325,EAE,Crime Syndicate,95,Platinum
+43325,EPD,Crime Syndicate,95,Platinum
+43325,ERD,Crime Syndicate,95,Platinum
+43325,KRD,Crime Syndicate,95,Platinum
+43325,LUD,Crime Syndicate,95,Platinum
+43325,NBE,Crime Syndicate,95,Platinum
+43325,PBE,Crime Syndicate,95,Platinum
+43325,QBE,Crime Syndicate,95,Platinum
+43325,RBE,Crime Syndicate,95,Platinum
+43325,SBE,Crime Syndicate,95,Platinum
+43325,VBE,Crime Syndicate,95,Platinum
+43325,WBE,Crime Syndicate,95,Platinum
+43325,WRD,Crime Syndicate,95,Platinum
+43325,ZQD,Crime Syndicate,95,Platinum
+43325,ZTD,Crime Syndicate,95,Platinum
+43785,PYF,IA Bunker,18,Bronze
+43785,QYF,IA Bunker,18,Bronze
+43785,VZC,IA Bunker,18,Bronze
+43785,WYF,IA Bunker,18,Bronze
+43785,ZYF,IA Bunker,18,Bronze
+44092,TTG,Chaos Theory,25,Platinum
+44376,PPB,The Fellowship Warriors,33,Gold
+44445,AKB,Combat Ready HQ,39,Gold
+44445,BKB,Combat Ready HQ,39,Gold
+44445,BPB,Combat Ready HQ,39,Gold
+44445,CKB,Combat Ready HQ,39,Gold
+44445,CPB,Combat Ready HQ,39,Gold
+44445,DPB,Combat Ready HQ,39,Gold
+44445,EPB,Combat Ready HQ,39,Gold
+44445,FPB,Combat Ready HQ,39,Gold
+44445,GPB,Combat Ready HQ,39,Gold
+44445,HPB,Combat Ready HQ,39,Gold
+44445,PSB,Combat Ready HQ,39,Gold
+44445,ZKB,Combat Ready HQ,39,Gold
+44625,KAA,Black Mirrors,35,Gold
+44746,IYG,Chromatic Sloths,24,Platinum
+44758,ASG,NPO - Prosperity,92,Platinum
+44758,CSG,NPO - Prosperity,92,Platinum
+44758,EKC,NPO - Prosperity,92,Platinum
+44758,FHC,NPO - Prosperity,92,Platinum
+44758,FNE,NPO - Prosperity,92,Platinum
+44758,HFC,NPO - Prosperity,92,Platinum
+44758,HLE,NPO - Prosperity,92,Platinum
+44758,KFC,NPO - Prosperity,92,Platinum
+44758,OFC,NPO - Prosperity,92,Platinum
+44758,QDC,NPO - Prosperity,92,Platinum
+44758,RDC,NPO - Prosperity,92,Platinum
+44758,RJC,NPO - Prosperity,92,Platinum
+44758,UGC,NPO - Prosperity,92,Platinum
+44758,ZDC,NPO - Prosperity,92,Platinum
+44758,ZWF,NPO - Prosperity,92,Platinum
+44762,AIB,Monarch Retardation,48,Platinum
+44762,CDD,Monarch Retardation,48,Platinum
+44762,CIE,Monarch Retardation,48,Platinum
+44762,DHE,Monarch Retardation,48,Platinum
+44762,DIE,Monarch Retardation,48,Platinum
+44762,DYE,Monarch Retardation,48,Platinum
+44762,EHE,Monarch Retardation,48,Platinum
+44762,EOE,Monarch Retardation,48,Platinum
+44762,IIE,Monarch Retardation,48,Platinum
+44762,JWE,Monarch Retardation,48,Platinum
+44762,NRG,Monarch Retardation,48,Platinum
+44762,OFD,Monarch Retardation,48,Platinum
+44762,WED,Monarch Retardation,48,Platinum
+44762,WGD,Monarch Retardation,48,Platinum
+44762,WRE,Monarch Retardation,48,Platinum
+44762,ZIB,Monarch Retardation,48,Platinum
+44865,IFG,Violent Resolution,80,Platinum
+44865,JFG,Violent Resolution,80,Platinum
+44865,KFG,Violent Resolution,80,Platinum
+44865,LFG,Violent Resolution,80,Platinum
+44865,MFG,Violent Resolution,80,Platinum
+44865,NGG,Violent Resolution,80,Platinum
+44865,PTF,Violent Resolution,80,Platinum
+44865,QTF,Violent Resolution,80,Platinum
+44865,QYC,Violent Resolution,80,Platinum
+44865,RTF,Violent Resolution,80,Platinum
+44865,WYC,Violent Resolution,80,Platinum
+45040,BKA,AXE,26,Gold
+45040,YKA,AXE,26,Gold
+45040,ZKA,AXE,26,Gold
+45415,FTE,PT-SunnyVale,36,Platinum
+45415,HTE,PT-SunnyVale,36,Platinum
+45415,ITE,PT-SunnyVale,36,Platinum
+45415,JTE,PT-SunnyVale,36,Platinum
+45415,VBF,PT-SunnyVale,36,Platinum
+45415,YAD,PT-SunnyVale,36,Platinum
+45415,YYD,PT-SunnyVale,36,Platinum
+45415,YZD,PT-SunnyVale,36,Platinum
+46127,WXE,Cyber Warfare,32,Gold
+46442,BZD,The Resolute,100,Platinum
+46442,CTD,The Resolute,100,Platinum
+46442,CUD,The Resolute,100,Platinum
+46442,IUD,The Resolute,100,Platinum
+46442,IZD,The Resolute,100,Platinum
+46442,JWD,The Resolute,100,Platinum
+46442,KWD,The Resolute,100,Platinum
+46442,LWD,The Resolute,100,Platinum
+46442,MWD,The Resolute,100,Platinum
+46442,QUD,The Resolute,100,Platinum
+46442,RVD,The Resolute,100,Platinum
+46442,SZD,The Resolute,100,Platinum
+46570,CDA,INSANITY X,91,Silver
+46570,DDA,INSANITY X,91,Silver
+46570,WDA,INSANITY X,91,Silver
+46666,AMD,Fluffy Kittens Inc.,42,Platinum
+46666,BDF,Fluffy Kittens Inc.,42,Platinum
+46666,CDF,Fluffy Kittens Inc.,42,Platinum
+46666,HDF,Fluffy Kittens Inc.,42,Platinum
+46666,LCF,Fluffy Kittens Inc.,42,Platinum
+46666,MCF,Fluffy Kittens Inc.,42,Platinum
+46666,NDF,Fluffy Kittens Inc.,42,Platinum
+46666,PDF,Fluffy Kittens Inc.,42,Platinum
+46666,SDF,Fluffy Kittens Inc.,42,Platinum
+46708,APD,The Revenant,96,Gold
+46708,BKC,The Revenant,96,Gold
+46708,BPD,The Revenant,96,Gold
+46708,CPD,The Revenant,96,Gold
+46708,IOD,The Revenant,96,Gold
+46708,RIC,The Revenant,96,Gold
+46708,SAF,The Revenant,96,Gold
+46708,TAF,The Revenant,96,Gold
+46708,UOE,The Revenant,96,Gold
+46708,VIC,The Revenant,96,Gold
+46708,WAF,The Revenant,96,Gold
+46708,WND,The Revenant,96,Gold
+46708,XAF,The Revenant,96,Gold
+46978,GTE,PT-Slinkys,38,Platinum
+47042,SWB,Shrooms of Doom,18,Gold
+47238,HAB,The Midnight Club,47,Bronze
+47238,IAB,The Midnight Club,47,Bronze
+47238,JAB,The Midnight Club,47,Bronze
+47238,WGA,The Midnight Club,47,Bronze
+47238,ZAB,The Midnight Club,47,Bronze
+47710,MAF,PT-GuemLand,26,Platinum
+47710,NBF,PT-GuemLand,26,Platinum
+47710,SBF,PT-GuemLand,26,Platinum
+47760,KND,Ninjas In Rehab,21,Platinum
+47760,LND,Ninjas In Rehab,21,Platinum
+47760,NYF,Ninjas In Rehab,21,Platinum
+47878,LHA,Righteous Aura,32,Gold
+47878,MHA,Righteous Aura,32,Gold
+47878,OJF,Righteous Aura,32,Gold
+47878,PXB,Righteous Aura,32,Gold
+48077,AAC,Champagne Killers,12,Gold
+48077,KCC,Champagne Killers,12,Gold
+48077,OME,Champagne Killers,12,Gold
+48112,ETF,Triple X,22,Silver
+48112,FTF,Triple X,22,Silver
+48112,GTF,Triple X,22,Silver
+48112,VNF,Triple X,22,Silver
+48112,WNF,Triple X,22,Silver
+48112,XNF,Triple X,22,Silver
+48112,YNF,Triple X,22,Silver
+48140,OBF,The Revenant Reserve,71,Silver
+48140,PBF,The Revenant Reserve,71,Silver
+48140,VAF,The Revenant Reserve,71,Silver
+48184,LIF,Soulless Mafia,62,Gold
+48184,WGF,Soulless Mafia,62,Gold
+48184,XGF,Soulless Mafia,62,Gold
+48184,ZGF,Soulless Mafia,62,Gold
+48640,RNB,Phoenix Ascent,47,Gold
+48640,SNB,Phoenix Ascent,47,Gold
+48640,TNB,Phoenix Ascent,47,Gold
+48640,UNB,Phoenix Ascent,47,Gold
+48680,RCE,BlackWatch,37,Platinum
+48718,OKA,Peaky CS II,13,Platinum
+48718,SKA,Peaky CS II,13,Platinum
+48912,ADB,BLOODLINE,99,Bronze
+48912,BDB,BLOODLINE,99,Bronze
+48912,CDB,BLOODLINE,99,Bronze
+48912,DDB,BLOODLINE,99,Bronze
+48912,EDB,BLOODLINE,99,Bronze
+48912,IDB,BLOODLINE,99,Bronze
+48912,OEB,BLOODLINE,99,Bronze
+48912,PEB,BLOODLINE,99,Bronze
+48912,YDB,BLOODLINE,99,Bronze
+48912,ZDB,BLOODLINE,99,Bronze
+49090,AQE,Valhalla - Laekna,20,Bronze
+49090,IUF,Valhalla - Laekna,20,Bronze
+49147,CEA,Gladiators,21,Gold
+49147,CSB,Gladiators,21,Gold
+49147,DEA,Gladiators,21,Gold
+49147,DSB,Gladiators,21,Gold
+49147,HEA,Gladiators,21,Gold
+49147,IEA,Gladiators,21,Gold
+49147,KEA,Gladiators,21,Gold
+49147,LEA,Gladiators,21,Gold
+49147,MEA,Gladiators,21,Gold
+49147,PCF,Gladiators,21,Gold
+49147,ZEA,Gladiators,21,Gold
+49297,OMB,Shaggy Hi-Fidelity,15,Platinum
+49297,ONG,Shaggy Hi-Fidelity,15,Platinum
+49297,SJA,Shaggy Hi-Fidelity,15,Platinum
+49297,WKF,Shaggy Hi-Fidelity,15,Platinum
+49473,EUF,Valhalla - Pillagers,20,Gold
+49561,JQF,The Four Twenty H-V-F,14,Platinum
+49561,KQF,The Four Twenty H-V-F,14,Platinum
+49763,ENE,Brotherhood of Darkness,30,Gold
+49763,XCC,Brotherhood of Darkness,30,Gold
+49805,PEE,Just DU it!,12,Silver
+49899,TUB,Iron Rose Rogue Squadron,22,Bronze
+49953,FSF,BoW - 4.20,33,Platinum
+49953,GSF,BoW - 4.20,33,Platinum
+49953,HSF,BoW - 4.20,33,Platinum
+50613,MBG,BRC   Supreme,12,Platinum
+50613,PCG,BRC   Supreme,12,Platinum
+50890,ITD,Wartopia,45,Platinum
+50890,JSD,Wartopia,45,Platinum
+50890,PSD,Wartopia,45,Platinum
+50890,SRE,Wartopia,45,Platinum
+51559,MBF,ALBA,75,Bronze
+51559,PJD,ALBA,75,Bronze
+51559,QXE,ALBA,75,Bronze
+51559,TXE,ALBA,75,Bronze
+51708,GBA,Tribunal Global Network,31,Silver
+51708,HBA,Tribunal Global Network,31,Silver
+51708,PXF,Tribunal Global Network,31,Silver
+51926,APE,Inglorious Basterds,24,Platinum
+51926,GPE,Inglorious Basterds,24,Platinum
+51926,JPE,Inglorious Basterds,24,Platinum
+51926,YPE,Inglorious Basterds,24,Platinum
+51926,ZPE,Inglorious Basterds,24,Platinum
